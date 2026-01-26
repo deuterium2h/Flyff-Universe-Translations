@@ -296,7 +296,7 @@ CHARACTER_INC_000771,Charlie,Charlie
 CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Gestionnaire de Maison de Guilde] Lousiana
 CHARACTER_INC_000773,Santa,Père Noël
 CHARACTER_INC_100044,Diosa,Diosa
-CHARACTER_INC_100200,Kalgas Assault Manager,Kalgas Assault Manager
+CHARACTER_INC_100200,Kalgas Assault Manager,Responsable de l'Assaut de Klagas
 CHARACTER_INC_003200,[Personal House NPC] Casanova,[PNJ Personnel] Casanova
 CHARACTER_INC_003201,[Personal House NPC] Misun,[PNJ Personnel] Misun
 CHARACTER_INC_003202,[Personal House NPC] Punk,[PNJ Personnel] Punk
@@ -358,17 +358,17 @@ CHARACTER_INC_000778,Anna,Anna
 CHARACTER_INC_000779,Sea Shell,Coquillage
 CHARACTER_INC_000780,Mr. Flyff,Mr. Flyff
 CHARACTER_INC_000781,[Event] Roger,[Event] Roger
-CHARACTER_INC_003250,[Personal House NPC] Klock,[Personal House NPC] Klock
-CHARACTER_INC_100103,[Messenger of Love] Cupid,[Messenger of Love] Cupid
-CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[Personal House NPC] Mac (F Grade)
-CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[Personal House NPC] Mac (E Grade)
-CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[Personal House NPC] Mac (D Grade)
-CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[Personal House NPC] Mac (C Grade)
-CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[Personal House NPC] Mac (B Grade)
-CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[Personal House NPC] Mac (A Grade)
-CHARACTER_INC_140000,Couple Rings,Couple Rings
-CHARACTER_INC_100104,[Life Master] Livi,[Life Master] Livi
-CHARACTER_INC_100105,Gathering Tool,Gathering Tool
+CHARACTER_INC_003250,[Personal House NPC] Klock,[PNJ Personnel] Klock
+CHARACTER_INC_100103,[Messenger of Love] Cupid,[Messager de l'amour] Cupid
+CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[PNJ Personnel] Mac (F Grade)
+CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[PNJ Personnel] Mac (E Grade)
+CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[PNJ Personnel] Mac (D Grade)
+CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[PNJ Personnel] Mac (C Grade)
+CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[PNJ Personnel] Mac (B Grade)
+CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[PNJ Personnel] Mac (A Grade)
+CHARACTER_INC_140000,Couple Rings,Anneaux de couple
+CHARACTER_INC_100104,[Life Master] Livi,[Maître de la Vie] Livi
+CHARACTER_INC_100105,Gathering Tool,Outil de collecte
 CHARACTER_INC_100106,Sovann,Sovann
 CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
 CHARACTER_INC_100108,Hyuna,Hyuna
@@ -381,25 +381,25 @@ CHARACTER_INC_150003,[Airport Guard] Bran,[Airport Guard] Bran
 CHARACTER_INC_150004,[Airport Guard] Karr,[Airport Guard] Karr
 CHARACTER_INC_150005,[Airport Guard] Zerke,[Airport Guard] Zerke
 CHARACTER_INC_150006,[Airport Guard] Elin,[Airport Guard] Elin
-CHARACTER_INC_150007,[Eillun Guard] Gard,[Eillun Guard] Gard
-CHARACTER_INC_150008,[Eillun Guard] Liont,[Eillun Guard] Liont
-CHARACTER_INC_150009,[Eillun Guard] Serkan,[Eillun Guard] Serkan
-CHARACTER_INC_150010,[Eillun Guard] Kras,[Eillun Guard] Kras
-CHARACTER_INC_150011,[Eillun Guard] Maeron,[Eillun Guard] Maeron
-CHARACTER_INC_150012,[Eillun Guard] Kerion,[Eillun Guard] Kerion
-CHARACTER_INC_150013,[Eillun Guard] Raon,[Eillun Guard] Raon
-CHARACTER_INC_150014,[Eillun Guard] Dreon,[Eillun Guard] Dreon
-CHARACTER_INC_150015,[Eillun Guard] Merk,[Eillun Guard] Merk
-CHARACTER_INC_150016,[Captain] Baron,[Captain] Baron
+CHARACTER_INC_150007,[Eillun Guard] Gard,[Garde d'Eillun] Gard
+CHARACTER_INC_150008,[Eillun Guard] Liont,[Garde d'Eillun] Liont
+CHARACTER_INC_150009,[Eillun Guard] Serkan,[Garde d'Eillun] Serkan
+CHARACTER_INC_150010,[Eillun Guard] Kras,[Garde d'Eillun] Kras
+CHARACTER_INC_150011,[Eillun Guard] Maeron,[Garde d'Eillun] Maeron
+CHARACTER_INC_150012,[Eillun Guard] Kerion,[Garde d'Eillun] Kerion
+CHARACTER_INC_150013,[Eillun Guard] Raon,[Garde d'Eillun] Raon
+CHARACTER_INC_150014,[Eillun Guard] Dreon,[Garde d'Eillun] Dreon
+CHARACTER_INC_150015,[Eillun Guard] Merk,[Garde d'Eillun] Merk
+CHARACTER_INC_150016,[Captain] Baron,[Capitaine] Baron
 CHARACTER_INC_150017,Jarl,Jarl
 CHARACTER_INC_150018,[Elder] Ayr,[Elder] Ayr
-CHARACTER_INC_150019,[Elder] Traitus,[Elder] Traitus
-CHARACTER_INC_150020,[Elder] Melak,[Elder] Melak
+CHARACTER_INC_150019,[Elder] Traitus,[Elder] Melak
+CHARACTER_INC_150020,[Elder] Melak,[Elder] Traitus
 CHARACTER_INC_150021,[Elder] Silar,[Elder] Silar
 CHARACTER_INC_150022,[Elder] Ebron,[Elder] Ebron
 CHARACTER_INC_150023,[Elder] Luteon,[Elder] Luteon
 CHARACTER_INC_150024,Liana,Liana
-CHARACTER_INC_150025,[Jewel Manager] Teron,[Jewel Manager] Teron
+CHARACTER_INC_150025,[Jewel Manager] Teron,[Joaillier] Teron
 CHARACTER_INC_150026,Haret,Haret
 CHARACTER_INC_150027,Domir,Domir
 CHARACTER_INC_150028,Toran,Toran
@@ -415,16 +415,16 @@ CHARACTER_INC_150037,Lumi,Lumi
 CHARACTER_INC_150038,Ivelyn,Ivelyn
 CHARACTER_INC_150039,Selin,Selin
 CHARACTER_INC_150040,Kaela,Kaela
-CHARACTER_INC_150041,[Pet Tamer] Livia,[Pet Tamer] Livia
+CHARACTER_INC_150041,[Pet Tamer] Livia,[Éleveur de familier] Livia
 CHARACTER_INC_150042,Taila,Taila
 CHARACTER_INC_150043,Weevs,Weevs
 CHARACTER_INC_150044,[Mysterious] ??? ,[Mysterious] ??? 
-CHARACTER_INC_150045,[Expedition] Beck,[Expedition] Beck
-CHARACTER_INC_150046,Asylum Guard,Asylum Guard
-CHARACTER_INC_150047,Mysterious Adventurer,Mysterious Adventurer
+CHARACTER_INC_150045,[Expedition] Beck,[Expédition] Beck
+CHARACTER_INC_150046,Asylum Guard,Guarde de l'asile d'Ankou
+CHARACTER_INC_150047,Mysterious Adventurer,Aventurier mystérieux
 CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
 CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev
 CHARACTER_INC_150050,Miorang,Miorang
-CHARACTER_INC_150051,[Post Office] Cheirang,[Post Office] Cheirang
-CHARACTER_INC_150052,[Village Chief] Huntrang,Huntran
-CHARACTER_INC_150053,[Arena Manager] Aerin,[Arena Manager] Aerin
+CHARACTER_INC_150051,[Post Office] Cheirang,[Bureau de poste] Cheirang
+CHARACTER_INC_150052,[Village Chief] Huntrang,[Chef du village] Huntran
+CHARACTER_INC_150053,[Arena Manager] Aerin,[Chef de l'Arène] Aerin
