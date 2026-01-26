@@ -1,17 +1,17 @@
-﻿#b Race Rules #nb
-1. Only players who have applied to enter the
-Rainbow Race can participate.
+﻿#b Règles de la Course Arc-en-ciel #nb
+1. Seuls les joueurs ayant postulé pour participer à la
+Course Arc-en-ciel peuvent prendre part à la compétition.
 
-2. The goal of the race is to follow a designated
-path and go through Point Circles to obtain
-points and finish as fast as possible.
+2. Le but de la course est de suivre un parcours
+désigné et de passer par les Cercles de Points pour
+obtenir des points et terminer le plus rapidement possible.
 
-3. During the Rainbow Race, if you go through
-the Point Circle that has item boxes, you can
-obtain items that can attack others or protect
-yourself.
-(All items in your inventory are unavailable for
-use during the race)
+3. Pendant la Course Arc-en-ciel, si vous passez
+dans un Cercle de Points contenant des boîtes d’objets,
+vous pouvez obtenir des objets permettant d’attaquer
+les autres ou de vous protéger.
+(Tous les objets dans votre inventaire sont
+inutilisables pendant la course)
 
-4. Only characters that are online at the start of
-the Rainbow Race can participate in the race.
+4. Seuls les personnages connectés au début de
+la Course Arc-en-ciel peuvent participer à la course.
