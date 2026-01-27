@@ -1,10 +1,10 @@
-﻿#b#cff0000ff* Basic Rules#nb#nc
-- Every party and buff are canceled after the entry.
-- Item trading is banned from 5 minutes before the combat.
-- Combat progresses for 10 minutes.
-- 5 members of advance party join first. 
-- The next character joins after a character died. 
-- The dead character becomes the last in the list.
-- A character has 3 chances of revival.
-* Guild Master: Gets bonus point when defeating the enemy.
-* Defender(except for Guild Master): Gives bonus point to the enemy when dying.
+#b#cff0000ff* Grundregeln#nb#nc
+- Nach dem Eintritt werden alle Partys und Buffs aufgehoben.
+- Item-Handel ist ab 5 Minuten vor Kampfbeginn verboten.
+- Der Kampf dauert 10 Minuten.
+- Zuerst treten 5 Mitglieder der Vorhut an.
+- Der nächste Charakter betritt das Feld, sobald ein Charakter gestorben ist.
+- Gestorbene Charaktere werden ans Ende der Liste gesetzt.
+- Jeder Charakter hat 10 Wiederbelebungen.
+* Gildenmeister: Erhält Bonuspunkte beim Besiegen des Gegners.
+* Verteidiger (außer Gildenmeister): Verleiht dem Gegner Bonuspunkte beim Tod.
