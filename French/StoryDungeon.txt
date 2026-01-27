@@ -1,6 +1,6 @@
 ﻿Bienvenue, aventuriers ! Les donjons en #bMode Histoire#nb ont des monstres avec une attaque, une santé et une expérience réduites par rapport à la version normale d’un donjon.
 
-Les joueurs peuvent choisir la difficulté en Mode Histoire pour accomplir des quêtes entre amis ou profiter d’une balade tranquille dans un environnement #à faible risque#nb. Amusez-vous bien !
+Les joueurs peuvent choisir la difficulté en Mode Histoire pour accomplir des quêtes entre amis ou profiter d’une balade tranquille dans un environnement #bà faible risque#nb. Amusez-vous bien !
 
 - Les Monstres dans les donjons en Mode Histoire ne laissent pas tomber d’objets
 - Les cages de compagnons et coffres au trésor n’apparaissent pas en Mode Histoire
