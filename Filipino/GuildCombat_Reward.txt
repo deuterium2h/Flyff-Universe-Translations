@@ -1,17 +1,17 @@
-﻿#b#cff0000ff* Reward#nb#nc
-#b#cff0000ff* Reward Red Chips#nb#nc
-- Winning Guild: 34 x number of participating guilds
-- Second Guild: 24 x number of participating guilds
-- Third Guild: 14 x number of participating guilds
-- Fourth Guild: 8 x number of participating guilds
-- Fifth Guild: 4 x number of participating guilds
-#b#cff0000ff* Reward Money#nb#nc
-- Winning Guild: 35% of total applying money
-- Best Player: 15% of total applying money
-#b#cff0000ff* Reward Present#nb#nc
-- 1 victory: Dragon Cloak of the Initiate, All stats +5
-- 2 victories in a row: Dragon Cloak of the Adept, All stats +6, HP MAX+100
-- 3 victories in a row: Dragon Cloak of the Master, All stats +7 , HP MAX+100
-- 4 victories in a row: Dragon Cloak of the Hero, All stats +8, HP MAX+100
-#b#cffff0000* A button is shown up with which can create Dragon Cloak freely in the Guild bank.#nb#nc
-* Dragon Cloak can be put on only before the next Guild Combat begins.
+﻿#b#cff0000ff* Gantimpala#nb#nc
+#b#cff0000ff* Gantimpala: Red Chips#nb#nc
+- Panalong Guild: 34 x bilang ng mga kalahok na guild
+- Ikalawang Guild: 24 x bilang ng mga kalahok na guild
+- Ikatlong Guild: 14 x bilang ng mga kalahok na guild
+- Ikaapat na Guild: 8 x bilang ng mga kalahok na guild
+- Ikalimang Guild: 4 x bilang ng mga kalahok na guild
+#b#cff0000ff* Gantimpalang Pera#nb#nc
+- Panalong Guild: 35% ng kabuuang perang pang-apply
+- Pinakamahusay na Manlalaro: 15% ng kabuuang perang pang-apply
+#b#cff0000ff* Gantimpalang Regalo#nb#nc
+- 1 panalo: Dragon Cloak of the Initiate, Lahat ng stats +5
+- 2 sunod-sunod na panalo: Dragon Cloak of the Adept, Lahat ng stats +6, HP MAX +100
+- 3 sunod-sunod na panalo: Dragon Cloak of the Master, Lahat ng stats +7, HP MAX +100
+- 4 sunod-sunod na panalo: Dragon Cloak of the Hero, Lahat ng stats +8, HP MAX +100
+#b#cffff0000* May lalabas na button para makagawa ng Dragon Cloak nang libre sa Guild bank.#nb#nc
+* Ang Dragon Cloak ay maaari lang isuot bago magsimula ang susunod na Guild Combat.

@@ -1,18 +1,18 @@
 ﻿#b#cff0000ff* Level 60 Guild Siege#nb#nc
-Welcome to the Level 60 Guild Siege! This competition is available to players who did not complete their second class change yet.
+Maligayang pagdating sa Level 60 Guild Siege! Available ang kompetisyong ito para sa mga manlalarong hindi pa natatapos ang kanilang ikalawang class change.
 
-Please ask the [Guild Siege Manager] Donaris for more information about the fight.
+Mangyaring magtanong kay [Guild Siege Manager] Donaris para sa karagdagang impormasyon tungkol sa laban.
 
-Pets cannot be summoned during this Guild Siege.
+Hindi maaaring i-summon ang mga pet sa Guild Siege na ito.
 
-#b#cff0000ff* Reward Blue Chips#nb#nc
-- Winning Guild: 16 x number of participating guilds
-- Second Guild: 11 x number of participating guilds
-- Third Guild: 6 x number of participating guilds
-- Fourth Guild: 4 x number of participating guilds
-- Fifth Guild: 2 x number of participating guilds
-- Sixth Guild: 1 x number of participating guilds
-- Seventh Guild: 1 x number of participating guilds
-- Eighth Guild: 1 x number of participating guilds
-- Ninth Guild: 1 x number of participating guilds
-- Tenth Guild: 1 x number of participating guilds
+#b#cff0000ff* Gantimpala: Blue Chips#nb#nc
+- Panalong Guild: 16 x bilang ng mga kalahok na guild
+- Ikalawang Guild: 11 x bilang ng mga kalahok na guild
+- Ikatlong Guild: 6 x bilang ng mga kalahok na guild
+- Ikaapat na Guild: 4 x bilang ng mga kalahok na guild
+- Ikalimang Guild: 2 x bilang ng mga kalahok na guild
+- Ikaanim na Guild: 1 x bilang ng mga kalahok na guild
+- Ikapitong Guild: 1 x bilang ng mga kalahok na guild
+- Ikawalong Guild: 1 x bilang ng mga kalahok na guild
+- Ikasiyam na Guild: 1 x bilang ng mga kalahok na guild
+- Ikasampung Guild: 1 x bilang ng mga kalahok na guild

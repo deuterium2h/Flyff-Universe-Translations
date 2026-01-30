@@ -1,5 +1,5 @@
-﻿#bItem Upgrading#nb
+﻿#bPag-upgrade ng Item#nb
 
-Upgrading an item raises its base stats an enhances its overall power and/or defenses.
-#cffff0000Using a protection scroll guarantees that your item cannot be destroyed in the process.
-Low S-Protect scrolls will reduce the upgrade level upon failure.#nc
+Ang pag-upgrade ng isang item ay nagpapataas ng base stats at nagpapahusay ng kabuuang lakas at/o depensa nito.
+#cffff0000Ang paggamit ng protection scroll ay nagsisiguro na hindi masisira ang iyong item sa proseso.
+Ang Low S-Protect scroll ay magbabawas ng antas ng upgrade kapag nabigo.#nc
