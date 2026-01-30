@@ -15,6 +15,6 @@ Kinokolekta ang: iyong IP address, mga petsa ng pag-login at pag-logout, at mga 
 
 Gumagamit din ang website na ito ng persistent memory ng iyong computer upang i-store ang iyong session ID at mga display preference. Kung kinakailangan, maaari mong burahin ang mga datos na iyon nang walang anumang karagdagang konsekuwensya.
 
-Sa pamamagitan ng website na ito, maaari kang makipag-ugnayan sa ibang mga user. Mahigpit na ipinagbabawal ang anumang komento na hindi naaayon sa batas ng Korea, kabilang ngunit hindi limitado sa rasista, homophobic, pangha-harass, at diskriminatoryong mga komento. Kapag hindi nasusunod ang mga patakarang ito, may karapatan ang mga moderator na agad na alisin o i-block ang iyong karakter, at maaari ring ipagbawal ang pag-access sa server mula sa iyong IP address.
+Sa pamamagitan ng website na ito, maaari kang makipag-ugnayan sa ibang mga user. Mahigpit na ipinagbabawal ang anumang komento na hindi naaayon sa batas ng Korea, kabilang ngunit hindi limitado sa rasista, homophobic, pangha-harass, at mga komentong diskriminatoryo. Kapag hindi nasusunod ang mga patakarang ito, may karapatan ang mga moderator na agad na alisin o i-block ang iyong karakter, at maaari ring ipagbawal ang pag-access sa server mula sa iyong IP address.
 
 Sa pag-click sa button na #cffffdd66Accept#nc, kinukumpirma mong nalaman mo ang mga nabanggit sa itaas at tinatanggap mo ito.
