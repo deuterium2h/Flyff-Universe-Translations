@@ -352,7 +352,7 @@ PROPSKILL_TXT_100027,Redirect damage taken from a target player to yourself.,Red
 PROPSKILL_TXT_000392,Rending Entry,Entrée Fracassante
 PROPSKILL_TXT_000393,"Teleport to your cursor click position, dealing damage to nearby enemies. Chance to slow the enemy. If an enemy dies to this attack, Rending Entry's cooldown is reset.","Vous téléporte à la position de votre curseur, et inflige des dégâts aux ennemis alentour avec une chance de les ralentir. Si un ennemi meurt par l'effet de cette compétence, elle se recharge immédiatement."
 PROPSKILL_TXT_000394,Barrier of Life,Bouclier de Vie
-PROPSKILL_TXT_000395,The target will block the next incoming hit no matter what.,"La cible bloquera le prochain coup reçu, quel qu'il soit."
+PROPSKILL_TXT_000395,The target will block the next incoming hit no matter what.,"La cible bloque le(s) prochain(s) coup(s) reçu(s), peu importe le type, pendant la durée du buff."
 PROPSKILL_TXT_000430,Gravity Well,Puits Gravitationnel
 PROPSKILL_TXT_000431,Creates a gravity well at your cursor position that considerably slows enemies in the area.,"Crée un puits gravitationnel à la position de votre curseur, qui ralentit considérablement les ennemis aux alentours."
 PROPSKILL_TXT_000440,Eye of the Storm,Œil du Cyclone
