@@ -1,1 +1,1 @@
-﻿Cancel the Blessing of an item here. Once the Blessing is removed it cannot be returned.
+取消物品上的祝福效果。一旦取消将无法恢复。
