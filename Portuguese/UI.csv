@@ -2421,7 +2421,7 @@ UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
 UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
 UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
 UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
-UI_SEARCHSHOP_PLAYERNAME,Player Name,Nome do Jogo
+UI_SEARCHSHOP_PLAYERNAME,Player Name,Nome do jogador
 UI_PVPCONTEST_MANUALMATCH_TITLE,PVP Manual Match,PVP Manual Match
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Nome
 UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
