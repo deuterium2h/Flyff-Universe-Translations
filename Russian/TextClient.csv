@@ -1321,7 +1321,7 @@ TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,In
 TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
 TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
-TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Недостаточно Пенни.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Недостаточно пенни.
 TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
 TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
 TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!

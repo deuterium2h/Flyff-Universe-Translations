@@ -879,7 +879,7 @@ UI_APP_LOGOUT_TIP,Logout,Выход из мира
 UI_APP_OPTION_TIP,Option,Настройки
 UI_APP_MAP_TIP,A Map of the World,Карта всего Мадригала.
 UI_APP_NAVIGATOR_TIP,A mini-map to help you find your way.,"Мини-карта, которая подскажет вам, куда идти."
-UI_APP_NOTICE_TIP,Notice,Замечать
+UI_APP_NOTICE_TIP,Notice,Уведомление
 UI_OPTION_OLD_KEYBOARD_MODE,Basic Keyboard Mode,Базовый режим клавиатуры
 UI_GUILDCOMBAT_OFFER_TITLE,Apply for Guild Siege,Подать заявку на поединок гильдий
 UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION,Total Application Fee,Общий взнос
@@ -1288,14 +1288,14 @@ UI_PRIVATE_SHOP_VENDOR_TIP,Create a Vendor that will sell your items for you,Cre
 UI_PRIVATE_SHOP_VENDOR_OPEN,Will you create a vendor?,Will you create a vendor?
 UI_PRIVATE_SHOP_VENDOR_SKIN,Vendor Shop Skin:,Vendor Shop Skin:
 UI_TIMEINFO_TITLE,Info,Info
-UI_TIMEINFO_SERVER,Current Server,Текущее сервер
+UI_TIMEINFO_SERVER,Current Server,Текущий сервер
 UI_TIMEINFO_TIME,Current Time,Текущее время
 UI_TIMEINFO_CONNECTION,Connection Time,Время соединения
 UI_TIMEINFO_SESSION,Session Duration,Продолжительность сессии
 UI_CHAT_TITLE,Chat,Чат
 UI_CHAT_FILTERS,Filters,Filters
 UI_CHAT_VIEW_LANGUAGES,View Languages,View Languages
-UI_CHAT_YOUR_LANGUAGE,Your Language,Ваш Язык
+UI_CHAT_YOUR_LANGUAGE,Your Language,Ваш язык
 UI_INVENTORY_CONVERT_SOULLINK,Convert soul link,Convert soul link
 UI_INVENTORY_PUTCHAT,Link in Chat,Показать в чате
 UI_INVENTORY_LOCK,Mark Favorite,Отметить Любимой
@@ -1473,7 +1473,7 @@ UI_TRANSMUTE_OUTPUT,Output,Output
 UI_TRANSMUTE_PRIMARY_TIP,Place an item to add a visual transmutation to.,Place an item to add a visual transmutation to.
 UI_TRANSMUTE_SACRIFICE_TIP,Place an item to sacrifice for the appearance.,Place an item to sacrifice for the appearance.
 UI_TELEPORT_BTN,Let's go!,Вперёд!
-UI_TELEPORT_WHERE,Where do you want to go?,Куда ты хочешь поехать?
+UI_TELEPORT_WHERE,Where do you want to go?,Куда вы хотите поехать?
 UI_CASHSHOP_BONUS,Bonus,Бонус
 UI_CASHSHOP_TOTAL,Total,Total
 UI_CASHSHOP_FRAME_TITLE,Top-Up,Top-Up
@@ -2718,7 +2718,7 @@ UI_QUEST_PRODUCTION_COOKING,Cooking. #cffc32f07#b%d/%d#nb#nc,Cooking. #cffc32f07
 UI_QUEST_PRODUCTION_ALCHEMY,Alchemy. #cffc32f07#b%d/%d#nb#nc,Alchemy. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_CARPENTRY,Carpentry. #cffc32f07#b%d/%d#nb#nc,Carpentry. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_SMITHING,Smithing. #cffc32f07#b%d/%d#nb#nc,Smithing. #cffc32f07#b%d/%d#nb#nc
-UI_CHAT_COPYNAME,Copy name,Копия имени
+UI_CHAT_COPYNAME,Copy name,Копировать имя
 UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
@@ -3131,7 +3131,7 @@ UI_TRADE_CONFIRM_BLOCK,Item or Penya has been removed. Wait %d sec(s).,Item or P
 UI_OPTION_MAIL_MODE,Allow Mails From,Allow Mails From
 UI_OPTION_MAIL_EVERYONE,Everyone,Everyone
 UI_OPTION_MAIL_FRIENDS,Friends,Друзья
-UI_OPTION_MAIL_SYSTEM,System Only,Система Только
+UI_OPTION_MAIL_SYSTEM,System Only,Только от системы
 UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Dungeon Free Entry
 UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC Championship Pass
 UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Number of Consumption Items Usage,Number of Consumption Items Usage
