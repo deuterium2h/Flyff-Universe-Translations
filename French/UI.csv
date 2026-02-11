@@ -2152,9 +2152,9 @@ UI_STORAGE_VIEW_INV,Shift+Left Click to view content.,Maj+Clic gauche pour affic
 UI_STORAGE_VIEW_MOBILE,Long Press to view content.,Appuyez longuement pour afficher le contenu.
 UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Connexions totales Premium
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Probabilité
-UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Premium prize probability info
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
+UI_ACHIEVEMENTS_PROBABILITYTIP,Premium prize probability info,Informations sur les probabilités des récompenses premium
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Acheter un Coupon de Temps de Jeu
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Acheter un Coupon de Connexion
 UI_STATBOARD_TITLE,Statboard,Panneau de statistiques
 UI_STATBOARD_RAW,Raw Stats,Statistiques brutes
 UI_STATBOARD_GRAPHS,Graphs,Graphiques
