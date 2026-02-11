@@ -111,7 +111,7 @@ TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,Выучен новы
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,"Чтобы использовать это умение, нужно взять в руки требуемое оружие или предмет."
 TEXTCLIENT_REQFP,Not enough FP.,Недостаточно энергии.
 TEXTCLIENT_REQMP,Not enough MP.,Недостаточно маны.
-TEXTCLIENT_REQHP,Not enough HP.,Not enough HP.
+TEXTCLIENT_REQHP,Not enough HP.,Недостаточно HP.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Действие невозможно из-за препятствия на пути.
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,Требуется умение %s не ниже %d уровня.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,Умение %s улучшено.
@@ -523,7 +523,7 @@ TEXTCLIENT_CASHSHOP_PURCHASEEXCEED,You reached the maximum amount of purchases p
 TEXTCLIENT_CASHSHOP_UNKNOWNERROR,"Unknown error, please try again.","Неизвестная ошибка, пожалуйста попробуйте ещё раз."
 TEXTCLIENT_CASHSHOP_PURCHASESUCCESS,Thank you for your purchase! If the inventory is full please make room and login again to receive the item.,"Спасибо за покупку! Если ваш рюкзак переполнен, то освободите место и перезайдите в игру."
 TEXTCLIENT_CASHSHOP_INVALIDPLAYER,The player is invalid and cannot use Flyff Shop.,The player is invalid and cannot use Flyff Shop.
-TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,The operation is taking too much time. Please try again.
+TEXTCLIENT_CASHSHOP_TIMEOVER,The operation is taking too much time. Please try again.,"Операция занимает слишком много времени. Пожалуйста, попробуйте еще раз."
 TEXTCLIENT_FATHER,#cff0000ff I am your father!#nc,#cff0000ff Я твой отец!#nc
 TEXTCLIENT_MOTHER,#cff0000ff I am your mother!#nc,#cff0000ff Я твоя мама!#nc
 TEXTCLIENT_COMNOHAVECOM,Cannot cancel because you do not belong to a guild.,"Чтобы выйти из гильдии, нужно состоять в ней."
@@ -779,7 +779,7 @@ TEXTCLIENT_REAPMONEY_SHORT,Received %s Penya - Total %s,Получено %s пе
 TEXTCLIENT_REAPITEM_SHORT,Received %s,Received %s
 TEXTCLIENT_TROUPEREAPITEM_SHORT,%s received %s,%s received %s
 TEXTCLIENT_MAINTENANCE,Server Maintenance in %s,Server Maintenance in %s
-TEXTCLIENT_MAINTENANCE_CANCEL,Server Maintenance is cancelled,Server Maintenance is cancelled
+TEXTCLIENT_MAINTENANCE_CANCEL,Server Maintenance is cancelled,Техническое обслуживание сервера отменено.
 TEXTCLIENT_PRIVATE_SHOP_MAXPRICE,The price of %s cannot exceed %s Penya.,Цена %s не может превышать %s пенни.
 TEXTCLIENT_VENDOR_SHOP_CREATE,Your Vendor Shop is now open.,Your Vendor Shop is now open.
 TEXTCLIENT_VENDOR_SHOP_CLOSE,Your Vendor Shop has been closed.,Your Vendor Shop has been closed.
@@ -815,7 +815,7 @@ TEXTCLIENT_ARENA_RANKING_LOADING,The arena ranking is currently loading. Please 
 TEXTCLIENT_ARENA_RANKING_WINNER,The best player of the Arena this week is %s!,The best player of the Arena this week is %s!
 TEXTCLIENT_ARENA_RANKING_MAIL,Congratulations for your rank %d in the PvP Arena this week!,Congratulations for your rank %d in the PvP Arena this week!
 TEXTCLIENT_QUEST_NOTELEPORT,Blinkwings are not allowed during the quest %s.,Гипер-блики нельзя использовать во время выполнения квеста %s.
-TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,You just found a %s!
+TEXTCLIENT_SECRETBOOST_RECEIVE,You just found a %s!,Вы только что нашли %s!
 TEXTCLIENT_SECRETBOOST_TROUPERECEIVE,%s just found a %s!,%s just found a %s!
 TEXTCLIENT_BLESSEDNESS_INVALID,That item cannot be Blessed.,That item cannot be Blessed.
 TEXTCLIENT_AWAKE_SUCCESS,Item has been awakened.,Item has been awakened.
@@ -897,7 +897,7 @@ TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.","From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena."
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.","From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena."
 TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,Another Guild Siege is happening.
-TEXTCLIENT_SKILL_ROOT,You cannot move right now.,You cannot move right now.
+TEXTCLIENT_SKILL_ROOT,You cannot move right now.,Вы не можете двигаться прямо сейчас.
 TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s has fallen!
 TEXTCLIENT_EVENT_REQGUILD,You should join a Guild to participate to the event!,You should join a Guild to participate to the event!
 TEXTCLIENT_GUILD_WORLDCUP_POINTS,%s brought %d GET'EM B'ALL points to the Guild (Total: %d)!,%s brought %d GET'EM B'ALL points to the Guild (Total: %d)!
@@ -1071,7 +1071,7 @@ TEXTCLIENT_CANNOT_USE_COMBAT,You cannot use the item during combat.,You cannot u
 TEXTCLIENT_RAINBOWRACE_ITEMUSED,%s Used %s on you!,%s Used %s on you!
 TEXTCLIENT_RAINBOWRACE_USEITEM,You used %s on %s!,You used %s on %s!
 TEXTCLIENT_RAINBOWRACE_USEITEM_SELF,You used %s!,You used %s!
-TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,No target found.
+TEXTCLIENT_RAINBOWRACE_USEITEM_NOTARGET,No target found.,Цель не найдена.
 TEXTCLIENT_RAINBOWRACE_USEITEM_TARGETBARRIER,The target blocked with a Rainbow Barrier!,The target blocked with a Rainbow Barrier!
 TEXTCLIENT_RAINBOWRACE_USEITEM_USERBARRIER,You've blocked an item with your Rainbow Barrier!,You've blocked an item with your Rainbow Barrier!
 TEXTCLIENT_RAINBOWRACE_NOFLY,You cannot start flying during the preparatory period.,You cannot start flying during the preparatory period.
@@ -1321,7 +1321,7 @@ TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,In
 TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
 TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
-TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Not enough penya.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Недостаточно пенни.
 TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
 TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
 TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
@@ -1409,7 +1409,7 @@ TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,Yo
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,You must select your partner in order to request this motion.
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Your partner refused to perform the motion.
 TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,You are too far away from each other to perform this motion.
-TEXTCLIENT_APP_LIFE,Life,Life
+TEXTCLIENT_APP_LIFE,Life,Жизнь
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,You need to equip a(n) %s.
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Please check the correct tool.
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Gathering failed.
@@ -1514,10 +1514,10 @@ TEXTCLIENT_UPGRADE_WRONG_MATERIAL,Invalid material item for upgrade.,Invalid mat
 TEXTCLIENT_NOT_ENTER_TIME,You cannot participate right now.,You cannot participate right now.
 TEXTCLIENT_NOT_ENTER_LEVEL,You can participate from level %d.,You can participate from level %d.
 TEXTCLIENT_EXIT_BOSSRAID_DUNGEON,The boss monster has been defeated. You will exit the dungeon in %d seconds.,The boss monster has been defeated. You will exit the dungeon in %d seconds.
-TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Red Team
-TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blue Team
-TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Green Team
-TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Yellow Team
+TEXTCLIENT_PVPMATCH_COLOR_1,Red Team,Красная команда
+TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Синяя команда
+TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Зеленая команда
+TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Жёлтая команда
 TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
 TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
 TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
