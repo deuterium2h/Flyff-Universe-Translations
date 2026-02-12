@@ -11,7 +11,7 @@ ITEMTYPE_WAND,Wand,ワンド
 ITEMTYPE_STAFF,Staff,スタッフ
 ITEMTYPE_COSTUME,Costume,Costume
 ITEMTYPE_SHOES,Shoes,Shoes
-ITEMTYPE_PICKUP,Pick-Up Pet,収拾ペット
+ITEMTYPE_PICKUP,Pick-Up Pet,収集ペット
 ITEMTYPE_REAR_PET,Raised Pet,Raised Pet
 ITEMTYPE_CONSUMABLE,Consumable,Consumable
 ITEMTYPE_BOARD,Board,ﾎﾞｰﾄﾞ
