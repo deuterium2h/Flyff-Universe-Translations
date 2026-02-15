@@ -13239,8 +13239,8 @@ PROPITEM_TXT_722145,Ice Crown Bow,Arc Couronne de Glace
 PROPITEM_TXT_722146,Ice Crown Yo-Yo,Yo-Yo Couronne de Glace
 PROPITEM_TXT_722147,Ice Crown Staff,Bâton de Mage Couronne de Glace
 PROPITEM_TXT_722148,Ice Crown Wand,Baguette Couronne de Glace
-PROPITEM_TXT_722149,Ice Crown Big Axe,Grande Hache Couronne de Glace
-PROPITEM_TXT_722150,Ice Crown Big Sword,Grande Épée Couronne de Glace
+PROPITEM_TXT_722149,Ice Crown Big Axe,Doloire Couronne de Glace
+PROPITEM_TXT_722150,Ice Crown Big Sword,Glaive Couronne de Glace
 PROPITEM_TXT_722151,Ice Crown Shield,Bouclier Couronne de Glace
 PROPITEM_TXT_722152,Limited weapon skin only available for Christmas!,Apparence d'arme disponible uniquement pendant Noël !
 PROPITEM_TXT_009042,Cotton Candy Box,Boîte à Barbe à Papa
@@ -14605,9 +14605,9 @@ PROPITEM_TXT_722943,Common Plants Housing Pack 2,Pack d'Aménagement de Plantes 
 PROPITEM_TXT_722944,Flaris Props Housing Pack 2,Pack d'Aménagement d'Accessoires de Flaris 2
 PROPITEM_TXT_722945,Darkon Props Housing Pack 2,Pack d'Aménagement d'Accessoires de Darkon 2
 PROPITEM_TXT_722946,Coral Island Housing Pack 2,Pack d'Aménagement de l'Île Corail 2
-PROPITEM_TXT_722947,Valentine's Big Sword,Grande Épée de la Saint-Valentin
+PROPITEM_TXT_722947,Valentine's Big Sword,Glaive de la Saint-Valentin
 PROPITEM_TXT_722948,Valentine's Sword,Épée de la Saint-Valentin
-PROPITEM_TXT_722949,Valentine's Big Axe,Grande Hache de la Saint-Valentin
+PROPITEM_TXT_722949,Valentine's Big Axe,Doloire de la Saint-Valentin
 PROPITEM_TXT_722950,Valentine's Axe,Hache de la Saint-Valentin
 PROPITEM_TXT_722951,Valentine's Yo-Yo,Yo-Yo de la Saint-Valentin
 PROPITEM_TXT_722952,Valentine's Bow,Arc de la Saint-Valentin
@@ -14627,9 +14627,9 @@ PROPITEM_TXT_131904,Team Guided Missile,Missile Guidé d'Équipe
 PROPITEM_TXT_131905,Decrease the speed of user in first place and his teammates by 25% for 10 seconds. Can be applied up to 2 times.,Diminue la vitesse de l'utilisateur en première position et de ses coéquipiers de 25 % pendant 10 secondes. Peut être appliqué jusqu'à 2 fois.
 PROPITEM_TXT_722961,Heart Breaker's Weapon Skin Box,Boîte de Skins d'Armes de Cœur Brisé
 PROPITEM_TXT_722962,Select one of the Heart Breaker's Weapon skins!,Sélectionnez un des skins d'armes de Cœur Brisé !
-PROPITEM_TXT_722963,Heart Breaker's Big Sword,Grande Épée de Cœur Brisé
+PROPITEM_TXT_722963,Heart Breaker's Big Sword,Glaive de Cœur Brisé
 PROPITEM_TXT_722964,Heart Breaker's Sword,Épée de Cœur Brisé
-PROPITEM_TXT_722965,Heart Breaker's Big Axe,Grande Hache de Cœur Brisé
+PROPITEM_TXT_722965,Heart Breaker's Big Axe,Doloire de Cœur Brisé
 PROPITEM_TXT_722966,Heart Breaker's Axe,Hache de Cœur Brisé
 PROPITEM_TXT_722967,Heart Breaker's Yo-Yo,Yo-Yo de Cœur Brisé
 PROPITEM_TXT_722968,Heart Breaker's Bow,Arc de Cœur Brisé
@@ -16148,8 +16148,8 @@ PROPITEM_TXT_725277,The Big Wave Surfing 2% White Set for female characters.,L�
 PROPITEM_TXT_725278,Big Wave Surfing White Hat (F),Chapeau Surf Big Wave Blanc (F)
 PROPITEM_TXT_725279,Big Wave Surfing White Suit (F),Tenue Surf Big Wave Blanche (F)
 PROPITEM_TXT_725280,Big Wave Surfing White Shoes (F),Chaussures Surf Big Wave Blanches (F)
-PROPITEM_TXT_725281,Big Wave Surfing White Surf,Planche de Surf Big Wave Blanche
-PROPITEM_TXT_725282,Big Wave Surfing Costume Lucky Box,Boîte Chanceuse de Costume Surf Big Wave
+PROPITEM_TXT_725281,Big Wave Surfing White Surf,Planche de Surf Grande vague Blanche
+PROPITEM_TXT_725282,Big Wave Surfing Costume Lucky Box,Boîte Chanceuse de Costume Surf Grande vague.
 PROPITEM_TXT_725283,This box contains a Big Wave Surfing Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un ensemble Surf Big Wave avec bonus de vitesse. Vous pouvez choisir votre genre après avoir ouvert la Boîte Chanceuse.
 PROPITEM_TXT_725284,Big Wave Surfing Red Flying Surf,Planche de Surf Volante Big Wave Rouge
 PROPITEM_TXT_725285,Big Wave Surfing Purple Flying Surf,Planche de Surf Volante Big Wave Violette
@@ -16160,8 +16160,8 @@ PROPITEM_TXT_725289,Big Wave Surfing Blue Flying Surf,Planche de Surf Volante Bi
 PROPITEM_TXT_725290,Big Wave Surfing White Flying Surf,Planche de Surf Volante Big Wave Blanche
 PROPITEM_TXT_725291,Magical Kid Blue Weapon Set,Ensemble d’Armes Enfant Magique Bleu
 PROPITEM_TXT_725292,Select which Magical Kid weapon skin you want to receive!,Choisissez l’apparence d’arme Enfant Magique que vous souhaitez recevoir !
-PROPITEM_TXT_725293,Magical Kid Blue Big Axe,Grande Hache Enfant Magique Bleue
-PROPITEM_TXT_725294,Magical Kid Blue Big Sword,Grande Épée Enfant Magique Bleue
+PROPITEM_TXT_725293,Magical Kid Blue Big Axe,Doloire Enfant Magique Bleue
+PROPITEM_TXT_725294,Magical Kid Blue Big Sword,Glaive Enfant Magique Bleue
 PROPITEM_TXT_725295,Magical Kid Blue Axe,Hache Enfant Magique Bleue
 PROPITEM_TXT_725296,Magical Kid Blue Stick,Sceptre Enfant Magique Bleu
 PROPITEM_TXT_725297,Magical Kid Blue Knuckle,Poing Enfant Magique Bleu
@@ -16171,8 +16171,8 @@ PROPITEM_TXT_725300,Magical Kid Blue Staff,Bâton de Mage Enfant Magique Bleu
 PROPITEM_TXT_725301,Magical Kid Blue Force Gem,Gemme de Force Enfant Magique Bleue
 PROPITEM_TXT_725302,Magical Kid Blue Shield,Bouclier Enfant Magique Bleu
 PROPITEM_TXT_725303,Magical Kid Dark Weapon Set,Ensemble d’Armes Enfant Magique Sombre
-PROPITEM_TXT_725304,Magical Kid Dark Big Axe,Grande Hache Enfant Magique Sombre
-PROPITEM_TXT_725305,Magical Kid Dark Big Sword,Grande Épée Enfant Magique Sombre
+PROPITEM_TXT_725304,Magical Kid Dark Big Axe,Doloire Enfant Magique Sombre
+PROPITEM_TXT_725305,Magical Kid Dark Big Sword,Glaive Enfant Magique Sombre
 PROPITEM_TXT_725306,Magical Kid Dark Axe,Hache Enfant Magique Sombre
 PROPITEM_TXT_725307,Magical Kid Dark Stick,Sceptre Enfant Magique Sombre
 PROPITEM_TXT_725308,Magical Kid Dark Knuckle,Poing Enfant Magique Sombre
@@ -16182,8 +16182,8 @@ PROPITEM_TXT_725311,Magical Kid Dark Staff,Bâton de Mage Enfant Magique Sombre
 PROPITEM_TXT_725312,Magical Kid Dark Force Gem,Gemme de Force Enfant Magique Sombre
 PROPITEM_TXT_725313,Magical Kid Dark Shield,Bouclier Enfant Magique Sombre
 PROPITEM_TXT_725314,Magical Kid Pink Weapon Set,Ensemble d’Armes Enfant Magique Rose
-PROPITEM_TXT_725315,Magical Kid Pink Big Axe,Grande Hache Enfant Magique Rose
-PROPITEM_TXT_725316,Magical Kid Pink Big Sword,Grande Épée Enfant Magique Rose
+PROPITEM_TXT_725315,Magical Kid Pink Big Axe,Doloire Enfant Magique Rose
+PROPITEM_TXT_725316,Magical Kid Pink Big Sword,Glaive Enfant Magique Rose
 PROPITEM_TXT_725317,Magical Kid Pink Axe,Hache Enfant Magique Rose
 PROPITEM_TXT_725318,Magical Kid Pink Stick,Sceptre Enfant Magique Rose
 PROPITEM_TXT_725319,Magical Kid Pink Knuckle,Poing Enfant Magique Rose
@@ -16193,8 +16193,8 @@ PROPITEM_TXT_725322,Magical Kid Pink Staff,Bâton de Mage Enfant Magique Rose
 PROPITEM_TXT_725323,Magical Kid Pink Force Gem,Gemme de Force Enfant Magique Rose
 PROPITEM_TXT_725324,Magical Kid Pink Shield,Bouclier Enfant Magique Rose
 PROPITEM_TXT_725325,Magical Kid Red Weapon Set,Ensemble d’Armes Enfant Magique Rouge
-PROPITEM_TXT_725326,Magical Kid Red Big Axe,Grande Hache Enfant Magique Rouge
-PROPITEM_TXT_725327,Magical Kid Red Big Sword,Grande Épée Enfant Magique Rouge
+PROPITEM_TXT_725326,Magical Kid Red Big Axe,Doloire Enfant Magique Rouge
+PROPITEM_TXT_725327,Magical Kid Red Big Sword,Glaive Enfant Magique Rouge
 PROPITEM_TXT_725328,Magical Kid Red Axe,Hache Enfant Magique Rouge
 PROPITEM_TXT_725329,Magical Kid Red Stick,Sceptre Enfant Magique Rouge
 PROPITEM_TXT_725330,Magical Kid Red Knuckle,Poing Enfant Magique Rouge
@@ -16204,8 +16204,8 @@ PROPITEM_TXT_725333,Magical Kid Red Staff,Bâton de Mage Enfant Magique Rouge
 PROPITEM_TXT_725334,Magical Kid Red Force Gem,Gemme de Force Enfant Magique Rouge
 PROPITEM_TXT_725335,Magical Kid Red Shield,Bouclier Enfant Magique Rouge
 PROPITEM_TXT_725336,Magical Kid Orange Weapon Set,Ensemble d’Armes Enfant Magique Orange
-PROPITEM_TXT_725337,Magical Kid Orange Big Axe,Grande Hache Enfant Magique Orange
-PROPITEM_TXT_725338,Magical Kid Orange Big Sword,Grande Épée Enfant Magique Orange
+PROPITEM_TXT_725337,Magical Kid Orange Big Axe,Doloire Enfant Magique Orange
+PROPITEM_TXT_725338,Magical Kid Orange Big Sword,Glaive Enfant Magique Orange
 PROPITEM_TXT_725339,Magical Kid Orange Axe,Hache Enfant Magique Orange
 PROPITEM_TXT_725340,Magical Kid Orange Stick,Bâton Enfant Magique Orange
 PROPITEM_TXT_725341,Magical Kid Orange Knuckle,Poing Enfant Magique Orange
@@ -16215,8 +16215,8 @@ PROPITEM_TXT_725344,Magical Kid Orange Staff,Bâton de Mage Enfant Magique Orang
 PROPITEM_TXT_725345,Magical Kid Orange Force Gem,Gemme de Force Enfant Magique Orange
 PROPITEM_TXT_725346,Magical Kid Orange Shield,Bouclier Enfant Magique Orange
 PROPITEM_TXT_725347,Magical Kid Green Weapon Set,Ensemble d’Armes Enfant Magique Vert
-PROPITEM_TXT_725348,Magical Kid Green Big Axe,Grande Hache Enfant Magique Verte
-PROPITEM_TXT_725349,Magical Kid Green Big Sword,Grande Épée Enfant Magique Verte
+PROPITEM_TXT_725348,Magical Kid Green Big Axe,Doloire Enfant Magique Verte
+PROPITEM_TXT_725349,Magical Kid Green Big Sword,Glaive Enfant Magique Verte
 PROPITEM_TXT_725350,Magical Kid Green Axe,Hache Enfant Magique Verte
 PROPITEM_TXT_725351,Magical Kid Green Stick,Bâton Enfant Magique Vert
 PROPITEM_TXT_725352,Magical Kid Green Knuckle,Poing Enfant Magique Vert
@@ -16999,8 +16999,8 @@ PROPITEM_TXT_726052,Purple Persian Magic Carpet,Tapis Magique Persan Pourpre
 PROPITEM_TXT_726053,The coziest way to travel ! Hold tight or enjoy the sky dive ! Maximum Speed: 64 km/h.,Le moyen le plus confortable de voyager ! Accrochez-vous ou profitez de la chute libre ! Vitesse maximale : 64 km/h.
 PROPITEM_TXT_726054,Oceanic Weapon Set,Ensemble d’Armes Océanique
 PROPITEM_TXT_726055,Select which Oceanic weapon skin you want to receive!,Sélectionnez le skin d’arme Océanique que vous souhaitez recevoir !
-PROPITEM_TXT_726056,Oceanic Big Axe,Grande Hache Océanique
-PROPITEM_TXT_726057,Oceanic Big Sword,Grande Épée Océanique
+PROPITEM_TXT_726056,Oceanic Big Axe,Doloire Océanique
+PROPITEM_TXT_726057,Oceanic Big Sword,Glaive Océanique
 PROPITEM_TXT_726058,Oceanic Axe,Hache Océanique
 PROPITEM_TXT_726059,Oceanic Stick,Sceptre Océanique
 PROPITEM_TXT_726060,Oceanic Knuckle,Poing Océanique
@@ -17054,8 +17054,8 @@ PROPITEM_TXT_726110,Persian Warrior Blue Hat (M),Chapeau Guerrier Persan Bleu (H
 PROPITEM_TXT_726111,Persian Warrior Blue Suit (M),Costume Guerrier Persan Bleu (H)
 PROPITEM_TXT_726112,Charlie Hunter Sword,Épée Charlie Hunter
 PROPITEM_TXT_726113,Charlie Hunter Axe,Hache Charlie Hunter
-PROPITEM_TXT_726114,Charlie Hunter Big Sword,Grande Épée Charlie Hunter
-PROPITEM_TXT_726115,Charlie Hunter Big Axe,Grande Hache Charlie Hunter
+PROPITEM_TXT_726114,Charlie Hunter Big Sword,Glaive Charlie Hunter
+PROPITEM_TXT_726115,Charlie Hunter Big Axe,Doloire Charlie Hunter
 PROPITEM_TXT_726116,Charlie Hunter Stick,Sceptre Charlie Hunter
 PROPITEM_TXT_726117,Charlie Hunter Knuckle,Poing Charlie Hunter
 PROPITEM_TXT_726118,Charlie Hunter Bow,Arc Charlie Hunter
@@ -17379,7 +17379,7 @@ PROPITEM_TXT_131924,[Personal House NPC] Mac (A Grade),[PNJ Maison Perso] Mac (G
 PROPITEM_TXT_131925,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy A),Ce PNJ vous accordera le bonus suivant lorsqu’il est placé dans la maison personnelle : Dressage de Compagnon (Bonbon A)
 PROPITEM_TXT_133000,Hoe,Houe
 PROPITEM_TXT_133001,A hoe that is used for harvesting herbs. Herb gathering success rate: 40%,Une houe utilisée pour récolter des herbes. Taux de réussite de récolte : 40 %
-PROPITEM_TXT_133002,Well-maintained Hoe,Houe Bien Entretien
+PROPITEM_TXT_133002,Well-maintained Hoe,Houe Bien Entretenue
 PROPITEM_TXT_133003,A hoe that has been well-maintained and can be used for harvesting even more herbs. Herb gathering success rate: 50%,Une houe bien entretenue qui permet de récolter encore plus d’herbes. Taux de réussite de récolte : 50 %
 PROPITEM_TXT_133004,New Hoe,Nouvelle Houe
 PROPITEM_TXT_133005,A new type of hoe that is used for harvesting herbs. Herb gathering success rate: 60%,Un nouveau type de houe utilisée pour récolter des herbes. Taux de réussite de récolte : 60 %
@@ -17387,7 +17387,7 @@ PROPITEM_TXT_133006,Finest Hoe,Meilleure Houe
 PROPITEM_TXT_133007,The finest hoe that is used for harvesting herbs. Herb gathering success rate: 70%,La meilleure houe pour récolter des herbes. Taux de réussite de récolte : 70 %
 PROPITEM_TXT_133008,Axe,Hache
 PROPITEM_TXT_133009,An axe that is used for woodcutting. Woodcutting success rate: 40%,Une hache utilisée pour couper du bois. Taux de réussite : 40 %
-PROPITEM_TXT_133010,Well-maintained Axe,Hache Bien Entretien
+PROPITEM_TXT_133010,Well-maintained Axe,Hache Bien Entretenue
 PROPITEM_TXT_133011,An axe that has been well-maintained and can be used for even more woodcutting. Woodcutting success rate: 50%,Une hache bien entretenue qui permet de couper encore plus de bois. Taux de réussite : 50 %
 PROPITEM_TXT_133012,New Axe,Nouvelle Hache
 PROPITEM_TXT_133013,A new type of axe that is used for woodcutting. Woodcutting success rate: 60%,Un nouveau type de hache utilisée pour couper du bois. Taux de réussite : 60 %
@@ -17395,7 +17395,7 @@ PROPITEM_TXT_133014,Finest Axe,Meilleure Hache
 PROPITEM_TXT_133015,The finest axe that is used for woodcutting. Woodcutting success rate: 70%,La meilleure hache pour couper du bois. Taux de réussite : 70 %
 PROPITEM_TXT_133016,Pickaxe,Piochon
 PROPITEM_TXT_133017,A pickaxe can be used for mining ores. Mining success rate: 40%,Un pioche peut être utilisée pour miner des minerais. Taux de réussite : 40 %
-PROPITEM_TXT_133018,Well-maintained Pickaxe,Piochon Bien Entretien
+PROPITEM_TXT_133018,Well-maintained Pickaxe,Piochon Bien Entretenu
 PROPITEM_TXT_133019,A pickaxe that has been well-maintained and can be used for mining even more ores. Mining success rate: 50%,Un pioche bien entretenue qui permet de miner encore plus de minerais. Taux de réussite : 50 %
 PROPITEM_TXT_133020,New Pickaxe,Nouveau Piochon
 PROPITEM_TXT_133021,A new type of pickaxe can be used for mining ores. Mining success rate: 60%,Un nouveau type de pioche utilisée pour miner des minerais. Taux de réussite : 60 %
@@ -17894,14 +17894,14 @@ PROPITEM_TXT_133512,Coral Island Curry (B),Curry de l'Île de Corail (B)
 PROPITEM_TXT_133513,Coral Island Curry (A),Curry de l'Île de Corail (A)
 PROPITEM_TXT_133514,Coral Island Curry (A+),Curry de l'Île de Corail (A+)
 PROPITEM_TXT_133515,Recovers 2600 HP,Redonne 2600 PV
-PROPITEM_TXT_133516,Tuna Sushi (D),Sushi (D)
-PROPITEM_TXT_133517,Sushi made with tuna on top.,Sushi avec thon sur le dessus
+PROPITEM_TXT_133516,Tuna Sushi (D),Sushi
+PROPITEM_TXT_133517,Sushi made with tuna on top.,Un sushi raffiné recouvert d’un tendre morceau de thon frais, apprécié des aventuriers en quête d’énergie.
 PROPITEM_TXT_133518,Tuna Sushi (C),Sushi (C)
-PROPITEM_TXT_133519,Sushi made with tuna on top.,Sushi avec thon sur le dessus
+PROPITEM_TXT_133519,Sushi made with tuna on top.,Un sushi raffiné recouvert d’un tendre morceau de thon frais, apprécié des aventuriers en quête d’énergie.
 PROPITEM_TXT_133520,Tuna Sushi (B),Sushi (B)
 PROPITEM_TXT_133521,Tuna Sushi (A),Sushi (A)
 PROPITEM_TXT_133522,Tuna Sushi (A+),Sushi (A+)
-PROPITEM_TXT_133523,Sushi made with tuna on top.,Sushi avec thon sur le dessus
+PROPITEM_TXT_133523,Sushi made with tuna on top.,Un sushi raffiné recouvert d’un tendre morceau de thon frais, apprécié des aventuriers en quête d’énergie.
 PROPITEM_TXT_133524,Red Fish Ball (D),Boule de Poisson Rouge (D)
 PROPITEM_TXT_133525,Fish balls infused with alchemical reagents to give them a special effect.,Boules de poisson infusées de réactifs alchimiques pour un effet spécial
 PROPITEM_TXT_133526,Red Fish Ball (C),Boule de Poisson Rouge (C)
@@ -18022,13 +18022,13 @@ PROPITEM_TXT_133640,Pine Oil (C),Huile de Pin (C)
 PROPITEM_TXT_133641,Pine Oil (B),Huile de Pin (B)
 PROPITEM_TXT_133642,Pine Oil (A),Huile de Pin (A)
 PROPITEM_TXT_133643,This oil is harvested from pine trees. It has many uses.,"Huile extraite des pins, avec de nombreuses utilisations"
-PROPITEM_TXT_133644,VitalDrink 100 (C),Boisson Vitale 100 (C)
+PROPITEM_TXT_133644,VitalDrink 100 (C),Boisson Énergétique 100 (C)
 PROPITEM_TXT_133645,FP 72 Recovery,Récupère 72 FP
-PROPITEM_TXT_133646,VitalDrink 200 (C),Boisson Vitale 200 (C)
+PROPITEM_TXT_133646,VitalDrink 200 (C),Boisson Énergétique 200 (C)
 PROPITEM_TXT_133647,FP 144 Recovery,Récupère 144 FP
-PROPITEM_TXT_133648,VitalDrink 200 (B),Boisson Vitale 200 (B)
-PROPITEM_TXT_133649,VitalDrink 200 (A),Boisson Vitale 200 (A)
-PROPITEM_TXT_133650,VitalDrink 200 (A+),Boisson Vitale 200 (A+)
+PROPITEM_TXT_133648,VitalDrink 200 (B),Boisson Énergétique 200 (B)
+PROPITEM_TXT_133649,VitalDrink 200 (A),Boisson Énergétique 200 (A)
+PROPITEM_TXT_133650,VitalDrink 200 (A+),Boisson Énergétique 200 (A+)
 PROPITEM_TXT_133651,FP 156 Recovery,Récupère 156 FP
 PROPITEM_TXT_133652,First Refresher (C),Premier Rafraîchissant (C)
 PROPITEM_TXT_133653,MP 78 Recovery,Récupère 78 PM
@@ -18044,41 +18044,41 @@ PROPITEM_TXT_133662,Second Refresher (B),Deuxième Rafraîchissant (B)
 PROPITEM_TXT_133663,Second Refresher (A),Deuxième Rafraîchissant (A)
 PROPITEM_TXT_133664,Second Refresher (A+),Deuxième Rafraîchissant (A+)
 PROPITEM_TXT_133665,MP 163 Recovery,Récupère 163 PM
-PROPITEM_TXT_133666,VitalDrink 300 (C),Boisson Vitale 300 (C)
+PROPITEM_TXT_133666,VitalDrink 300 (C),Boisson Énergétique 300 (C)
 PROPITEM_TXT_133667,FP 216 Recovery,Récupère 216 FP
-PROPITEM_TXT_133668,VitalDrink 300 (B),Boisson Vitale 300 (B)
-PROPITEM_TXT_133669,VitalDrink 300 (A),Boisson Vitale 300 (A)
-PROPITEM_TXT_133670,VitalDrink 300 (A+),Boisson Vitale 300 (A+)
+PROPITEM_TXT_133668,VitalDrink 300 (B),Boisson Énergétique 300 (B)
+PROPITEM_TXT_133669,VitalDrink 300 (A),Boisson Énergétique 300 (A)
+PROPITEM_TXT_133670,VitalDrink 300 (A+),Boisson Énergétique 300 (A+)
 PROPITEM_TXT_133671,FP 234 Recovery,Récupère 234 FP
-PROPITEM_TXT_133672,VitalDrink 400 (C),Boisson Vitale 400 (C)
+PROPITEM_TXT_133672,VitalDrink 400 (C),Boisson Énergétique 400 (C)
 PROPITEM_TXT_133673,FP 288 Recovery,Récupère 288 FP
-PROPITEM_TXT_133674,VitalDrink 400 (B),Boisson Vitale 400 (B)
-PROPITEM_TXT_133675,VitalDrink 400 (A),Boisson Vitale 400 (A)
-PROPITEM_TXT_133676,VitalDrink 400 (A+),Boisson Vitale 400 (A+)
+PROPITEM_TXT_133674,VitalDrink 400 (B),Boisson Énergétique 400 (B)
+PROPITEM_TXT_133675,VitalDrink 400 (A),Boisson Énergétique 400 (A)
+PROPITEM_TXT_133676,VitalDrink 400 (A+),Boisson Énergétique 400 (A+)
 PROPITEM_TXT_133677,FP 312 Recovery,Récupère 312 FP
-PROPITEM_TXT_133678,VitalDrink 500 (C),Boisson Vitale 500 (C)
+PROPITEM_TXT_133678,VitalDrink 500 (C),Boisson Énergétique 500 (C)
 PROPITEM_TXT_133679,FP 360 Recovery,Récupère 360 FP
-PROPITEM_TXT_133680,VitalDrink 500 (B),Boisson Vitale 500 (B)
-PROPITEM_TXT_133681,VitalDrink 500 (A),Boisson Vitale 500 (A)
-PROPITEM_TXT_133682,VitalDrink 500 (A+),Boisson Vitale 500 (A+)
+PROPITEM_TXT_133680,VitalDrink 500 (B),Boisson Énergétique 500 (B)
+PROPITEM_TXT_133681,VitalDrink 500 (A),Boisson Énergétique 500 (A)
+PROPITEM_TXT_133682,VitalDrink 500 (A+),Boisson Énergétique 500 (A+)
 PROPITEM_TXT_133683,FP 390 Recovery,Récupère 390 FP
-PROPITEM_TXT_133684,VitalDrink 600 (C),Boisson Vitale 600 (C)
+PROPITEM_TXT_133684,VitalDrink 600 (C),Boisson Énergétique 600 (C)
 PROPITEM_TXT_133685,FP 442 Recovery,Récupère 442 FP
-PROPITEM_TXT_133686,VitalDrink 600 (B),Boisson Vitale 600 (B)
-PROPITEM_TXT_133687,VitalDrink 600 (A),Boisson Vitale 600 (A)
-PROPITEM_TXT_133688,VitalDrink 600 (A+),Boisson Vitale 600 (A+)
+PROPITEM_TXT_133686,VitalDrink 600 (B),Boisson Énergétique 600 (B)
+PROPITEM_TXT_133687,VitalDrink 600 (A),Boisson Énergétique 600 (A)
+PROPITEM_TXT_133688,VitalDrink 600 (A+),Boisson Énergétique 600 (A+)
 PROPITEM_TXT_133689,FP 478 Recovery,Récupère 478 FP
-PROPITEM_TXT_133690,VitalDrink 700 (C),Boisson Vitale 700 (C)
+PROPITEM_TXT_133690,VitalDrink 700 (C),Boisson Énergétique 700 (C)
 PROPITEM_TXT_133691,FP 540 Recovery,Récupère 540 FP
-PROPITEM_TXT_133692,VitalDrink 700 (B),Boisson Vitale 700 (B)
-PROPITEM_TXT_133693,VitalDrink 700 (A),Boisson Vitale 700 (A)
-PROPITEM_TXT_133694,VitalDrink 700 (A+),Boisson Vitale 700 (A+)
+PROPITEM_TXT_133692,VitalDrink 700 (B),Boisson Énergétique 700 (B)
+PROPITEM_TXT_133693,VitalDrink 700 (A),Boisson Énergétique 700 (A)
+PROPITEM_TXT_133694,VitalDrink 700 (A+),Boisson Énergétique 700 (A+)
 PROPITEM_TXT_133695,FP 585 Recovery,Récupère 585 FP
-PROPITEM_TXT_133696,VitalDrink 800 (C),Boisson Vitale 800 (C)
+PROPITEM_TXT_133696,VitalDrink 800 (C),Boisson Énergétique 800 (C)
 PROPITEM_TXT_133697,FP 624 Recovery,Récupère 624 FP
-PROPITEM_TXT_133698,VitalDrink 800 (B),Boisson Vitale 800 (B)
-PROPITEM_TXT_133699,VitalDrink 800 (A),Boisson Vitale 800 (A)
-PROPITEM_TXT_133700,VitalDrink 800 (A+),Boisson Vitale 800 (A+)
+PROPITEM_TXT_133698,VitalDrink 800 (B),Boisson Énergétique 800 (B)
+PROPITEM_TXT_133699,VitalDrink 800 (A),Boisson Énergétique 800 (A)
+PROPITEM_TXT_133700,VitalDrink 800 (A+),Boisson Énergétique 800 (A+)
 PROPITEM_TXT_133701,FP 676 Recovery,Récupère 676 FP
 PROPITEM_TXT_133702,Yellow Pill (C),Pilule Jaune (C)
 PROPITEM_TXT_133703,Recovers 2200 HP,Récupère 2200 PV
@@ -19640,8 +19640,8 @@ PROPITEM_TXT_201041,Nightmare Hands (F),Gants Cauchemar (F)
 PROPITEM_TXT_201042,Nightmare Wing,Ailes Cauchemar
 PROPITEM_TXT_826215,Eastern Warrior Gold Sword,Épée Dorée Guerrier de l'Est
 PROPITEM_TXT_826216,Eastern Warrior Gold Axe,Hache Dorée Guerrier de l'Est
-PROPITEM_TXT_826217,Eastern Warrior Gold Big Sword,Grande Épée Dorée Guerrier de l'Est
-PROPITEM_TXT_826218,Eastern Warrior Gold Big Axe,Grande Hache Dorée Guerrier de l'Est
+PROPITEM_TXT_826217,Eastern Warrior Gold Big Sword,Glaive Dorée Guerrier de l'Est
+PROPITEM_TXT_826218,Eastern Warrior Gold Big Axe,Doloire Dorée Guerrier de l'Est
 PROPITEM_TXT_826219,Eastern Warrior Gold Stick,Sceptre Doré Guerrier de l'Est
 PROPITEM_TXT_826220,Eastern Warrior Gold Knuckle,Poing Doré Guerrier de l'Est
 PROPITEM_TXT_826221,Eastern Warrior Gold Bow,Arc Doré Guerrier de l'Est
@@ -19655,8 +19655,8 @@ PROPITEM_TXT_826228,Eastern Warrior Gold Weapon Set,Set d'Armes Dorées Guerrier
 PROPITEM_TXT_826229,Select which Eastern Warrior Gold Weapon you want to receive!,Sélectionnez quelle arme dorée du Guerrier de l'Est vous souhaitez recevoir !
 PROPITEM_TXT_826230,Eastern Warrior Cyan Sword,Épée Cyan Guerrier de l'Est
 PROPITEM_TXT_826231,Eastern Warrior Cyan Axe,Hache Cyan Guerrier de l'Est
-PROPITEM_TXT_826232,Eastern Warrior Cyan Big Sword,Grande Épée Cyan Guerrier de l'Est
-PROPITEM_TXT_826233,Eastern Warrior Cyan Big Axe,Grande Hache Cyan Guerrier de l'Est
+PROPITEM_TXT_826232,Eastern Warrior Cyan Big Sword,Glaive Cyan Guerrier de l'Est
+PROPITEM_TXT_826233,Eastern Warrior Cyan Big Axe,Doloire Cyan Guerrier de l'Est
 PROPITEM_TXT_826234,Eastern Warrior Cyan Stick,Sceptre Cyan Guerrier de l'Est
 PROPITEM_TXT_826235,Eastern Warrior Cyan Knuckle,Poing Cyan Guerrier de l'Est
 PROPITEM_TXT_826236,Eastern Warrior Cyan Bow,Arc Cyan Guerrier de l'Est
@@ -19670,8 +19670,8 @@ PROPITEM_TXT_826243,Eastern Warrior Cyan Weapon Set,Set d'Armes Cyan Guerrier de
 PROPITEM_TXT_826244,Select which Eastern Warrior Cyan Weapon you want to receive!,Sélectionnez quelle arme cyan du Guerrier de l'Est vous souhaitez recevoir !
 PROPITEM_TXT_826245,Eastern Warrior Green Sword,Épée Verte Guerrier de l'Est
 PROPITEM_TXT_826246,Eastern Warrior Green Axe,Hache Verte Guerrier de l'Est
-PROPITEM_TXT_826247,Eastern Warrior Green Big Sword,Grande Épée Verte Guerrier de l'Est
-PROPITEM_TXT_826248,Eastern Warrior Green Big Axe,Grande Hache Verte Guerrier de l'Est
+PROPITEM_TXT_826247,Eastern Warrior Green Big Sword,Glaive Verte Guerrier de l'Est
+PROPITEM_TXT_826248,Eastern Warrior Green Big Axe,Doloire Verte Guerrier de l'Est
 PROPITEM_TXT_826249,Eastern Warrior Green Stick,Sceptre Vert Guerrier de l'Est
 PROPITEM_TXT_826250,Eastern Warrior Green Knuckle,Poing Verts Guerrier de l'Est
 PROPITEM_TXT_826251,Eastern Warrior Green Bow,Arc Vert Guerrier de l'Est
@@ -19685,8 +19685,8 @@ PROPITEM_TXT_826258,Eastern Warrior Green Weapon Set,Set d'Armes Vertes Guerrier
 PROPITEM_TXT_826259,Select which Eastern Warrior Green Weapon you want to receive!,Sélectionnez quelle arme verte du Guerrier de l'Est vous souhaitez recevoir !
 PROPITEM_TXT_826260,Eastern Warrior Purple Sword,Épée Violette Guerrier de l'Est
 PROPITEM_TXT_826261,Eastern Warrior Purple Axe,Hache Violette Guerrier de l'Est
-PROPITEM_TXT_826262,Eastern Warrior Purple Big Sword,Grande Épée Violette Guerrier de l'Est
-PROPITEM_TXT_826263,Eastern Warrior Purple Big Axe,Grande Hache Violette Guerrier de l'Est
+PROPITEM_TXT_826262,Eastern Warrior Purple Big Sword,Glaive Violette Guerrier de l'Est
+PROPITEM_TXT_826263,Eastern Warrior Purple Big Axe,Doloire Violette Guerrier de l'Est
 PROPITEM_TXT_826264,Eastern Warrior Purple Stick,Sceptre Violet Guerrier de l'Est
 PROPITEM_TXT_826265,Eastern Warrior Purple Knuckle,Poing Violet Guerrier de l'Est
 PROPITEM_TXT_826266,Eastern Warrior Purple Bow,Arc Violet Guerrier de l'Est
@@ -19700,8 +19700,8 @@ PROPITEM_TXT_826273,Eastern Warrior Purple Weapon Set,Set d'Armes Violettes Guer
 PROPITEM_TXT_826274,Select which Eastern Warrior Purple Weapon you want to receive!,Sélectionnez quelle arme violette du Guerrier de l'Est vous souhaitez recevoir !
 PROPITEM_TXT_826275,Eastern Warrior Pink Sword,Épée Rose Guerrier de l'Est
 PROPITEM_TXT_826276,Eastern Warrior Pink Axe,Hache Rose Guerrier de l'Est
-PROPITEM_TXT_826277,Eastern Warrior Pink Big Sword,Grande Épée Rose Guerrier de l'Est
-PROPITEM_TXT_826278,Eastern Warrior Pink Big Axe,Grande Hache Rose Guerrier de l'Est
+PROPITEM_TXT_826277,Eastern Warrior Pink Big Sword,Glaive Rose Guerrier de l'Est
+PROPITEM_TXT_826278,Eastern Warrior Pink Big Axe,Doloire Rose Guerrier de l'Est
 PROPITEM_TXT_826279,Eastern Warrior Pink Stick,Sceptre Rose Guerrier de l'Est
 PROPITEM_TXT_826280,Eastern Warrior Pink Knuckle,Poing Roses Guerrier de l'Est
 PROPITEM_TXT_826281,Eastern Warrior Pink Bow,Arc Rose Guerrier de l'Est
@@ -19715,8 +19715,8 @@ PROPITEM_TXT_826288,Eastern Warrior Pink Weapon Set,Set d'Armes Roses Guerrier d
 PROPITEM_TXT_826289,Select which Eastern Warrior Pink Weapon you want to receive!,Sélectionnez quelle arme rose du Guerrier de l'Est vous souhaitez recevoir !
 PROPITEM_TXT_826290,Eastern Warrior Black Sword,Épée Noire Guerrier de l'Est
 PROPITEM_TXT_826291,Eastern Warrior Black Axe,Hache Noire Guerrier de l'Est
-PROPITEM_TXT_826292,Eastern Warrior Black Big Sword,Grande Épée Noire Guerrier de l'Est
-PROPITEM_TXT_826293,Eastern Warrior Black Big Axe,Grande Hache Noire Guerrier de l'Est
+PROPITEM_TXT_826292,Eastern Warrior Black Big Sword,Glaive Noire Guerrier de l'Est
+PROPITEM_TXT_826293,Eastern Warrior Black Big Axe,Doloire Noire Guerrier de l'Est
 PROPITEM_TXT_826294,Eastern Warrior Black Stick,Sceptre Noir Guerrier de l'Est
 PROPITEM_TXT_826295,Eastern Warrior Black Knuckle,Poing Noirs Guerrier de l'Est
 PROPITEM_TXT_826296,Eastern Warrior Black Bow,Arc Noir Guerrier de l'Est
@@ -19730,8 +19730,8 @@ PROPITEM_TXT_826303,Eastern Warrior Black Weapon Set,Set d'Armes Noires Guerrier
 PROPITEM_TXT_826304,Select which Eastern Warrior Black Weapon you want to receive!,Sélectionnez quelle arme noire du Guerrier de l'Est vous souhaitez recevoir !
 PROPITEM_TXT_826305,Eastern Warrior Red Sword,Épée Rouge Guerrier de l'Est
 PROPITEM_TXT_826306,Eastern Warrior Red Axe,Hache Rouge Guerrier de l'Est
-PROPITEM_TXT_826307,Eastern Warrior Red Big Sword,Grande Épée Rouge Guerrier de l'Est
-PROPITEM_TXT_826308,Eastern Warrior Red Big Axe,Grande Hache Rouge Guerrier de l'Est
+PROPITEM_TXT_826307,Eastern Warrior Red Big Sword,Glaive Rouge Guerrier de l'Est
+PROPITEM_TXT_826308,Eastern Warrior Red Big Axe,Doloire Rouge Guerrier de l'Est
 PROPITEM_TXT_826309,Eastern Warrior Red Stick,Sceptre Rouge Guerrier de l'Est
 PROPITEM_TXT_826310,Eastern Warrior Red Knuckle,Poing Rouges Guerrier de l'Est
 PROPITEM_TXT_826311,Eastern Warrior Red Bow,Arc Rouge Guerrier de l'Est
@@ -19763,8 +19763,8 @@ PROPITEM_TXT_826333,The Dark Dragon Set for female characters.,Le Set Dragon Noi
 PROPITEM_TXT_826334,A special cloak for players who completed the last hero quest.,Une cape spéciale pour les joueurs ayant terminé la dernière quête héroïque.
 PROPITEM_TXT_201072,Archangel White Sword,Épée Blanche Archange
 PROPITEM_TXT_201043,Archangel White Axe,Hache Blanche Archange
-PROPITEM_TXT_201044,Archangel White Big Sword,Grande Épée Blanche Archange
-PROPITEM_TXT_201045,Archangel White Big Axe,Grande Hache Blanche Archange
+PROPITEM_TXT_201044,Archangel White Big Sword,Glaive Blanche Archange
+PROPITEM_TXT_201045,Archangel White Big Axe,Doloire Blanche Archange
 PROPITEM_TXT_201046,Archangel White Stick,Sceptre Blanc Archange
 PROPITEM_TXT_201047,Archangel White Knuckle,Poing Blancs Archange
 PROPITEM_TXT_201048,Archangel White Bow,Arc Blanc Archange
@@ -19778,8 +19778,8 @@ PROPITEM_TXT_201055,Archangel White Weapon Set,Set d’Armes Blanches Archange
 PROPITEM_TXT_201056,Select which Archangel White Weapon you want to receive!,Sélectionnez quelle arme blanche de l’Archange vous souhaitez recevoir !
 PROPITEM_TXT_201057,Archangel Black Sword,Épée Noire Archange
 PROPITEM_TXT_201058,Archangel Black Axe,Hache Noire Archange
-PROPITEM_TXT_201059,Archangel Black Big Sword,Grande Épée Noire Archange
-PROPITEM_TXT_201060,Archangel Black Big Axe,Grande Hache Noire Archange
+PROPITEM_TXT_201059,Archangel Black Big Sword,Glaive Noire Archange
+PROPITEM_TXT_201060,Archangel Black Big Axe,Doloire Noire Archange
 PROPITEM_TXT_201061,Archangel Black Stick,Sceptre Noir Archange
 PROPITEM_TXT_201062,Archangel Black Knuckle,Poing Noirs Archange
 PROPITEM_TXT_201063,Archangel Black Bow,Arc Noir Archange
@@ -19812,8 +19812,8 @@ PROPITEM_TXT_201079,This scroll makes your Private or Vendor Shop appear at the 
 PROPITEM_TXT_201081,Adds an additional stat to Premium Shop fashion items and cloaks. Target item becomes no-trade unless you use a Blessing of the Goddess item to overwrite the status. (You CAN'T remove it from the Jewel Manager Peach),Ajoute un bonus supplémentaire aux objets de mode et capes de la Boutique Premium. L’objet ciblé devient non échangeable sauf si vous utilisez un objet Bénédiction de la Déesse pour écraser le statut. (Vous NE POUVEZ PAS le retirer du Gestionnaire de Joyaux Peach)
 PROPITEM_TXT_201082,Kalgas' Fury Sword,Épée de la Furie de Kalgas
 PROPITEM_TXT_201083,Kalgas' Fury Axe,Hache de la Furie de Kalgas
-PROPITEM_TXT_201084,Kalgas' Fury Big Sword,Grande Épée de la Furie de Kalgas
-PROPITEM_TXT_201085,Kalgas' Fury Big Axe,Grande Hache de la Furie de Kalgas
+PROPITEM_TXT_201084,Kalgas' Fury Big Sword,Glaive de la Furie de Kalgas
+PROPITEM_TXT_201085,Kalgas' Fury Big Axe,Doloire de la Furie de Kalgas
 PROPITEM_TXT_201086,Kalgas' Fury Stick,Bâton de la Furie de Kalgas
 PROPITEM_TXT_201087,Kalgas' Fury Knuckle,Gants de la Furie de Kalgas
 PROPITEM_TXT_201088,Kalgas' Fury Bow,Arc de la Furie de Kalgas
@@ -20212,8 +20212,8 @@ PROPITEM_TXT_826649,Snake Hunting Pack,Pack Chasse au Serpent
 PROPITEM_TXT_826650,"A package containing 5x Def-Upcut Stone, 5x Activition, 5x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un paquet contenant 5x Pierre Déf-Upcut, 5x Activation, 5x Anguille Grillée et 5x Boisson Vitale X ou Recharge. Tous les objets sont également liés."
 PROPITEM_TXT_826651,Ice Ribbon Sword,Épée Ruban de Glace
 PROPITEM_TXT_826652,Ice Ribbon Axe,Hache Ruban de Glace
-PROPITEM_TXT_826653,Ice Ribbon Big Sword,Grande Épée Ruban de Glace
-PROPITEM_TXT_826654,Ice Ribbon Big Axe,Grande Hache Ruban de Glace
+PROPITEM_TXT_826653,Ice Ribbon Big Sword,Glaive Ruban de Glace
+PROPITEM_TXT_826654,Ice Ribbon Big Axe,Doloire Ruban de Glace
 PROPITEM_TXT_826655,Ice Ribbon Stick,Bâton Ruban de Glace
 PROPITEM_TXT_826656,Ice Ribbon Knuckle,Gants Ruban de Glace
 PROPITEM_TXT_826657,Ice Ribbon Bow,Arc Ruban de Glace
@@ -20601,8 +20601,8 @@ PROPITEM_TXT_827191,Snakyjamas Costume Lucky Box,Boîte Chance Snakyjamas
 PROPITEM_TXT_827192,This box contains a Snakyjamas Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un ensemble Snakyjamas avec bonus de vitesse. Vous pouvez choisir votre genre après ouverture.
 PROPITEM_TXT_827193,Lucky Neko Sword,Épée Lucky Neko
 PROPITEM_TXT_827194,Lucky Neko Axe,Hache Lucky Neko
-PROPITEM_TXT_827195,Lucky Neko Big Sword,Grande Épée Lucky Neko
-PROPITEM_TXT_827196,Lucky Neko Big Axe,Grande Hache Lucky Neko
+PROPITEM_TXT_827195,Lucky Neko Big Sword,Glaive Lucky Neko
+PROPITEM_TXT_827196,Lucky Neko Big Axe,Doloire Lucky Neko
 PROPITEM_TXT_827197,Lucky Neko Stick,Bâton Lucky Neko
 PROPITEM_TXT_827198,Lucky Neko Knuckle,Gantelet Lucky Neko
 PROPITEM_TXT_827199,Lucky Neko Bow,Arc Lucky Neko
@@ -21279,8 +21279,8 @@ PROPITEM_TXT_827776,Scroll of Pickup Range (1 day),Parchemin de Portée de Ramas
 PROPITEM_TXT_827777,Pet's pickup range is increased by 100% for a day,La portée de ramassage du familier est augmentée de 100 % pendant 1 jour
 PROPITEM_TXT_827778,Ghost of the Forgotten Sword,Fantôme de l'Épée Oubliée
 PROPITEM_TXT_827779,Ghost of the Forgotten Axe,Fantôme de la Hache Oubliée
-PROPITEM_TXT_827780,Ghost of the Forgotten Big Sword,Fantôme de la Grande Épée Oubliée
-PROPITEM_TXT_827781,Ghost of the Forgotten Big Axe,Fantôme de la Grande Hache Oubliée
+PROPITEM_TXT_827780,Ghost of the Forgotten Big Sword,Fantôme de la Glaive Oubliée
+PROPITEM_TXT_827781,Ghost of the Forgotten Big Axe,Fantôme de la Doloire Oubliée
 PROPITEM_TXT_827782,Ghost of the Forgotten Stick,Fantôme du Sceptre Oublié
 PROPITEM_TXT_827783,Ghost of the Forgotten Knuckle,Fantôme du Poing Oubliés
 PROPITEM_TXT_827784,Ghost of the Forgotten Bow,Fantôme de l'Arc Oublié
@@ -21302,8 +21302,8 @@ PROPITEM_TXT_827799,Veduque Hornhair,Cheveux Cornus Veduque
 PROPITEM_TXT_827800,"Twisted horns emerge from this cursed hair, embodying the raw power of the Veduque. A symbol of dominance over the shadows.","Des cornes torsadées émergent de ces cheveux maudits, incarnant la puissance brute du Veduque. Un symbole de domination sur les ombres."
 PROPITEM_TXT_827801,Wilds Sword,Épée de désiréa
 PROPITEM_TXT_827802,Wilds Axe,Hache de désiréa
-PROPITEM_TXT_827803,Wilds Big Sword,Grande Épée de désiréa
-PROPITEM_TXT_827804,Wilds Big Axe,Grande Hache de désiréa
+PROPITEM_TXT_827803,Wilds Big Sword,Glaive de désiréa
+PROPITEM_TXT_827804,Wilds Big Axe,Doloire de désiréa
 PROPITEM_TXT_827805,Wilds Stick,Sceptre de désiréa
 PROPITEM_TXT_827806,Wilds Knuckle,Poing de désiréa
 PROPITEM_TXT_827807,Wilds Bow,Arc de désiréa
@@ -21883,8 +21883,8 @@ PROPITEM_TXT_134729,Baby Pang,Bébé Pang
 PROPITEM_TXT_134730,Cute Baby Pang that follows its owner around and picks up,Bébé Pang adorable qui suit son propriétaire et ramasse les objets
 PROPITEM_TXT_134731,Candle Weapon Sword,Arme Bougie : Épée
 PROPITEM_TXT_134732,Candle Weapon Axe,Arme Bougie : Hache
-PROPITEM_TXT_134733,Candle Weapon Big Sword,Arme Bougie : Grande épée
-PROPITEM_TXT_134734,Candle Weapon Big Axe,Arme Bougie : Grande hache
+PROPITEM_TXT_134733,Candle Weapon Big Sword,Arme Bougie : Glaive
+PROPITEM_TXT_134734,Candle Weapon Big Axe,Arme Bougie : Doloire
 PROPITEM_TXT_134735,Candle Weapon Stick,Arme Bougie : Sceptre
 PROPITEM_TXT_134736,Candle Weapon Knuckle,Arme Bougie : Poing
 PROPITEM_TXT_134737,Candle Weapon Bow,Arme Bougie : Arc
@@ -22230,8 +22230,8 @@ PROPITEM_TXT_900315,3rd Anniversary Housing Furniture,Meubles du 3e anniversaire
 PROPITEM_TXT_900316,Select which housing prop you want to receive!,Sélectionnez le meuble que vous souhaitez recevoir !
 PROPITEM_TXT_900317,Cyberneon Sword,Épée Cybernéon
 PROPITEM_TXT_900318,Cyberneon Axe,Hache Cybernéon
-PROPITEM_TXT_900319,Cyberneon Big Sword,Grande Épée Cybernéon
-PROPITEM_TXT_900320,Cyberneon Big Axe,Grande Hache Cybernéon
+PROPITEM_TXT_900319,Cyberneon Big Sword,Glaive Cybernéon
+PROPITEM_TXT_900320,Cyberneon Big Axe,Doloire Cybernéon
 PROPITEM_TXT_900321,Cyberneon Stick,Sceptre Cybernéon
 PROPITEM_TXT_900322,Cyberneon Knuckle,Poing Cybernéon
 PROPITEM_TXT_900323,Cyberneon Bow,Arc Cybernéon
@@ -22552,8 +22552,8 @@ PROPITEM_TXT_134772,[Event] Experiment Material Box,[Événement] Coffre Matéri
 PROPITEM_TXT_134773,"A Box with full of materials required for an experiment. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients.","Un coffre rempli de matériaux requis pour une expérience. Apportez-le au Maire. Si vous l'ouvrez vous-même, vous pourriez obtenir de bons ingrédients."
 PROPITEM_TXT_900713,Obsidian Flame Orange Sword,Épée Flamme Obsidienne Orange
 PROPITEM_TXT_900714,Obsidian Flame Orange Axe,Hache Flamme Obsidienne Orange
-PROPITEM_TXT_900715,Obsidian Flame Orange Big Sword,Grande Épée Flamme Obsidienne Orange
-PROPITEM_TXT_900716,Obsidian Flame Orange Big Axe,Grande Hache Flamme Obsidienne Orange
+PROPITEM_TXT_900715,Obsidian Flame Orange Big Sword,Glaive Flamme Obsidienne Orange
+PROPITEM_TXT_900716,Obsidian Flame Orange Big Axe,Doloire Flamme Obsidienne Orange
 PROPITEM_TXT_900717,Obsidian Flame Orange Stick,Sceptre Flamme Obsidienne Orange
 PROPITEM_TXT_900718,Obsidian Flame Orange Knuckle,Poing Flamme Obsidienne Orange
 PROPITEM_TXT_900719,Obsidian Flame Orange Bow,Arc Flamme Obsidienne Orange
@@ -22567,8 +22567,8 @@ PROPITEM_TXT_900726,Obsidian Flame Orange Weapon Set,Ensemble d'Armes Flamme Obs
 PROPITEM_TXT_900727,Select which Obsidian Flame Orange Weapon you want to receive!,Sélectionnez l'arme Flamme Obsidienne Orange que vous souhaitez recevoir !
 PROPITEM_TXT_900728,Obsidian Flame Purple Sword,Épée Flamme Obsidienne Violet
 PROPITEM_TXT_900729,Obsidian Flame Purple Axe,Hache Flamme Obsidienne Violet
-PROPITEM_TXT_900730,Obsidian Flame Purple Big Sword,Grande Épée Flamme Obsidienne Violet
-PROPITEM_TXT_900731,Obsidian Flame Purple Big Axe,Grande Hache Flamme Obsidienne Violet
+PROPITEM_TXT_900730,Obsidian Flame Purple Big Sword,Glaive Flamme Obsidienne Violet
+PROPITEM_TXT_900731,Obsidian Flame Purple Big Axe,Doloire Flamme Obsidienne Violet
 PROPITEM_TXT_900732,Obsidian Flame Purple Stick,Sceptre Flamme Obsidienne Violet
 PROPITEM_TXT_900733,Obsidian Flame Purple Knuckle,Poing Flamme Obsidienne Violet
 PROPITEM_TXT_900734,Obsidian Flame Purple Bow,Arc Flamme Obsidienne Violet
@@ -22582,8 +22582,8 @@ PROPITEM_TXT_900741,Obsidian Flame Purple Weapon Set,Ensemble d'Armes Flamme Obs
 PROPITEM_TXT_900742,Select which Obsidian Flame Purple Weapon you want to receive!,Sélectionnez l'arme Flamme Obsidienne Violet que vous souhaitez recevoir !
 PROPITEM_TXT_900743,Obsidian Flame Red Sword,Épée Flamme Obsidienne Rouge
 PROPITEM_TXT_900744,Obsidian Flame Red Axe,Hache Flamme Obsidienne Rouge
-PROPITEM_TXT_900745,Obsidian Flame Red Big Sword,Grande Épée Flamme Obsidienne Rouge
-PROPITEM_TXT_900746,Obsidian Flame Red Big Axe,Grande Hache Flamme Obsidienne Rouge
+PROPITEM_TXT_900745,Obsidian Flame Red Big Sword,Glaive Flamme Obsidienne Rouge
+PROPITEM_TXT_900746,Obsidian Flame Red Big Axe,Doloire Flamme Obsidienne Rouge
 PROPITEM_TXT_900747,Obsidian Flame Red Stick,Sceptre Flamme Obsidienne Rouge
 PROPITEM_TXT_900748,Obsidian Flame Red Knuckle,Poing Flamme Obsidienne Rouge
 PROPITEM_TXT_900749,Obsidian Flame Red Bow,Arc Flamme Obsidienne Rouge
@@ -22597,8 +22597,8 @@ PROPITEM_TXT_900756,Obsidian Flame Red Weapon Set,Ensemble d'Armes Flamme Obsidi
 PROPITEM_TXT_900757,Select which Obsidian Flame Red Weapon you want to receive!,Sélectionnez l'arme Flamme Obsidienne Rouge que vous souhaitez recevoir !
 PROPITEM_TXT_900758,Obsidian Flame Blue Sword,Épée Flamme Obsidienne Bleu
 PROPITEM_TXT_900759,Obsidian Flame Blue Axe,Hache Flamme Obsidienne Bleu
-PROPITEM_TXT_900760,Obsidian Flame Blue Big Sword,Grande Épée Flamme Obsidienne Bleu
-PROPITEM_TXT_900761,Obsidian Flame Blue Big Axe,Grande Hache Flamme Obsidienne Bleu
+PROPITEM_TXT_900760,Obsidian Flame Blue Big Sword,Glaive Flamme Obsidienne Bleu
+PROPITEM_TXT_900761,Obsidian Flame Blue Big Axe,Doloire Flamme Obsidienne Bleu
 PROPITEM_TXT_900762,Obsidian Flame Blue Stick,Sceptre Flamme Obsidienne Bleu
 PROPITEM_TXT_900763,Obsidian Flame Blue Knuckle,Poing Flamme Obsidienne Bleu
 PROPITEM_TXT_900764,Obsidian Flame Blue Bow,Arc Flamme Obsidienne Bleu
@@ -22612,8 +22612,8 @@ PROPITEM_TXT_900771,Obsidian Flame Blue Weapon Set,Ensemble d'Armes Flamme Obsid
 PROPITEM_TXT_900772,Select which Obsidian Flame Blue Weapon you want to receive!,Sélectionnez l'arme Flamme Obsidienne Bleu que vous souhaitez recevoir !
 PROPITEM_TXT_900773,Obsidian Flame Green Sword,Épée Flamme Obsidienne Vert
 PROPITEM_TXT_900774,Obsidian Flame Green Axe,Hache Flamme Obsidienne Vert
-PROPITEM_TXT_900775,Obsidian Flame Green Big Sword,Grande Épée Flamme Obsidienne Vert
-PROPITEM_TXT_900776,Obsidian Flame Green Big Axe,Grande Hache Flamme Obsidienne Vert
+PROPITEM_TXT_900775,Obsidian Flame Green Big Sword,Glaive Flamme Obsidienne Vert
+PROPITEM_TXT_900776,Obsidian Flame Green Big Axe,Doloire Flamme Obsidienne Vert
 PROPITEM_TXT_900777,Obsidian Flame Green Stick,Sceptre Flamme Obsidienne Vert
 PROPITEM_TXT_900778,Obsidian Flame Green Knuckle,Poing Flamme Obsidienne Vert
 PROPITEM_TXT_900779,Obsidian Flame Green Bow,Arc Flamme Obsidienne Vert
@@ -22627,8 +22627,8 @@ PROPITEM_TXT_900786,Obsidian Flame Green Weapon Set,Ensemble d'Armes Flamme Obsi
 PROPITEM_TXT_900787,Select which Obsidian Flame Green Weapon you want to receive!,Sélectionnez l'arme Flamme Obsidienne Vert que vous souhaitez recevoir !
 PROPITEM_TXT_900788,Obsidian Flame Yellow Sword,Épée Flamme Obsidienne Jaune
 PROPITEM_TXT_900789,Obsidian Flame Yellow Axe,Hache Flamme Obsidienne Jaune
-PROPITEM_TXT_900790,Obsidian Flame Yellow Big Sword,Grande Épée Flamme Obsidienne Jaune
-PROPITEM_TXT_900791,Obsidian Flame Yellow Big Axe,Grande Hache Flamme Obsidienne Jaune
+PROPITEM_TXT_900790,Obsidian Flame Yellow Big Sword,Glaive Flamme Obsidienne Jaune
+PROPITEM_TXT_900791,Obsidian Flame Yellow Big Axe,Doloire Flamme Obsidienne Jaune
 PROPITEM_TXT_900792,Obsidian Flame Yellow Stick,Sceptre Flamme Obsidienne Jaune
 PROPITEM_TXT_900793,Obsidian Flame Yellow Knuckle,Poing Flamme Obsidienne Jaune
 PROPITEM_TXT_900794,Obsidian Flame Yellow Bow,Arc Flamme Obsidienne Jaune
@@ -22642,8 +22642,8 @@ PROPITEM_TXT_900801,Obsidian Flame Yellow Weapon Set,Ensemble d'Armes Flamme Obs
 PROPITEM_TXT_900802,Select which Obsidian Flame Yellow Weapon you want to receive!,Sélectionnez l'arme Flamme Obsidienne Jaune que vous souhaitez recevoir !
 PROPITEM_TXT_900803,Obsidian Flame White Sword,Épée Flamme Obsidienne Blanc
 PROPITEM_TXT_900804,Obsidian Flame White Axe,Hache Flamme Obsidienne Blanc
-PROPITEM_TXT_900805,Obsidian Flame White Big Sword,Grande Épée Flamme Obsidienne Blanc
-PROPITEM_TXT_900806,Obsidian Flame White Big Axe,Grande Hache Flamme Obsidienne Blanc
+PROPITEM_TXT_900805,Obsidian Flame White Big Sword,Glaive Flamme Obsidienne Blanc
+PROPITEM_TXT_900806,Obsidian Flame White Big Axe,Doloire Flamme Obsidienne Blanc
 PROPITEM_TXT_900807,Obsidian Flame White Stick,Sceptre Flamme Obsidienne Blanc
 PROPITEM_TXT_900808,Obsidian Flame White Knuckle,Poing Flamme Obsidienne Blanc
 PROPITEM_TXT_900809,Obsidian Flame White Bow,Arc Flamme Obsidienne Blanc
@@ -22657,8 +22657,8 @@ PROPITEM_TXT_900816,Obsidian Flame  White Weapon Set,Ensemble d'Armes Flamme Obs
 PROPITEM_TXT_900817,Select which Obsidian Flame White Weapon you want to receive!,Sélectionnez l'arme Flamme Obsidienne Blanc que vous souhaitez recevoir !
 PROPITEM_TXT_900818,Obsidian Flame Black Sword,Épée Flamme Obsidienne Noir
 PROPITEM_TXT_900819,Obsidian Flame Black Axe,Hache Flamme Obsidienne Noir
-PROPITEM_TXT_900820,Obsidian Flame Black Big Sword,Grande Épée Flamme Obsidienne Noir
-PROPITEM_TXT_900821,Obsidian Flame Black Big Axe,Grande Hache Flamme Obsidienne Noir
+PROPITEM_TXT_900820,Obsidian Flame Black Big Sword,Glaive Flamme Obsidienne Noir
+PROPITEM_TXT_900821,Obsidian Flame Black Big Axe,Doloire Flamme Obsidienne Noir
 PROPITEM_TXT_900822,Obsidian Flame Black Stick,Sceptre Flamme Obsidienne Noir
 PROPITEM_TXT_900823,Obsidian Flame Black Knuckle,Poing Flamme Obsidienne Noir
 PROPITEM_TXT_900824,Obsidian Flame Black Bow,Arc Flamme Obsidienne Noir
@@ -24034,8 +24034,8 @@ PROPITEM_TXT_134872,The 2025 FWC Flame Bileire Costume Set for male characters.,
 PROPITEM_TXT_134873,FWC Red Wings,Ailes Rouges FWC
 PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,2025 FWC Épée Lusaka Flamme
 PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,2025 FWC Hache Lusaka Flamme
-PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,2025 FWC Grande Épée Lusaka Flamme
-PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,2025 FWC Grande Hache Lusaka Flamme
+PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,2025 FWC Glaive Lusaka Flamme
+PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,2025 FWC Doloire Lusaka Flamme
 PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,2025 FWC Bâton Lusaka Flamme
 PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,2025 FWC Poing Lusaka Flamme
 PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,2025 FWC Arc Lusaka Flamme
@@ -24669,8 +24669,8 @@ PROPITEM_TXT_155620,Madrigal PickupPet Selection Box (30 days),Boîte de sélect
 PROPITEM_TXT_155621,A box containing a pickup pet item that can be used immediately!,Une boîte contenant un objet de familier ramasseur utilisable immédiatement !
 PROPITEM_TXT_902135,Knotty Scarecrow Sword,Épée Épouvantail Noueux
 PROPITEM_TXT_902136,Knotty Scarecrow Axe,Hache Épouvantail Noueux
-PROPITEM_TXT_902137,Knotty Scarecrow Big Sword,Grande épée Épouvantail Noueux
-PROPITEM_TXT_902138,Knotty Scarecrow Big Axe,Grande hache Épouvantail Noueux
+PROPITEM_TXT_902137,Knotty Scarecrow Big Sword,Glaive Épouvantail Noueux
+PROPITEM_TXT_902138,Knotty Scarecrow Big Axe,Doloire Épouvantail Noueux
 PROPITEM_TXT_902139,Knotty Scarecrow Stick,Sceptre Épouvantail Noueux
 PROPITEM_TXT_902140,Knotty Scarecrow Knuckle,Poing Épouvantail Noueux
 PROPITEM_TXT_902141,Knotty Scarecrow Bow,Arc Épouvantail Noueux
@@ -24927,7 +24927,7 @@ PROPITEM_TXT_155801,Changes level and job,Change le niveau et le métier
 PROPITEM_TXT_155802,Violent Soul Shield,Bouclier d'Âme Violente
 PROPITEM_TXT_155803,Keokuk Shield,Bouclier Sorcier Lycan
 PROPITEM_TXT_155804,Taiaha's Axe,Hache de Taiaha
-PROPITEM_TXT_155805,Taiaha's Great Axe,Grande Hache de Taiaha
+PROPITEM_TXT_155805,Taiaha's Great Axe,Doloire de Taiaha
 PROPITEM_TXT_155806,Kanonicus Bow,Arc Kanonicus
 PROPITEM_TXT_155807,Twisted Soul Stick,Bâton d'Âme Tordue
 PROPITEM_TXT_155808,Anguished Soul Stick,Bâton d'Âme Angoissée
@@ -24935,7 +24935,7 @@ PROPITEM_TXT_155809,Keokuk Stick,Bâton Sorcier Lycan
 PROPITEM_TXT_155810,Mara's Soul Staff,Bâton d'Âme de Mara
 PROPITEM_TXT_155811,Keokuk Shaman Staff,Bâton Chaman Sorcier Lycan
 PROPITEM_TXT_155812,Orcus Sword,Épée d'Orcus
-PROPITEM_TXT_155813,Orcus Great Sword,Grande Épée d'Orcus
+PROPITEM_TXT_155813,Orcus Great Sword,Glaive d'Orcus
 PROPITEM_TXT_155814,Mara's Soul Wand,Baguette d'Âme de Mara
 PROPITEM_TXT_155815,Keokuk Warlock Wand,Baguette de Sorcier Sorcier Lycan
 PROPITEM_TXT_155816,Orcus Yo-Yo,Yo-Yo d'Orcus
@@ -24969,8 +24969,8 @@ PROPITEM_TXT_135018,Scroll of increased Jewel synthesis chance Select Box,Boîte
 PROPITEM_TXT_135019,Select which Jewel Synthesis Chance Scroll you want!,Sélectionnez le Parchemin Chance Synthèse Joyaux que vous souhaitez !
 PROPITEM_TXT_902176,Muran Sword,Épée Muran
 PROPITEM_TXT_902177,Muran Axe,Hache Muran
-PROPITEM_TXT_902178,Muran Big Sword,Grande Épée Muran
-PROPITEM_TXT_902179,Muran Big Axe,Grande Hache Muran
+PROPITEM_TXT_902178,Muran Big Sword,Glaive Muran
+PROPITEM_TXT_902179,Muran Big Axe,Doloire Muran
 PROPITEM_TXT_902180,Muran Stick,Sceptre Muran
 PROPITEM_TXT_902181,Muran Knuckle,Poing Muran
 PROPITEM_TXT_902182,Muran Bow,Arc Muran
@@ -25579,12 +25579,12 @@ PROPITEM_TXT_902709,Button Mark Green Hat (M),Chapeau Button Mark Vert (H)
 PROPITEM_TXT_902710,Button Mark Green Suit (M),Costume Button Mark Vert (H)
 PROPITEM_TXT_902711,Button Mark Green Shoes (M),Chaussures Button Mark Vert (H)
 PROPITEM_TXT_902712,Button Mark 10% Green Set (M),Set Button Mark 10 % Vert (H)
-PROPITEM_TXT_902713,The Button Mark 10% Green Set for male characters.,Set Button Mark 10 % Vert pour personnages masculins
+PROPITEM_TXT_902713,The Button Mark 10% Green Set for male characters.,Costume Button Mark 10 % Vert pour personnages masculins
 PROPITEM_TXT_902714,Button Mark Green Hat (F),Chapeau Button Mark Vert (F)
 PROPITEM_TXT_902715,Button Mark Green Suit (F),Costume Button Mark Vert (F)
 PROPITEM_TXT_902716,Button Mark Green Shoes (F),Chaussures Button Mark Vert (F)
 PROPITEM_TXT_902717,Button Mark 10% Green Set (F),Set Button Mark 10 % Vert (F)
-PROPITEM_TXT_902718,The Button Mark 10% Green Set for female characters.,Set Button Mark 10 % Vert pour personnages féminins
+PROPITEM_TXT_902718,The Button Mark 10% Green Set for female characters.,Costume Button Mark 10 % Vert pour personnages féminins
 PROPITEM_TXT_902719,Button Mark 10% Turquoise Set,Set Button Mark 10 % Turquoise
 PROPITEM_TXT_902720,Button Mark Turquoise Backpack,Sac à dos Button Mark Turquoise
 PROPITEM_TXT_902721,Button Mark Turquoise Mask,Masque Button Mark Turquoise
@@ -25592,12 +25592,12 @@ PROPITEM_TXT_902722,Button Mark Turquoise Hat (M),Chapeau Button Mark Turquoise 
 PROPITEM_TXT_902723,Button Mark Turquoise Suit (M),Costume Button Mark Turquoise (H)
 PROPITEM_TXT_902724,Button Mark Turquoise Shoes (M),Chaussures Button Mark Turquoise (H)
 PROPITEM_TXT_902725,Button Mark 10% Turquoise Set (M),Set Button Mark 10 % Turquoise (H)
-PROPITEM_TXT_902726,The Button Mark 10% Turquoise Set for male characters.,Set Button Mark 10 % Turquoise pour personnages masculins
+PROPITEM_TXT_902726,The Button Mark 10% Turquoise Set for male characters.,Costume Button Mark 10 % Turquoise pour personnages masculins
 PROPITEM_TXT_902727,Button Mark Turquoise Hat (F),Chapeau Button Mark Turquoise (F)
 PROPITEM_TXT_902728,Button Mark Turquoise Suit (F),Costume Button Mark Turquoise (F)
 PROPITEM_TXT_902729,Button Mark Turquoise Shoes (F),Chaussures Button Mark Turquoise (F)
 PROPITEM_TXT_902730,Button Mark 10% Turquoise Set (F),Set Button Mark 10 % Turquoise (F)
-PROPITEM_TXT_902731,The Button Mark 10% Turquoise Set for female characters.,Set Button Mark 10 % Turquoise pour personnages féminins
+PROPITEM_TXT_902731,The Button Mark 10% Turquoise Set for female characters.,Costume Button Mark 10 % Turquoise pour personnages féminins
 PROPITEM_TXT_902732,Button Mark 8% Lime Set,Set Button Mark 8 % Citron vert
 PROPITEM_TXT_902733,Button Mark Lime Backpack,Sac à dos Button Mark Citron vert
 PROPITEM_TXT_902734,Button Mark Lime Mask,Masque Button Mark Citron vert
@@ -25605,12 +25605,12 @@ PROPITEM_TXT_902735,Button Mark Lime Hat (M),Chapeau Button Mark Citron vert (H)
 PROPITEM_TXT_902736,Button Mark Lime Suit (M),Costume Button Mark Citron vert (H)
 PROPITEM_TXT_902737,Button Mark Lime Shoes (M),Chaussures Button Mark Citron vert (H)
 PROPITEM_TXT_902738,Button Mark 8% Lime Set (M),Set Button Mark 8 % Citron vert (H)
-PROPITEM_TXT_902739,The Button Mark 8% Lime Set for male characters.,Set Button Mark 8 % Citron vert pour personnages masculins
+PROPITEM_TXT_902739,The Button Mark 8% Lime Set for male characters.,Costume Button Mark 8 % Citron vert pour personnages masculins
 PROPITEM_TXT_902740,Button Mark Lime Hat (F),Chapeau Button Mark Citron vert (F)
 PROPITEM_TXT_902741,Button Mark Lime Suit (F),Costume Button Mark Citron vert (F)
 PROPITEM_TXT_902742,Button Mark Lime Shoes (F),Chaussures Button Mark Citron vert (F)
 PROPITEM_TXT_902743,Button Mark 8% Lime Set (F),Set Button Mark 8 % Citron vert (F)
-PROPITEM_TXT_902744,The Button Mark 8% Lime Set for female characters.,Set Button Mark 8 % Citron vert pour personnages féminins
+PROPITEM_TXT_902744,The Button Mark 8% Lime Set for female characters.,Costume Button Mark 8 % Citron vert pour personnages féminins
 PROPITEM_TXT_902745,Button Mark 8% Orange Set,Set Button Mark 8 % Orange
 PROPITEM_TXT_902746,Button Mark Orange Backpack,Sac à dos Button Mark Orange
 PROPITEM_TXT_902747,Button Mark Orange Mask,Masque Button Mark Orange
@@ -25618,12 +25618,12 @@ PROPITEM_TXT_902748,Button Mark Orange Hat (M),Chapeau Button Mark Orange (H)
 PROPITEM_TXT_902749,Button Mark Orange Suit (M),Costume Button Mark Orange (H)
 PROPITEM_TXT_902750,Button Mark Orange Shoes (M),Chaussures Button Mark Orange (H)
 PROPITEM_TXT_902751,Button Mark 8% Orange Set (M),Set Button Mark 8 % Orange (H)
-PROPITEM_TXT_902752,The Button Mark 8% Orange Set for male characters.,Set Button Mark 8 % Orange pour personnages masculins
+PROPITEM_TXT_902752,The Button Mark 8% Orange Set for male characters.,Costume Button Mark 8 % Orange pour personnages masculins
 PROPITEM_TXT_902753,Button Mark Orange Hat (F),Chapeau Button Mark Orange (F)
 PROPITEM_TXT_902754,Button Mark Orange Suit (F),Costume Button Mark Orange (F)
 PROPITEM_TXT_902755,Button Mark Orange Shoes (F),Chaussures Button Mark Orange (F)
 PROPITEM_TXT_902756,Button Mark 8% Orange Set (F),Set Button Mark 8 % Orange (F)
-PROPITEM_TXT_902757,The Button Mark 8% Orange Set for female characters.,Set Button Mark 8 % Orange pour personnages féminins
+PROPITEM_TXT_902757,The Button Mark 8% Orange Set for female characters.,Costume Button Mark 8 % Orange pour personnages féminins
 PROPITEM_TXT_902758,Button Mark 6% Purple Set,Set Button Mark 6 % Violet
 PROPITEM_TXT_902759,Button Mark Purple Backpack,Sac à dos Button Mark Violet
 PROPITEM_TXT_902760,Button Mark Purple Mask,Masque Button Mark Violet
@@ -25631,12 +25631,12 @@ PROPITEM_TXT_902761,Button Mark Purple Hat (M),Chapeau Button Mark Violet (H)
 PROPITEM_TXT_902762,Button Mark Purple Suit (M),Costume Button Mark Violet (H)
 PROPITEM_TXT_902763,Button Mark Purple Shoes (M),Chaussures Button Mark Violet (H)
 PROPITEM_TXT_902764,Button Mark 6% Purple Set (M),Set Button Mark 6 % Violet (H)
-PROPITEM_TXT_902765,The Button Mark 6% Purple Set for male characters.,Set Button Mark 6 % Violet pour personnages masculins
+PROPITEM_TXT_902765,The Button Mark 6% Purple Set for male characters.,Costume Button Mark 6 % Violet pour personnages masculins
 PROPITEM_TXT_902766,Button Mark Purple Hat (F),Chapeau Button Mark Violet (F)
 PROPITEM_TXT_902767,Button Mark Purple Suit (F),Costume Button Mark Violet (F)
 PROPITEM_TXT_902768,Button Mark Purple Shoes (F),Chaussures Button Mark Violet (F)
 PROPITEM_TXT_902769,Button Mark 6% Purple Set (F),Set Button Mark 6 % Violet (F)
-PROPITEM_TXT_902770,The Button Mark 6% Purple Set for female characters.,Set Button Mark 6 % Violet pour personnages féminins
+PROPITEM_TXT_902770,The Button Mark 6% Purple Set for female characters.,Costume Button Mark 6 % Violet pour personnages féminins
 PROPITEM_TXT_902771,Button Mark 4% Red Set,Set Button Mark 4 % Rouge
 PROPITEM_TXT_902772,Button Mark Red Backpack,Sac à dos Button Mark Rouge
 PROPITEM_TXT_902773,Button Mark Red Mask,Masque Button Mark Rouge
@@ -25644,12 +25644,12 @@ PROPITEM_TXT_902774,Button Mark Red Hat (M),Chapeau Button Mark Rouge (H)
 PROPITEM_TXT_902775,Button Mark Red Suit (M),Costume Button Mark Rouge (H)
 PROPITEM_TXT_902776,Button Mark Red Shoes (M),Chaussures Button Mark Rouge (H)
 PROPITEM_TXT_902777,Button Mark 4% Red Set (M),Set Button Mark 4 % Rouge (H)
-PROPITEM_TXT_902778,The Button Mark 4% Red Set for male characters.,Set Button Mark 4 % Rouge pour personnages masculins
+PROPITEM_TXT_902778,The Button Mark 4% Red Set for male characters.,Costume Button Mark 4 % Rouge pour personnages masculins
 PROPITEM_TXT_902779,Button Mark Red Hat (F),Chapeau Button Mark Rouge (F)
 PROPITEM_TXT_902780,Button Mark Red Suit (F),Costume Button Mark Rouge (F)
 PROPITEM_TXT_902781,Button Mark Red Shoes (F),Chaussures Button Mark Rouge (F)
 PROPITEM_TXT_902782,Button Mark 4% Red Set (F),Set Button Mark 4 % Rouge (F)
-PROPITEM_TXT_902783,The Button Mark 4% Red Set for female characters.,Set Button Mark 4 % Rouge pour personnages féminins
+PROPITEM_TXT_902783,The Button Mark 4% Red Set for female characters.,Costume Button Mark 4 % Rouge pour personnages féminins
 PROPITEM_TXT_902784,Button Mark 2% Blue Set,Set Button Mark 2 % Bleu
 PROPITEM_TXT_902785,Button Mark Blue Backpack,Sac à dos Button Mark Bleu
 PROPITEM_TXT_902786,Button Mark Blue Mask,Masque Button Mark Bleu
@@ -25657,12 +25657,12 @@ PROPITEM_TXT_902787,Button Mark Blue Hat (M),Chapeau Button Mark Bleu (H)
 PROPITEM_TXT_902788,Button Mark Blue Suit (M),Costume Button Mark Bleu (H)
 PROPITEM_TXT_902789,Button Mark Blue Shoes (M),Chaussures Button Mark Bleu (H)
 PROPITEM_TXT_902790,Button Mark 2% Blue Set (M),Set Button Mark 2 % Bleu (H)
-PROPITEM_TXT_902791,The Button Mark 2% Blue Set for male characters.,Set Button Mark 2 % Bleu pour personnages masculins
+PROPITEM_TXT_902791,The Button Mark 2% Blue Set for male characters.,Costume Button Mark 2 % Bleu pour personnages masculins
 PROPITEM_TXT_902792,Button Mark Blue Hat (F),Chapeau Button Mark Bleu (F)
 PROPITEM_TXT_902793,Button Mark Blue Suit (F),Costume Button Mark Bleu (F)
 PROPITEM_TXT_902794,Button Mark Blue Shoes (F),Chaussures Button Mark Bleu (F)
 PROPITEM_TXT_902795,Button Mark 2% Blue Set (F),Set Button Mark 2 % Bleu (F)
-PROPITEM_TXT_902796,The Button Mark 2% Blue Set for female characters.,Set Button Mark 2 % Bleu pour personnages féminins
+PROPITEM_TXT_902796,The Button Mark 2% Blue Set for female characters.,Costume Button Mark 2 % Bleu pour personnages féminins
 PROPITEM_TXT_902797,Button Mark 2% Black Set,Set Button Mark 2 % Noir
 PROPITEM_TXT_902798,Button Mark Black Backpack,Sac à dos Button Mark Noir
 PROPITEM_TXT_902799,Button Mark Black Mask,Masque Button Mark Noir
@@ -25670,14 +25670,14 @@ PROPITEM_TXT_902800,Button Mark Black Hat (M),Chapeau Button Mark Noir (H)
 PROPITEM_TXT_902801,Button Mark Black Suit (M),Costume Button Mark Noir (H)
 PROPITEM_TXT_902802,Button Mark Black Shoes (M),Chaussures Button Mark Noir (H)
 PROPITEM_TXT_902803,Button Mark 2% Black Set (M),Set Button Mark 2 % Noir (H)
-PROPITEM_TXT_902804,The Button Mark 2% Black Set for male characters.,Set Button Mark 2 % Noir pour personnages masculins
+PROPITEM_TXT_902804,The Button Mark 2% Black Set for male characters.,Costume Button Mark 2 % Noir pour personnages masculins
 PROPITEM_TXT_902805,Button Mark Black Hat (F),Chapeau Button Mark Noir (F)
 PROPITEM_TXT_902806,Button Mark Black Suit (F),Costume Button Mark Noir (F)
 PROPITEM_TXT_902807,Button Mark Black Shoes (F),Chaussures Button Mark Noir (F)
 PROPITEM_TXT_902808,Button Mark 2% Black Set (F),Set Button Mark 2 % Noir (F)
-PROPITEM_TXT_902809,The Button Mark 2% Black Set for female characters.,Set Button Mark 2 % Noir pour personnages féminins
+PROPITEM_TXT_902809,The Button Mark 2% Black Set for female characters.,Costume Button Mark 2 % Noir pour personnages féminins
 PROPITEM_TXT_902810,Button Mark Costume Lucky Box,Coffre Chanceux Set Button Mark
-PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Ce coffre contient un Set Button Mark avec bonus de vitesse. Vous pouvez choisir votre genre après l’ouverture
+PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Ce coffre contient un Costume Button Mark avec bonus de vitesse. Vous pouvez choisir votre genre après l’ouverture
 PROPITEM_TXT_135096,Yetti's Precious Box,Coffre Précieux du Yetti
 PROPITEM_TXT_135097,Reconnaissance Set Select Box,Coffre de Reconnaissance
 PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,Coffre Parchemin ES d’Amplification [20~190]
@@ -25689,13 +25689,13 @@ PROPITEM_TXT_902816,Heart Punk Pink Suit (M),Costume Heart Punk Rose (H)
 PROPITEM_TXT_902817,Heart Punk Pink Shoes (M),Chaussures Heart Punk Rose (H)
 PROPITEM_TXT_902818,Heart Punk Pink Hands (M),Gants Heart Punk Rose (H)
 PROPITEM_TXT_902819,Heart Punk 10% Pink Set (M),Set Heart Punk Rose 10% (H)
-PROPITEM_TXT_902820,The Heart Punk 10% Pink Set for male characters.,Le set Heart Punk Rose 10% pour personnages masculins.
+PROPITEM_TXT_902820,The Heart Punk 10% Pink Set for male characters.,Le Costume Heart Punk Rose 10% pour personnages masculins.
 PROPITEM_TXT_902821,Heart Punk Pink Hat (F),Chapeau Heart Punk Rose (F)
 PROPITEM_TXT_902822,Heart Punk Pink Suit (F),Costume Heart Punk Rose (F)
 PROPITEM_TXT_902823,Heart Punk Pink Shoes (F),Chaussures Heart Punk Rose (F)
 PROPITEM_TXT_902824,Heart Punk Pink Hands (F),Gants Heart Punk Rose (F)
 PROPITEM_TXT_902825,Heart Punk 10% Pink Set (F),Set Heart Punk Rose 10% (F)
-PROPITEM_TXT_902826,The Heart Punk 10% Pink Set for female characters.,Le set Heart Punk Rose 10% pour personnages féminins.
+PROPITEM_TXT_902826,The Heart Punk 10% Pink Set for female characters.,Le Costume Heart Punk Rose 10% pour personnages féminins.
 PROPITEM_TXT_902827,Heart Punk 8% White Set,Set Heart Punk Blanc 8%
 PROPITEM_TXT_902828,Heart Punk White Aibag,Aibag Heart Punk Blanc
 PROPITEM_TXT_902829,Heart Punk White Mask,Masque Heart Punk Blanc
@@ -25704,13 +25704,13 @@ PROPITEM_TXT_902831,Heart Punk White Suit (M),Costume Heart Punk Blanc (H)
 PROPITEM_TXT_902832,Heart Punk White Shoes (M),Chaussures Heart Punk Blanc (H)
 PROPITEM_TXT_902833,Heart Punk White Hands (M),Gants Heart Punk Blanc (H)
 PROPITEM_TXT_902834,Heart Punk 8% White Set (M),Set Heart Punk Blanc 8% (H)
-PROPITEM_TXT_902835,The Heart Punk 8% White Set for male characters.,Le set Heart Punk Blanc 8% pour personnages masculins.
+PROPITEM_TXT_902835,The Heart Punk 8% White Set for male characters.,Le Costume Heart Punk Blanc 8% pour personnages masculins.
 PROPITEM_TXT_902836,Heart Punk White Hat (F),Chapeau Heart Punk Blanc (F)
 PROPITEM_TXT_902837,Heart Punk White Suit (F),Costume Heart Punk Blanc (F)
 PROPITEM_TXT_902838,Heart Punk White Shoes (F),Chaussures Heart Punk Blanc (F)
 PROPITEM_TXT_902839,Heart Punk White Hands (F),Gants Heart Punk Blanc (F)
 PROPITEM_TXT_902840,Heart Punk 8% White Set (F),Set Heart Punk Blanc 8% (F)
-PROPITEM_TXT_902841,The Heart Punk 8% White Set for female characters.,Le set Heart Punk Blanc 8% pour personnages féminins.
+PROPITEM_TXT_902841,The Heart Punk 8% White Set for female characters.,Le Costume Heart Punk Blanc 8% pour personnages féminins.
 PROPITEM_TXT_902842,Heart Punk 6% Golden Set,Set Heart Punk Doré 6%
 PROPITEM_TXT_902843,Heart Punk Golden Aibag,Aibag Heart Punk Doré
 PROPITEM_TXT_902844,Heart Punk Golden Mask,Masque Heart Punk Doré
@@ -25719,13 +25719,13 @@ PROPITEM_TXT_902846,Heart Punk Golden Suit (M),Costume Heart Punk Doré (H)
 PROPITEM_TXT_902847,Heart Punk Golden Shoes (M),Chaussures Heart Punk Doré (H)
 PROPITEM_TXT_902848,Heart Punk Golden Hands (M),Gants Heart Punk Doré (H)
 PROPITEM_TXT_902849,Heart Punk 6% Golden Set (M),Set Heart Punk Doré 6% (H)
-PROPITEM_TXT_902850,The Heart Punk 6% Golden Set for male characters.,Le set Heart Punk Doré 6% pour personnages masculins.
+PROPITEM_TXT_902850,The Heart Punk 6% Golden Set for male characters.,Le Costume Heart Punk Doré 6% pour personnages masculins.
 PROPITEM_TXT_902851,Heart Punk Golden Hat (F),Chapeau Heart Punk Doré (F)
 PROPITEM_TXT_902852,Heart Punk Golden Suit (F),Costume Heart Punk Doré (F)
 PROPITEM_TXT_902853,Heart Punk Golden Shoes (F),Chaussures Heart Punk Doré (F)
 PROPITEM_TXT_902854,Heart Punk Golden Hands (F),Gants Heart Punk Doré (F)
 PROPITEM_TXT_902855,Heart Punk 6% Golden Set (F),Set Heart Punk Doré 6% (F)
-PROPITEM_TXT_902856,The Heart Punk 6% Golden Set for female characters.,Le set Heart Punk Doré 6% pour personnages féminins.
+PROPITEM_TXT_902856,The Heart Punk 6% Golden Set for female characters.,Le Costume Heart Punk Doré 6% pour personnages féminins.
 PROPITEM_TXT_902857,Heart Punk 4% Blue Set,Set Heart Punk Bleu 4%
 PROPITEM_TXT_902858,Heart Punk Blue Aibag,Aibag Heart Punk Bleu
 PROPITEM_TXT_902859,Heart Punk Blue Mask,Masque Heart Punk Bleu
@@ -25734,13 +25734,13 @@ PROPITEM_TXT_902861,Heart Punk Blue Suit (M),Costume Heart Punk Bleu (H)
 PROPITEM_TXT_902862,Heart Punk Blue Shoes (M),Chaussures Heart Punk Bleu (H)
 PROPITEM_TXT_902863,Heart Punk Blue Hands (M),Gants Heart Punk Bleu (H)
 PROPITEM_TXT_902864,Heart Punk 4% Blue Set (M),Set Heart Punk Bleu 4% (H)
-PROPITEM_TXT_902865,The Heart Punk 4% Blue Set for male characters.,Le set Heart Punk Bleu 4% pour personnages masculins.
+PROPITEM_TXT_902865,The Heart Punk 4% Blue Set for male characters.,Le Costume Heart Punk Bleu 4% pour personnages masculins.
 PROPITEM_TXT_902866,Heart Punk Blue Hat (F),Chapeau Heart Punk Bleu (F)
 PROPITEM_TXT_902867,Heart Punk Blue Suit (F),Costume Heart Punk Bleu (F)
 PROPITEM_TXT_902868,Heart Punk Blue Shoes (F),Chaussures Heart Punk Bleu (F)
 PROPITEM_TXT_902869,Heart Punk Blue Hands (F),Gants Heart Punk Bleu (F)
 PROPITEM_TXT_902870,Heart Punk 4% Blue Set (F),Set Heart Punk Bleu 4% (F)
-PROPITEM_TXT_902871,The Heart Punk 4% Blue Set for female characters.,Le set Heart Punk Bleu 4% pour personnages féminins.
+PROPITEM_TXT_902871,The Heart Punk 4% Blue Set for female characters.,Le Costume Heart Punk Bleu 4% pour personnages féminins.
 PROPITEM_TXT_902872,Heart Punk 2% Purple Set,Set Heart Punk Violet 2%
 PROPITEM_TXT_902873,Heart Punk Purple Aibag,Aibag Heart Punk Violet
 PROPITEM_TXT_902874,Heart Punk Purple Mask,Masque Heart Punk Violet
@@ -25749,13 +25749,13 @@ PROPITEM_TXT_902876,Heart Punk Purple Suit (M),Costume Heart Punk Violet (H)
 PROPITEM_TXT_902877,Heart Punk Purple Shoes (M),Chaussures Heart Punk Violet (H)
 PROPITEM_TXT_902878,Heart Punk Purple Hands (M),Gants Heart Punk Violet (H)
 PROPITEM_TXT_902879,Heart Punk 2% Purple Set (M),Set Heart Punk Violet 2% (H)
-PROPITEM_TXT_902880,The Heart Punk 2% Purple Set for male characters.,Le set Heart Punk Violet 2% pour personnages masculins.
+PROPITEM_TXT_902880,The Heart Punk 2% Purple Set for male characters.,Le Costume Heart Punk Violet 2% pour personnages masculins.
 PROPITEM_TXT_902881,Heart Punk Purple Hat (F),Chapeau Heart Punk Violet (F)
 PROPITEM_TXT_902882,Heart Punk Purple Suit (F),Costume Heart Punk Violet (F)
 PROPITEM_TXT_902883,Heart Punk Purple Shoes (F),Chaussures Heart Punk Violet (F)
 PROPITEM_TXT_902884,Heart Punk Purple Hands (F),Gants Heart Punk Violet (F)
 PROPITEM_TXT_902885,Heart Punk 2% Purple Set (F),Set Heart Punk Violet 2% (F)
-PROPITEM_TXT_902886,The Heart Punk 2% Purple Set for female characters.,Le set Heart Punk Violet 2% pour personnages féminins.
+PROPITEM_TXT_902886,The Heart Punk 2% Purple Set for female characters.,Le Costume Heart Punk Violet 2% pour personnages féminins.
 PROPITEM_TXT_902887,Heart Punk 2% Red Set,Set Heart Punk Rouge 2%
 PROPITEM_TXT_902888,Heart Punk Red Aibag,Aibag Heart Punk Rouge
 PROPITEM_TXT_902889,Heart Punk Red Mask,Masque Heart Punk Rouge
@@ -25764,15 +25764,15 @@ PROPITEM_TXT_902891,Heart Punk Red Suit (M),Costume Heart Punk Rouge (H)
 PROPITEM_TXT_902892,Heart Punk Red Shoes (M),Chaussures Heart Punk Rouge (H)
 PROPITEM_TXT_902893,Heart Punk Red Hands (M),Gants Heart Punk Rouge (H)
 PROPITEM_TXT_902894,Heart Punk 2% Red Set (M),Set Heart Punk Rouge 2% (H)
-PROPITEM_TXT_902895,The Heart Punk 2% Red Set for male characters.,Le set Heart Punk Rouge 2% pour personnages masculins.
+PROPITEM_TXT_902895,The Heart Punk 2% Red Set for male characters.,Le Costume Heart Punk Rouge 2% pour personnages masculins.
 PROPITEM_TXT_902896,Heart Punk Red Hat (F),Chapeau Heart Punk Rouge (F)
 PROPITEM_TXT_902897,Heart Punk Red Suit (F),Costume Heart Punk Rouge (F)
 PROPITEM_TXT_902898,Heart Punk Red Shoes (F),Chaussures Heart Punk Rouge (F)
 PROPITEM_TXT_902899,Heart Punk Red Hands (F),Gants Heart Punk Rouge (F)
 PROPITEM_TXT_902900,Heart Punk 2% Red Set (F),Set Heart Punk Rouge 2% (F)
-PROPITEM_TXT_902901,The Heart Punk 2% Red Set for female characters.,Le set Heart Punk Rouge 2% pour personnages féminins.
+PROPITEM_TXT_902901,The Heart Punk 2% Red Set for female characters.,Le Costume Heart Punk Rouge 2% pour personnages féminins.
 PROPITEM_TXT_902902,Heart Punk Costume Lucky Box,Boîte Surprise Costume Heart Punk
-PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un set Heart Punk avec bonus de vitesse. Vous pourrez choisir le genre après ouverture.
+PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un Costume Heart Punk avec bonus de vitesse. Vous pourrez choisir le genre après ouverture.
 PROPITEM_TXT_902904,Heart Punk Luxury Car Pink,Voiture de Luxe Heart Punk Rose
 PROPITEM_TXT_902905,"Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h.","Roulez avec élégance et romantisme grâce à la Voiture de Luxe Heart Punk Rose, un véhicule somptueux au style rose emblématique. Vitesse maximale : 64 km/h."
 PROPITEM_TXT_902906,Heart Punk Luxury Car Yellow,Voiture de Luxe Heart Punk Jaune
@@ -25786,12 +25786,12 @@ PROPITEM_TXT_902913,Oni-Style Kimono Red Hat (M),Chapeau Kimono Style Oni Rouge 
 PROPITEM_TXT_902914,Oni-Style Kimono Red Suit (M),Tenue Kimono Style Oni Rouge (M)
 PROPITEM_TXT_902915,Oni-Style Kimono Red Shoes (M),Chaussures Kimono Style Oni Rouge (M)
 PROPITEM_TXT_902916,Oni-Style Kimono 10% Red Set (M),Set Kimono Style Oni Rouge 10% (M)
-PROPITEM_TXT_902917,The Oni-Style Kimono 10% Red Set for male characters.,Le set Kimono Style Oni Rouge 10% pour personnages masculins.
+PROPITEM_TXT_902917,The Oni-Style Kimono 10% Red Set for male characters.,Le Costume Kimono Style Oni Rouge 10% pour personnages masculins.
 PROPITEM_TXT_902918,Oni-Style Kimono Red Hat (F),Chapeau Kimono Style Oni Rouge (F)
 PROPITEM_TXT_902919,Oni-Style Kimono Red Suit (F),Tenue Kimono Style Oni Rouge (F)
 PROPITEM_TXT_902920,Oni-Style Kimono Red Shoes (F),Chaussures Kimono Style Oni Rouge (F)
 PROPITEM_TXT_902921,Oni-Style Kimono 10% Red Set (F),Set Kimono Style Oni Rouge 10% (F)
-PROPITEM_TXT_902922,The Oni-Style Kimono 10% Red Set for female characters.,Le set Kimono Style Oni Rouge 10% pour personnages féminins.
+PROPITEM_TXT_902922,The Oni-Style Kimono 10% Red Set for female characters.,Le Costume Kimono Style Oni Rouge 10% pour personnages féminins.
 PROPITEM_TXT_902923,Oni-Style Kimono 10% Pink Set,Set Kimono Style Oni Rose 10%
 PROPITEM_TXT_902924,Oni-Style Kimono Pink Bag,Sac Kimono Style Oni Rose
 PROPITEM_TXT_902925,Oni-Style Kimono Pink Mask,Masque Kimono Style Oni Rose
@@ -25799,12 +25799,12 @@ PROPITEM_TXT_902926,Oni-Style Kimono Pink Hat (M),Chapeau Kimono Style Oni Rose 
 PROPITEM_TXT_902927,Oni-Style Kimono Pink Suit (M),Tenue Kimono Style Oni Rose (M)
 PROPITEM_TXT_902928,Oni-Style Kimono Pink Shoes (M),Chaussures Kimono Style Oni Rose (M)
 PROPITEM_TXT_902929,Oni-Style Kimono 10% Pink Set (M),Set Kimono Style Oni Rose 10% (M)
-PROPITEM_TXT_902930,The Oni-Style Kimono 10% Pink Set for male characters.,Le set Kimono Style Oni Rose 10% pour personnages masculins.
+PROPITEM_TXT_902930,The Oni-Style Kimono 10% Pink Set for male characters.,Le Costume Kimono Style Oni Rose 10% pour personnages masculins.
 PROPITEM_TXT_902931,Oni-Style Kimono Pink Hat (F),Chapeau Kimono Style Oni Rose (F)
 PROPITEM_TXT_902932,Oni-Style Kimono Pink Suit (F),Tenue Kimono Style Oni Rose (F)
 PROPITEM_TXT_902933,Oni-Style Kimono Pink Shoes (F),Chaussures Kimono Style Oni Rose (F)
 PROPITEM_TXT_902934,Oni-Style Kimono 10% Pink Set (F),Set Kimono Style Oni Rose 10% (F)
-PROPITEM_TXT_902935,The Oni-Style Kimono 10% Pink Set for female characters.,Le set Kimono Style Oni Rose 10% pour personnages féminins.
+PROPITEM_TXT_902935,The Oni-Style Kimono 10% Pink Set for female characters.,Le Costume Kimono Style Oni Rose 10% pour personnages féminins.
 PROPITEM_TXT_902936,Oni-Style Kimono 8% Blue Set,Set Kimono Style Oni Bleu 8%
 PROPITEM_TXT_902937,Oni-Style Kimono Blue Bag,Sac Kimono Style Oni Bleu
 PROPITEM_TXT_902938,Oni-Style Kimono Blue Mask,Masque Kimono Style Oni Bleu
@@ -25812,12 +25812,12 @@ PROPITEM_TXT_902939,Oni-Style Kimono Blue Hat (M),Chapeau Kimono Style Oni Bleu 
 PROPITEM_TXT_902940,Oni-Style Kimono Blue Suit (M),Tenue Kimono Style Oni Bleu (M)
 PROPITEM_TXT_902941,Oni-Style Kimono Blue Shoes (M),Chaussures Kimono Style Oni Bleu (M)
 PROPITEM_TXT_902942,Oni-Style Kimono 8% Blue Set (M),Set Kimono Style Oni Bleu 8% (M)
-PROPITEM_TXT_902943,The Oni-Style Kimono 8% Blue Set for male characters.,Le set Kimono Style Oni Bleu 8% pour personnages masculins.
+PROPITEM_TXT_902943,The Oni-Style Kimono 8% Blue Set for male characters.,Le Costume Kimono Style Oni Bleu 8% pour personnages masculins.
 PROPITEM_TXT_902944,Oni-Style Kimono Blue Hat (F),Chapeau Kimono Style Oni Bleu (F)
 PROPITEM_TXT_902945,Oni-Style Kimono Blue Suit (F),Tenue Kimono Style Oni Bleu (F)
 PROPITEM_TXT_902946,Oni-Style Kimono Blue Shoes (F),Chaussures Kimono Style Oni Bleu (F)
 PROPITEM_TXT_902947,Oni-Style Kimono 8% Blue Set (F),Set Kimono Style Oni Bleu 8% (F)
-PROPITEM_TXT_902948,The Oni-Style Kimono 8% Blue Set for female characters.,Le set Kimono Style Oni Bleu 8% pour personnages féminins.
+PROPITEM_TXT_902948,The Oni-Style Kimono 8% Blue Set for female characters.,Le Costume Kimono Style Oni Bleu 8% pour personnages féminins.
 PROPITEM_TXT_902949,Oni-Style Kimono 8% Green Set,Set Kimono Style Oni Vert 8%
 PROPITEM_TXT_902950,Oni-Style Kimono Green Bag,Sac Kimono Style Oni Vert
 PROPITEM_TXT_902951,Oni-Style Kimono Green Mask,Masque Kimono Style Oni Vert
@@ -25825,12 +25825,12 @@ PROPITEM_TXT_902952,Oni-Style Kimono Green Hat (M),Chapeau Kimono Style Oni Vert
 PROPITEM_TXT_902953,Oni-Style Kimono Green Suit (M),Tenue Kimono Style Oni Vert (M)
 PROPITEM_TXT_902954,Oni-Style Kimono Green Shoes (M),Chaussures Kimono Style Oni Vert (M)
 PROPITEM_TXT_902955,Oni-Style Kimono 8% Green Set (M),Set Kimono Style Oni Vert 8% (M)
-PROPITEM_TXT_902956,The Oni-Style Kimono 8% Green Set for male characters.,Le set Kimono Style Oni Vert 8% pour personnages masculins.
+PROPITEM_TXT_902956,The Oni-Style Kimono 8% Green Set for male characters.,Le Costume Kimono Style Oni Vert 8% pour personnages masculins.
 PROPITEM_TXT_902957,Oni-Style Kimono Green Hat (F),Chapeau Kimono Style Oni Vert (F)
 PROPITEM_TXT_902958,Oni-Style Kimono Green Suit (F),Tenue Kimono Style Oni Vert (F)
 PROPITEM_TXT_902959,Oni-Style Kimono Green Shoes (F),Chaussures Kimono Style Oni Vert (F)
 PROPITEM_TXT_902960,Oni-Style Kimono 8% Green Set (F),Set Kimono Style Oni Vert 8% (F)
-PROPITEM_TXT_902961,The Oni-Style Kimono 8% Green Set for female characters.,Le set Kimono Style Oni Vert 8% pour personnages féminins.
+PROPITEM_TXT_902961,The Oni-Style Kimono 8% Green Set for female characters.,Le Costume Kimono Style Oni Vert 8% pour personnages féminins.
 PROPITEM_TXT_903001,Oni-Style Kimono 2% Black Set,Set Kimono Style Oni Noir 2%
 PROPITEM_TXT_903002,Oni-Style Kimono Black Bag,Sac Kimono Style Oni Noir
 PROPITEM_TXT_903003,Oni-Style Kimono Black Mask,Masque Kimono Style Oni Noir
@@ -25838,14 +25838,14 @@ PROPITEM_TXT_903004,Oni-Style Kimono Black Hat (M),Chapeau Kimono Style Oni Noir
 PROPITEM_TXT_903005,Oni-Style Kimono Black Suit (M),Tenue Kimono Style Oni Noir (M)
 PROPITEM_TXT_903006,Oni-Style Kimono Black Shoes (M),Chaussures Kimono Style Oni Noir (M)
 PROPITEM_TXT_903007,Oni-Style Kimono 2% Black Set (M),Set Kimono Style Oni Noir 2% (M)
-PROPITEM_TXT_903008,The Oni-Style Kimono 2% Black Set for male characters.,Le set Kimono Style Oni Noir 2% pour personnages masculins.
+PROPITEM_TXT_903008,The Oni-Style Kimono 2% Black Set for male characters.,Le Costume Kimono Style Oni Noir 2% pour personnages masculins.
 PROPITEM_TXT_903009,Oni-Style Kimono Black Hat (F),Chapeau Kimono Style Oni Noir (F)
 PROPITEM_TXT_903010,Oni-Style Kimono Black Suit (F),Tenue Kimono Style Oni Noir (F)
 PROPITEM_TXT_903011,Oni-Style Kimono Black Shoes (F),Chaussures Kimono Style Oni Noir (F)
 PROPITEM_TXT_903012,Oni-Style Kimono 2% Black Set (F),Set Kimono Style Oni Noir 2% (F)
-PROPITEM_TXT_903013,The Oni-Style Kimono 2% Black Set for female characters.,Le set Kimono Style Oni Noir 2% pour personnages féminins.
+PROPITEM_TXT_903013,The Oni-Style Kimono 2% Black Set for female characters.,Le Costume Kimono Style Oni Noir 2% pour personnages féminins.
 PROPITEM_TXT_903014,Oni-Style Kimono Costume Lucky Box,Boîte Chance Costume Kimono Style Oni
-PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un set Kimono Style Oni avec bonus de vitesse. Vous pouvez sélectionner votre genre après ouverture de la Boîte Chance.
+PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un Costume Kimono Style Oni avec bonus de vitesse. Vous pouvez sélectionner votre genre après ouverture de la Boîte Chance.
 PROPITEM_TXT_903016,2026 Valentine 10% Red Set,Set Saint-Valentin 2026 Rouge 10%
 PROPITEM_TXT_903017,2026 Valentine Red Cloak,Cape Saint-Valentin 2026 Rouge
 PROPITEM_TXT_903018,2026 Valentine Red Glasses,Lunettes Saint-Valentin 2026 Rouges
@@ -25853,12 +25853,12 @@ PROPITEM_TXT_903019,2026 Valentine Red Hat (M),Chapeau Saint-Valentin 2026 Rouge
 PROPITEM_TXT_903020,2026 Valentine Red Suit (M),Tenue Saint-Valentin 2026 Rouge (M)
 PROPITEM_TXT_903021,2026 Valentine Red Shoes (M),Chaussures Saint-Valentin 2026 Rouges (M)
 PROPITEM_TXT_903022,2026 Valentine 10% Red Set (M),Set Saint-Valentin 2026 Rouge 10% (M)
-PROPITEM_TXT_903023,The 2026 Valentine 10% Red Set for male characters.,Le set Saint-Valentin 2026 Rouge 10% pour personnages masculins.
+PROPITEM_TXT_903023,The 2026 Valentine 10% Red Set for male characters.,Le Costume Saint-Valentin 2026 Rouge 10% pour personnages masculins.
 PROPITEM_TXT_903024,2026 Valentine Red Hat (F),Chapeau Saint-Valentin 2026 Rouge (F)
 PROPITEM_TXT_903025,2026 Valentine Red Suit (F),Tenue Saint-Valentin 2026 Rouge (F)
 PROPITEM_TXT_903026,2026 Valentine Red Shoes (F),Chaussures Saint-Valentin 2026 Rouges (F)
 PROPITEM_TXT_903027,2026 Valentine 10% Red Set (F),Set Saint-Valentin 2026 Rouge 10% (F)
-PROPITEM_TXT_903028,The 2026 Valentine 10% Red Set for female characters.,Le set Saint-Valentin 2026 Rouge 10% pour personnages féminins.
+PROPITEM_TXT_903028,The 2026 Valentine 10% Red Set for female characters.,Le Costume Saint-Valentin 2026 Rouge 10% pour personnages féminins.
 PROPITEM_TXT_903029,2026 Valentine 10% Orange Set,Set Saint-Valentin 2026 Orange 10%
 PROPITEM_TXT_903030,2026 Valentine Orange Cloak,Cape Saint-Valentin 2026 Orange
 PROPITEM_TXT_903031,2026 Valentine Orange Glasses,Lunettes Saint-Valentin 2026 Orange
@@ -25866,12 +25866,12 @@ PROPITEM_TXT_903032,2026 Valentine Orange Hat (M),Chapeau Saint-Valentin 2026 Or
 PROPITEM_TXT_903033,2026 Valentine Orange Suit (M),Tenue Saint-Valentin 2026 Orange (M)
 PROPITEM_TXT_903034,2026 Valentine Orange Shoes (M),Chaussures Saint-Valentin 2026 Orange (M)
 PROPITEM_TXT_903035,2026 Valentine 10% Orange Set (M),Set Saint-Valentin 2026 Orange 10% (M)
-PROPITEM_TXT_903036,The 2026 Valentine 10% Orange Set for male characters.,Le set Saint-Valentin 2026 Orange 10% pour personnages masculins.
+PROPITEM_TXT_903036,The 2026 Valentine 10% Orange Set for male characters.,Le Costume Saint-Valentin 2026 Orange 10% pour personnages masculins.
 PROPITEM_TXT_903037,2026 Valentine Orange Hat (F),Chapeau Saint-Valentin 2026 Orange (F)
 PROPITEM_TXT_903038,2026 Valentine Orange Suit (F),Tenue Saint-Valentin 2026 Orange (F)
 PROPITEM_TXT_903039,2026 Valentine Orange Shoes (F),Chaussures Saint-Valentin 2026 Orange (F)
 PROPITEM_TXT_903040,2026 Valentine 10% Orange Set (F),Set Saint-Valentin 2026 Orange 10% (F)
-PROPITEM_TXT_903041,The 2026 Valentine 10% Orange Set for female characters.,Le set Saint-Valentin 2026 Orange 10% pour personnages féminins.
+PROPITEM_TXT_903041,The 2026 Valentine 10% Orange Set for female characters.,Le Costume Saint-Valentin 2026 Orange 10% pour personnages féminins.
 PROPITEM_TXT_903042,2026 Valentine 8% Yellow Set,Set Saint-Valentin 2026 Jaune 8%
 PROPITEM_TXT_903043,2026 Valentine Yellow Cloak,Cape Saint-Valentin 2026 Jaune
 PROPITEM_TXT_903044,2026 Valentine Yellow Glasses,Lunettes Saint-Valentin 2026 Jaunes
@@ -25879,12 +25879,12 @@ PROPITEM_TXT_903045,2026 Valentine Yellow Hat (M),Chapeau Saint-Valentin 2026 Ja
 PROPITEM_TXT_903046,2026 Valentine Yellow Suit (M),Tenue Saint-Valentin 2026 Jaune (M)
 PROPITEM_TXT_903047,2026 Valentine Yellow Shoes (M),Chaussures Saint-Valentin 2026 Jaunes (M)
 PROPITEM_TXT_903048,2026 Valentine 8% Yellow Set (M),Set Saint-Valentin 2026 Jaune 8% (M)
-PROPITEM_TXT_903049,The 2026 Valentine 8% Yellow Set for male characters.,Le set Saint-Valentin 2026 Jaune 8% pour personnages masculins.
+PROPITEM_TXT_903049,The 2026 Valentine 8% Yellow Set for male characters.,Le Costume Saint-Valentin 2026 Jaune 8% pour personnages masculins.
 PROPITEM_TXT_903050,2026 Valentine Yellow Hat (F),Chapeau Saint-Valentin 2026 Jaune (F)
 PROPITEM_TXT_903051,2026 Valentine Yellow Suit (F),Tenue Saint-Valentin 2026 Jaune (F)
 PROPITEM_TXT_903052,2026 Valentine Yellow Shoes (F),Chaussures Saint-Valentin 2026 Jaunes (F)
 PROPITEM_TXT_903053,2026 Valentine 8% Yellow Set (F),Set Saint-Valentin 2026 Jaune 8% (F)
-PROPITEM_TXT_903054,The 2026 Valentine 8% Yellow Set for female characters.,Le set Saint-Valentin 2026 Jaune 8% pour personnages féminins.
+PROPITEM_TXT_903054,The 2026 Valentine 8% Yellow Set for female characters.,Le Costume Saint-Valentin 2026 Jaune 8% pour personnages féminins.
 PROPITEM_TXT_903055,2026 Valentine 8% Green Set,Set Saint-Valentin 2026 Vert 8%
 PROPITEM_TXT_903056,2026 Valentine Green Cloak,Cape Saint-Valentin 2026 Verte
 PROPITEM_TXT_903057,2026 Valentine Green Glasses,Lunettes Saint-Valentin 2026 Vertes
@@ -25892,12 +25892,12 @@ PROPITEM_TXT_903058,2026 Valentine Green Hat (M),Chapeau Saint-Valentin 2026 Ver
 PROPITEM_TXT_903059,2026 Valentine Green Suit (M),Tenue Saint-Valentin 2026 Verte (M)
 PROPITEM_TXT_903060,2026 Valentine Green Shoes (M),Chaussures Saint-Valentin 2026 Vertes (M)
 PROPITEM_TXT_903061,2026 Valentine 8% Green Set (M),Set Saint-Valentin 2026 Vert 8% (M)
-PROPITEM_TXT_903062,The 2026 Valentine 8% Green Set for male characters.,Le set Saint-Valentin 2026 Vert 8% pour personnages masculins.
+PROPITEM_TXT_903062,The 2026 Valentine 8% Green Set for male characters.,Le Costume Saint-Valentin 2026 Vert 8% pour personnages masculins.
 PROPITEM_TXT_903063,2026 Valentine Green Hat (F),Chapeau Saint-Valentin 2026 Vert (F)
 PROPITEM_TXT_903064,2026 Valentine Green Suit (F),Tenue Saint-Valentin 2026 Verte (F)
 PROPITEM_TXT_903065,2026 Valentine Green Shoes (F),Chaussures Saint-Valentin 2026 Vertes (F)
 PROPITEM_TXT_903066,2026 Valentine 8% Green Set (F),Set Saint-Valentin 2026 Vert 8% (F)
-PROPITEM_TXT_903067,The 2026 Valentine 8% Green Set for female characters.,Le set Saint-Valentin 2026 Vert 8% pour personnages féminins.
+PROPITEM_TXT_903067,The 2026 Valentine 8% Green Set for female characters.,Le Costume Saint-Valentin 2026 Vert 8% pour personnages féminins.
 PROPITEM_TXT_903068,2026 Valentine 6% Blue Set,Set Saint-Valentin 2026 Bleu 6%
 PROPITEM_TXT_903069,2026 Valentine Blue Cloak,Cape Saint-Valentin 2026 Bleue
 PROPITEM_TXT_903070,2026 Valentine Blue Glasses,Lunettes Saint-Valentin 2026 Bleues
@@ -25905,19 +25905,19 @@ PROPITEM_TXT_903071,2026 Valentine Blue Hat (M),Chapeau Saint-Valentin 2026 Bleu
 PROPITEM_TXT_903072,2026 Valentine Blue Suit (M),Tenue Saint-Valentin 2026 Bleue (M)
 PROPITEM_TXT_903073,2026 Valentine Blue Shoes (M),Chaussures Saint-Valentin 2026 Bleues (M)
 PROPITEM_TXT_903074,2026 Valentine 6% Blue Set (M),Set Saint-Valentin 2026 Bleu 6% (M)
-PROPITEM_TXT_903075,The 2026 Valentine 6% Blue Set for male characters.,Le set Saint-Valentin 2026 Bleu 6% pour personnages masculins.
+PROPITEM_TXT_903075,The 2026 Valentine 6% Blue Set for male characters.,Le Costume Saint-Valentin 2026 Bleu 6% pour personnages masculins.
 PROPITEM_TXT_903110,2026 Valentine Brown Hat (M),Chapeau Saint-Valentin 2026 Marron (M)
 PROPITEM_TXT_903111,2026 Valentine Brown Suit (M),Tenue Saint-Valentin 2026 Marron (M)
 PROPITEM_TXT_903112,2026 Valentine Brown Shoes (M),Chaussures Saint-Valentin 2026 Marron (M)
 PROPITEM_TXT_903113,2026 Valentine 2% Brown Set (M),Set Saint-Valentin 2026 Marron 2% (M)
-PROPITEM_TXT_903114,The 2026 Valentine 2% Brown Set for male characters.,Le set Saint-Valentin 2026 Marron 2% pour personnages masculins.
+PROPITEM_TXT_903114,The 2026 Valentine 2% Brown Set for male characters.,Le Costume Saint-Valentin 2026 Marron 2% pour personnages masculins.
 PROPITEM_TXT_903115,2026 Valentine Brown Hat (F),Chapeau Saint-Valentin 2026 Marron (F)
 PROPITEM_TXT_903116,2026 Valentine Brown Suit (F),Tenue Saint-Valentin 2026 Marron (F)
 PROPITEM_TXT_903117,2026 Valentine Brown Shoes (F),Chaussures Saint-Valentin 2026 Marron (F)
 PROPITEM_TXT_903118,2026 Valentine 2% Brown Set (F),Set Saint-Valentin 2026 Marron 2% (F)
-PROPITEM_TXT_903119,The 2026 Valentine 2% Brown Set for female characters.,Le set Saint-Valentin 2026 Marron 2% pour personnages féminins.
+PROPITEM_TXT_903119,The 2026 Valentine 2% Brown Set for female characters.,Le Costume Saint-Valentin 2026 Marron 2% pour personnages féminins.
 PROPITEM_TXT_903120,2026 Valentine Costume Lucky Box,Boîte Chance Costume Saint-Valentin 2026
-PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un set Saint-Valentin 2026 avec bonus de vitesse. Vous pouvez sélectionner votre genre après ouverture de la Boîte Chance.
+PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un Costume Saint-Valentin 2026 avec bonus de vitesse. Vous pouvez sélectionner votre genre après ouverture de la Boîte Chance.
 PROPITEM_TXT_903122,2026 Lunar New Year Coupon,Coupon Nouvel An Lunaire 2026
 PROPITEM_TXT_903123,"A package containing 5x Server Shout, 5x Channel Shout, 1x Transy, 1x Item Transy B, 26x Sulnal Bomb, 1x Trans Random Box, 1x Flyffer's Flying Select Box (15 days) and 2026 Rice Cake Soup Select Box. All items are also linked.","Un pack contenant 5x Cri de serveur, 5x cri de canal, 1x Transy, 1x Morphitem B, 26x Bombe Sulnal, 1x Boîte Aléatoire Trans, 1x Boîte de Sélection Volante de Flyffer (15 jours) et 1x Boîte de Sélection Soupe de Gâteau de Riz 2026. Tous les objets sont également liés."
 PROPITEM_TXT_903124,Flyffer's Flying Select Box (15 days),Boîte de Sélection Volante de Flyffer (15 jours)
