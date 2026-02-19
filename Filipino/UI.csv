@@ -19,7 +19,7 @@ UI_SELECTSERVER_BACK,Back,Bumalik
 UI_SELECTSERVER_NEXT,Next,Susunod
 UI_SELECTSERVER_FULL,full,puno
 UI_SELECTSERVER_BUSY,busy,abala
-UI_SELECTSERVER_BEST,best,pinakamabilis
+UI_SELECTSERVER_BEST,best,pinakamahusay
 UI_SELECTSERVER_NEWNAME,Please enter another name:,Maglagay ng bagong pangalan:
 UI_SELECTSERVER_NAMETITLE,Character Name,Ngalan ng Karakter
 UI_CHARLIST_TITLE,Characters,Mga karakter
