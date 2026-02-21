@@ -1,6 +1,6 @@
 ﻿#b#cffe4b100Flyff Universe#nb#nc
 
-Basato sul Gioco Originale #bFlyff Online#nb di Gala Lab Corp.
+Basato sul gioco originale #bFlyff Online#nb di Gala Lab Corp.
 
 #bProgrammazione#nb
 Loïc Saos
