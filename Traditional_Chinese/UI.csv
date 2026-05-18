@@ -2032,7 +2032,7 @@ UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,惡作劇逃脫觸發率
 UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,聖癒恩典觸發率
 UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,靈能超載觸發率
 UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,靈氣爆發率
-UI_TOOLTIP_DST_WATERBOMB,Waterbomb Chance,水炸彈觸發率
+UI_TOOLTIP_DST_WATERBOMB,Waterbomb Chance,水爆彈觸發率
 UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,緩速觸發率
 UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,奧術洞悉觸發率
 UI_MSGBOX_DISMANTLE,Dismantle,拆卸
@@ -3272,7 +3272,7 @@ UI_LEVELCHANGE_NONE,No available jobs at this level,該等級目前無法使用
 UI_SKILL_PAGE_SELECT,Select your skill page:,選擇您的技能頁：
 UI_TOOLTIP_DST_MOBEXP,Monsters EXP Gain,怪物經驗值獲得
 UI_TOOLTIP_DST_MOBEXPDROP,Monsters EXP/Drop Gain,怪物經驗值/掉落獲得
-UI_TOOLTIP_TENACITY,Tenacity,韌性
+UI_TOOLTIP_TENACITY,Tenacity,不屈
 UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,靈魂昇揚
 UI_15UPDATE_PASS,1.5 Update Pass,1.5 版本通行證
 UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,減益效果持續時間

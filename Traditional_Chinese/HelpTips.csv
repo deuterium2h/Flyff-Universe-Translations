@@ -9,7 +9,7 @@ CLIENT_TIP_INC_000006,"When you reach level 15, complete your job change quest a
 CLIENT_TIP_INC_000007,Press ESC to cancel your target.,想取消目標，按鍵盤上的 ESC 鍵後，即可取消目標。 
 CLIENT_TIP_INC_000008,Troupe means Party.,『劇團』就是隊伍的意思。
 CLIENT_TIP_INC_000009,"To use a skill, open the Skill window (Hotkey: K) and drag the skill icon to the hotkey bar (F1-F10). To use a combo skill, drag the skill icon to the Action Slot (bottom-right of the screen), select a target, and press C.",若想要使用技能，請先打開技能視窗 (熱鍵 K)，確定技能後，可以將技能登錄到畫面下方 F1~F10 的熱鍵內使用。想要連續使用技能，只要在右側動作欄位裡，放入技能後，指定目標按下 C 鍵，就能夠連續使用技能。
-CLIENT_TIP_INC_000010,Clean Hit must be placed first in the Action Slot to use Flurry.,若要使用中段技能『連擊』，必須先將前段技能『重擊』設定到技能熱鍵欄中。
+CLIENT_TIP_INC_000010,Clean Hit must be placed first in the Action Slot to use Flurry.,若要使用中段技能『疾刺連擊』，必須先將前段技能『重擊』設定到技能熱鍵欄中。
 CLIENT_TIP_INC_000011,"To follow a character, click the target and select Follow from the menu. You can also press Z to follow the selected target.",點擊對方後，按住『ALT』鍵的狀態下，點擊滑鼠左鍵後，在出現的選單裡，選擇”跟選”選項，就可以跟隨在對方後面。飛行時按下 Z 鍵和空白鍵，就能夠跟隨目標。
 CLIENT_TIP_INC_000012,"You must be close to a character to open the interaction menu (Guild, Messenger, Follow, etc.). By default, left-click opens the menu. You can enable right-click instead in Options > Game > Right-Click Player Menu.",按住『ALT』鍵選定任何一個玩家，即可使用加入劇團、即時通、跟隨等等的功能。
 CLIENT_TIP_INC_000013,Press X to toggle between walking and running.,按下 X 鍵後，就會轉換成走路模式，再按一次後，就能夠再轉換回跑步模式。
