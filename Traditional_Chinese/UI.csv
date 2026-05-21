@@ -270,7 +270,7 @@ UI_TOOLTIP_HOTKEY,[Hotkey %s],[熱鍵 %s]
 UI_STATUS_HP,HP,生命
 UI_STATUS_FP,FP,活力
 UI_STATUS_MP,MP,魔力
-UI_STATUS_EXP,Exp,經驗值
+UI_STATUS_EXP,Exp,經驗
 UI_HELPTIPS_TITLE,Today's Tips,今日提示
 UI_HELPTIPS_DOYOUKNOW,Did you know?,您知道嗎？
 UI_HELPFAQ_QUESTION,Q.,Q.
@@ -281,7 +281,7 @@ UI_PARTY_SETTINGS,Settings,設定
 UI_PARTY_NAME,Name:,名稱：
 UI_PARTY_LEVEL,Level:,等級：
 UI_PARTY_POINT,Points:,點數：
-UI_PARTY_EXPSHARE,EXP Share,經驗值分配
+UI_PARTY_EXPSHARE,EXP Share,經驗分配
 UI_PARTY_EXPMODE_LEVEL,Level,等級
 UI_PARTY_EXPMODE_LEVEL_TIP,EXP is distributed among party members based on their levels.,經驗值會依照劇團成員的等級分配。
 UI_PARTY_EXPMODE_CONTRIB,Contribution,貢獻程度
@@ -1520,7 +1520,7 @@ UI_UPGRADECARD_UNSAFE,"Without a Scroll of EProtect, the material cards will be 
 UI_WORLD_LOCK,Locked,鎖住
 UI_WORLD_UNLOCK,Unlocked,解鎖
 UI_GUILD_LASTSEEN,Last Seen:,最後一次登入：
-UI_PET_STAT,Stat,能力值
+UI_PET_STAT,Stat,能力
 UI_PET_STAT_NONE,None,沒有
 UI_PET_ENERGY,Energy,能量
 UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Proceed?,#b視窗中的寵物將會消失，#nb您要繼續嗎？
@@ -3047,7 +3047,7 @@ UI_DEBUG_WEATHER,Weather,天氣
 UI_DEBUG_FOG,Fog,迷霧
 UI_DEBUG_LIGHT,Light,光
 UI_DEBUG_OBJ_CULLING,Object Culling,物件剔除
-UI_DEBUG_BUTT_EXP,Exp,經驗值
+UI_DEBUG_BUTT_EXP,Exp,經驗
 UI_DEBUG_MOVER_STATE,Movers states,移動體狀態
 UI_DEBUG_DYNAMIC_BUFF,Dynamic buffers,動態緩衝區
 UI_DEBUG_RENDERING_INFO,Rendering Info,渲染資訊
