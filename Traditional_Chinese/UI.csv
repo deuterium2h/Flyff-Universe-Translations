@@ -257,7 +257,7 @@ UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,攻擊力和生命
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,減少防禦力、命中率
 UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,奪魂掠襲率
 UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,安庫噬魂
-UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,穆蘭之怒
+UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,穆蘭盛怒
 UI_TOOLTIP_LOCOMOTION,Movement,移動
 UI_TOOLTIP_RETURN_USE,Return to your former position.,返回先前的位置。
 UI_DISPLAY_BUFFS,Show/hide buffs,顯示/隱藏增益
