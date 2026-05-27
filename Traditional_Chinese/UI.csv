@@ -1379,7 +1379,7 @@ UI_TOOLTIP_ELEMENT,Element: %s,元素：%s
 UI_APP_BOT_TIP,Bot Simulation,機器人模擬
 UI_TOOLTIP_DST_EXP,Monster EXP,怪物經驗值
 UI_TOOLTIP_DST_ITEM_DROPRATE,Item Drop Rate,物品掉落機率
-UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery,自動攻擊活力回復
+UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery,普攻活力回復
 UI_TOOLTIP_DST_AUTOHP,Recover %d%% HP When HP Falls Below %d%%,生命回復 %d%% 當生命低於 %d%%
 UI_OPTION_MYNAME,Show My Name,顯示我的名字
 UI_OPTION_OTHERNAME,Show Other Players' Names,顯示其他玩家的名稱
@@ -3209,7 +3209,7 @@ UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,三米範圍內的傷害
 UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,五米範圍以外的傷害
 UI_DUNGEON_MODLEVEL,Lv.%d,Lv.%d
 UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\n當前加成：
-UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,自動攻擊堆疊層數機率
+UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,普攻堆疊層數機率
 UI_TOOLTIP_YOYORANGE,Yo-Yo Range,溜刃範圍
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%),生命：%d (%d%%)
 UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,減少生命消耗
@@ -3271,7 +3271,7 @@ UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,來自潮濕敵人的傷害
 UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,來自窒息敵人的傷害
 UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,來自感電敵人的傷害
 UI_TOOLTIP_HP_SHIELD,Max. Health Shield,最大生命防禦護盾
-UI_TOOLTIP_AA_DMG,Auto Attack Damage,自動攻擊傷害
+UI_TOOLTIP_AA_DMG,Auto Attack Damage,普攻傷害
 UI_LEVELCHANGE_NONE,No available jobs at this level,該等級目前無法使用
 UI_SKILL_PAGE_SELECT,Select your skill page:,選擇你的技能頁：
 UI_TOOLTIP_DST_MOBEXP,Monsters EXP Gain,怪物經驗值獲得

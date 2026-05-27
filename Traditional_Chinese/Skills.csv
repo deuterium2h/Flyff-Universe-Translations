@@ -536,7 +536,7 @@ PROPSKILL_TXT_150029,Movement speed temporarily increases after leaving invisibi
 PROPSKILL_TXT_150030,Concentration [Nen],凝神 [念氣]
 PROPSKILL_TXT_150031,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.,凝神聚意，使用時獲得念氣。此技能最多可積累 10 層念氣。念氣疊層效果將根據當前疊層數量倍增。
 PROPSKILL_TXT_150032,Forced Critical Hit,必殺會心
-PROPSKILL_TXT_150033,Your next auto attack is guaranteed to be a critical hit.,下次自動攻擊必定暴擊。
+PROPSKILL_TXT_150033,Your next auto attack is guaranteed to be a critical hit.,下次普攻必定暴擊。
 PROPSKILL_TXT_150034,"Your critical chance is capped at 10%, while greatly increasing critical damage.",你的暴擊率上限為 10%，但暴擊傷害將大幅提升。
 PROPSKILL_TXT_150035,Barrage,連矢彈幕
 PROPSKILL_TXT_150036,Normal attacks have a chance to fire double arrows.,普通攻擊有一定機率發射兩支箭。
