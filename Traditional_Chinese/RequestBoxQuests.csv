@@ -2,9 +2,9 @@
 PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,$QUEST_END_ITEM_NAME$s 的請求已發出。你會接受這個任務嗎？
 PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,醫料神官為了製造繃帶，委託了蒐集咕噥繃帶。
 PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,杜爾沛為了製造手電筒，委託了蒐集製作手電筒材料的『電光球』。
-PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,醫料神官為了製造麻醉藥，委託了蒐集麻醉藥的材料『毒花觸手』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000453,A request has gone out for Boopoison to make an antidote. Will you help?,醫料神官為了製造麻醉藥，委託了蒐集麻醉藥的材料『毒花觸手』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000458,A request has gone out for $QUEST_END_ITEM_NAME$.,$QUEST_END_ITEM_NAME$ 的請求已發出。
-PROPQUEST_REQUESTBOX_INC_000519,A request has gone out for Rootioe to be used as woodworking material. Will you help?,木工所的材料極度缺發，木工所的員工委託了蒐集『樹精的根』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000519,A request has gone out for Rootioe to be used as woodworking material. Will you help?,木工所的材料極度缺乏，木工所的員工委託了蒐集『樹精的根』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000366,You can get $QUEST_END_ITEM_NAME$ from any type of $QUEST_END_ITEM_MON$.,你可以從任何類型的 $QUEST_END_ITEM_MON$ 中獲得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_000322,You can collect $QUEST_END_ITEM_NAME$ from all types of $QUEST_END_ITEM_MON$.,你可以從所有類型的 $QUEST_END_ITEM_MON$ 中收集 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_000014,You can collect $QUEST_END_ITEM_NAME$ near a bridge in north.,你可以在北部的一座橋附近收集 $QUEST_END_ITEM_NAME$。
@@ -12,7 +12,7 @@ PROPQUEST_REQUESTBOX_INC_000025,You can collect Unknown Certificates near the Ba
 PROPQUEST_REQUESTBOX_INC_000091,You can collect nyanyang near the Giant Nyangnyang.,娘娘果可以在喵娘女王出沒的地方搜尋喔！娘娘果是喵娘女王愛吃的食物呢～
 PROPQUEST_REQUESTBOX_INC_000146,You can collect the office documents near Mias.,『城鎮服務處的文件』可以在米兒地區尋獲喔！
 PROPQUEST_REQUESTBOX_INC_000301,You do not want to collect them? Okay.,你不想收集它們嗎？好的。
-PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,您需要更多 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_000369,You need more $QUEST_END_ITEM_NAME$.,你需要更多 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_000303,You do not have enough $QUEST_END_ITEM_NAME$.,你沒有足夠的 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_000049,Well done. You have successfully completed the quest.,做得好！你已成功完成任務。
 PROPQUEST_REQUESTBOX_INC_000357,Good Job! You successfully completed the quest. Take this for your trouble.,做得好！你成功完成了任務。拿這個來解決你的麻煩。
@@ -20,68 +20,68 @@ PROPQUEST_REQUESTBOX_INC_000362,$QUEST_END_NPC_NAME$ was happy that the quest wa
 PROPQUEST_REQUESTBOX_INC_000307,$QUEST_END_NPC_NAME$ was happy to see the quest completed.,$QUEST_END_NPC_NAME$ 很高興看到任務完成。
 PROPQUEST_REQUESTBOX_INC_000582,$QUEST_END_NPC_NAME$ is very grateful to you for completing this quest.,$QUEST_END_NPC_NAME$ 非常感謝你完成了這個任務。
 PROPQUEST_REQUESTBOX_INC_000001,Party of Is,艾絲的肉派對
-PROPQUEST_REQUESTBOX_INC_000002,Is needs you to gather Chupim for her party. Will you help?,艾絲委託我收集烤肉派對時要用的生果實，請問您要接受這個委託嗎？
+PROPQUEST_REQUESTBOX_INC_000002,Is needs you to gather Chupim for her party. Will you help?,艾絲委託我收集烤肉派對時要用的生果實，請問你要接受這個委託嗎？
 PROPQUEST_REQUESTBOX_INC_000007,Is asking you to collect Chupim for her party.,艾絲為了舉辦烤肉派對，所以請委託中心幫忙收集生果實！
 PROPQUEST_REQUESTBOX_INC_000012,Unknown Situation (1),未知情況 (1)
-PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,布拉里胖胖委託本中心收集『詭異的信件』，您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,布拉里胖胖委託本中心收集『詭異的信件』，你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000018,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.,布拉里胖胖請委託中心幫忙收集 $QUEST_END_ITEM_NAME$。
-PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,布拉里胖胖委託本中心去收集『詭異的證件』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,布拉里胖胖委託本中心去收集『詭異的證件』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000034,Flying Board,滑板～飛吧～
-PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,寶雅為了大量的製造飛行滑板，所以委託本中心去收集『尖刺犰狳硬皮』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,寶雅為了大量的製造飛行滑板，所以委託本中心去收集『尖刺犰狳硬皮』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000040,Dior wants you to collect Peakyrinds.,寶雅為了大量製造滑板而拜託委託中心收集滑板的材料『尖刺犰狳硬皮』
 PROPQUEST_REQUESTBOX_INC_000045,Fresh Start for Mop,熊娃娃新生活
-PROPQUEST_REQUESTBOX_INC_000046,House of Children needs you to collect Mop for their children. Will you help?,瑪德利賈唯一的孤兒院『遺失的天使』想要準備一些禮物送給院童，因此委託本中心去收集丹丹的娃娃。您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000046,House of Children needs you to collect Mop for their children. Will you help?,瑪德利賈唯一的孤兒院『遺失的天使』想要準備一些禮物送給院童，因此委託本中心去收集丹丹的娃娃。你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000051,House of Children wants you to collect 3 Mop.,孤兒院『遺失的天使』請委託中心收集 3 個熊娃娃
 PROPQUEST_REQUESTBOX_INC_000056,Gems for Wands,法杖的寶石
-PROPQUEST_REQUESTBOX_INC_000057,Madrigal Magician Union wants you to collect Poporam for their wands. Will you help?,瑪德利賈世界的魔法使協會為了製造新法杖，所以請委託中心去收集紫寶石。您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000057,Madrigal Magician Union wants you to collect Poporam for their wands. Will you help?,瑪德利賈世界的魔法使協會為了製造新法杖，所以請委託中心去收集紫寶石。你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000062,Madrigal Magician Union wants you to collect 4 Poporam.,瑪德利賈的魔法使協會為了製造新法杖，特別請委託中心收集 4 個紫寶石
 PROPQUEST_REQUESTBOX_INC_000067,"Cookie Machine, Valin Baget",餅乾製造器
-PROPQUEST_REQUESTBOX_INC_000068,Valin needs you to collect Slain to fuel his Cookie Machine. Will you help?,巴陵為了製造麵包，需要一些餅乾製造機的燃料，所以委託本中心去收集『賤狼指甲』。您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000068,Valin needs you to collect Slain to fuel his Cookie Machine. Will you help?,巴陵為了製造麵包，需要一些餅乾製造機的燃料，所以委託本中心去收集『賤狼指甲』。你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000073,Valin needs you to collect Slain for his cookie machine.,巴陵需要餅乾製造器的燃料，所以請委託中心收集賤狼指甲
 PROPQUEST_REQUESTBOX_INC_000078,Magic Quill,神秘的魔法筆
-PROPQUEST_REQUESTBOX_INC_000079,Mule wants you to collect Tarin roots so he can make a new magic quill. Will you help?,謬為了寫一本小說，所以需要一支魔法筆，他委託本中心去收集『蜥蜴草根』，您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000079,Mule wants you to collect Tarin roots so he can make a new magic quill. Will you help?,謬為了寫一本小說，所以需要一支魔法筆，他委託本中心去收集『蜥蜴草根』，你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000084,Mule needs you to collect Tarin roots.,謬為了寫小說，需要用蜥蜴草根來製作魔法筆。
 PROPQUEST_REQUESTBOX_INC_000089,Lyangglatang,娘娘果濃湯
-PROPQUEST_REQUESTBOX_INC_000090,Rooney wants you to collect Nyanyangs for her party. Will you help?,魯尼想要為哥哥煮一鍋娘娘果濃湯，所以請本中心去收集娘娘果。您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000090,Rooney wants you to collect Nyanyangs for her party. Will you help?,魯尼想要為哥哥煮一鍋娘娘果濃湯，所以請本中心去收集娘娘果。你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000095,Rooney needs you to collect Nyanyangs.,魯尼需要用娘娘果煮一鍋娘娘濃湯給哥哥喝。
 PROPQUEST_REQUESTBOX_INC_000100,10 Year anniversary gift,開店 10 週年慶的贈品
-PROPQUEST_REQUESTBOX_INC_000101,Marche wants you to collect Starstones to make a 10 year anniversary gift. Will you help?,魔力夢夢為了慶祝開店 10 週年慶，想要準備一些紀念品！因此委託本中心去收集星石，您要接受任務嗎？
+PROPQUEST_REQUESTBOX_INC_000101,Marche wants you to collect Starstones to make a 10 year anniversary gift. Will you help?,魔力夢夢為了慶祝開店 10 週年慶，想要準備一些紀念品！因此委託本中心去收集星石，你要接受任務嗎？
 PROPQUEST_REQUESTBOX_INC_000106,Marche needs Starstones,魔力夢夢需要一些星石。
 PROPQUEST_REQUESTBOX_INC_000111,Liquor for Dunkan,多肯的釀酒日記
-PROPQUEST_REQUESTBOX_INC_000112,Dunkan needs you to collect Golden Wings to make a new liquor. Will you help?,多肯想要釀新酒，所以請委託本中心去收集新酒的材料『黃金翅膀』，您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000112,Dunkan needs you to collect Golden Wings to make a new liquor. Will you help?,多肯想要釀新酒，所以請委託本中心去收集新酒的材料『黃金翅膀』，你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000117,Dunkan wants Golden Wings.,多肯要用黃金翅膀釀新品酒。
 PROPQUEST_REQUESTBOX_INC_000122,Sweet Dessert,甜美的點心－藍蜜派
-PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,頑童丹丹想要製作美味點心，所以請委託本中心去收集點心材料『藍色蜂蜜』。您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000123,Damian needs you to collect Blue Honey to make a new dessert. Will you help?,頑童丹丹想要製作美味點心，所以請委託本中心去收集點心材料『藍色蜂蜜』。你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000128,Damian needs Blue Honey,頑童丹丹需要藍色蜂蜜製作美味的點心。
 PROPQUEST_REQUESTBOX_INC_000133,Blessed Doll,得到祝福的娃娃
-PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,孤兒院『遺失的天使』需要一些可以送給院童的禮物，因此委託本中心去收集米兒的娃娃。您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000134,House of Children needs you to collect Mia Dolls as presents for the children. Will you help?,孤兒院『遺失的天使』需要一些可以送給院童的禮物，因此委託本中心去收集米兒的娃娃。你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000139,House of Children wants Mia Dolls.,孤兒院『遺失的天使』請委託中心收集米兒的娃娃。
 PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,遺失的文件
-PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,喬艾倫委託本中心去收集被米兒偷走的文件，您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,喬艾倫委託本中心去收集被米兒偷走的文件，你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,喬艾倫請委託中心去米兒姊姊的棲息地尋找被偷的文件
 PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,燃燒吧～火柴！
-PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,巴曼為了繼續使用鎔爐，所以委託本中心去收集『強化火柴』。您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,巴曼為了繼續使用鎔爐，所以委託本中心去收集『強化火柴』。你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,巴曼為了持續使用鎔爐，所以請委託中心收集『強化火柴』。
 PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),詭異的現象 (2)
-PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,布拉里胖胖委託本中心去收集『詭異的信件』，您要接受嗎？
+PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,布拉里胖胖委託本中心去收集『詭異的信件』，你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000172,Flaris Pang needs unknown letters again.,布拉里胖胖請委託中心收集『詭異的信件』。
 PROPQUEST_REQUESTBOX_INC_000177,Delicious Sauce,美味的螳螂調味料
-PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delicious sauce.,卡琳為了製作最美味的螳螂調味料，特別請委託中心收集磨刃石。請問您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delicious sauce.,卡琳為了製作最美味的螳螂調味料，特別請委託中心收集磨刃石。請問你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000183,Kalin wants Cardrin.,卡琳為了製作最美味的螳螂調味料，所以請委託中心收集磨刃石。
 PROPQUEST_REQUESTBOX_INC_000188,Magic Orb,魔法珠珠
-PROPQUEST_REQUESTBOX_INC_000189,Martin needs Hammarble to make a Magic Orb. Will you help?,馬丁為了製作魔法千里眼珠珠，所以請我們委託中心去收集傑克石。您要接受本次委託事項嗎？
+PROPQUEST_REQUESTBOX_INC_000189,Martin needs Hammarble to make a Magic Orb. Will you help?,馬丁為了製作魔法千里眼珠珠，所以請我們委託中心去收集傑克石。你要接受本次委託事項嗎？
 PROPQUEST_REQUESTBOX_INC_000194,Martin wants Hammarbles.,馬丁為了製作魔法千里眼珠珠，所以請委託中心去收集傑克石。
 PROPQUEST_REQUESTBOX_INC_000199,Mark of Bill,比爾的成功時代 ─比爾的紋章─
-PROPQUEST_REQUESTBOX_INC_000200,Bill needs you to collect Gigglande so that he can make his mark. Will you help?,比爾為了製作自己品牌的紋章，特別請我們委託中心去收集寶箱石。您要接受這項委託事項嗎？
+PROPQUEST_REQUESTBOX_INC_000200,Bill needs you to collect Gigglande so that he can make his mark. Will you help?,比爾為了製作自己品牌的紋章，特別請我們委託中心去收集寶箱石。你要接受這項委託事項嗎？
 PROPQUEST_REQUESTBOX_INC_000205,Bill wants Gigglande.,比爾想要用寶箱石製作自己的紋章，所以請委託中心收集。
 PROPQUEST_REQUESTBOX_INC_000210,Repair Work on Saint Hall,聖音特教堂修護工程
 PROPQUEST_REQUESTBOX_INC_000211,Helena needs you to collect Crescent Stones to repair Saint Hall. Will you help?,海蓮娜為了聖音特教堂的維護工程，特別請我們委託中心去收集弦月寶石。
 PROPQUEST_REQUESTBOX_INC_000216,Helena wants $QUEST_END_ITEM_NAME$.,海蓮娜希望委託中心能夠幫她收集 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_000221,Helping injured animals,關懷殘障犬活動
-PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,瑪德利賈的殘障犬保護團體想要舉行愛心救助活動，因此請我們委託中心去幫忙收集獨刀眼罩。您要接受這委託嗎？
+PROPQUEST_REQUESTBOX_INC_000222,Madrigal Animal Association needs you to collect Bobands to help their injured animals. Will you help?,瑪德利賈的殘障犬保護團體想要舉行愛心救助活動，因此請我們委託中心去幫忙收集獨刀眼罩。你要接受這委託嗎？
 PROPQUEST_REQUESTBOX_INC_000227,Madrigal Animal Association wants Bobands.,瑪德利賈的殘障犬保護團體請委託中心收集獨刀眼罩。
 PROPQUEST_REQUESTBOX_INC_000232,Strange Collector,詭異的蒐藏家
-PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,有一位詭異的蒐藏家委託本中心蒐集『猛牛鼻環』，您要接受這個任務嗎？
+PROPQUEST_REQUESTBOX_INC_000233,Strange Collector needs you to collect Dumblings for his collection. Will you help?,有一位詭異的蒐藏家委託本中心蒐集『猛牛鼻環』，你要接受這個任務嗎？
 PROPQUEST_REQUESTBOX_INC_000243,For the Wife,為了妻子的祝福
 PROPQUEST_REQUESTBOX_INC_000244,Mayer needs Kalin to make a present for his wife. Will you help?,市長為了製造胸針送給妻子，委託了蒐集卡玲胸針的任務，你要接受任務嗎？
 PROPQUEST_REQUESTBOX_INC_000249,Mayer wants Kalin.,市長為了製造胸針送給妻子，委託了蒐集『卡玲胸針』的任務
@@ -97,7 +97,7 @@ PROPQUEST_REQUESTBOX_INC_000287,Marbles for the Son,寶寶玩的彈珠
 PROPQUEST_REQUESTBOX_INC_000288,Mayer needs orbin to make marbles for his son. Will you help?,市長為了送兒子生日禮物，想製造一些彈珠，所以委託了蒐集破碎的晶球.請問你要接受嗎？
 PROPQUEST_REQUESTBOX_INC_000293,Mayer wants orbin.,市長為了送兒子生日禮物，想製造一些彈珠，所以委託了蒐集破碎的晶球
 PROPQUEST_REQUESTBOX_INC_000298,Strange Collector (2),詭異的蒐藏家 2
-PROPQUEST_REQUESTBOX_INC_000299,Strange Collector needs you to collect $QUEST_END_ITEM_NAME$ for his collection. Will you help?,有一位詭異的蒐藏家委託蒐集 $QUEST_END_ITEM_NAME$，請問您要接受任務嗎？
+PROPQUEST_REQUESTBOX_INC_000299,Strange Collector needs you to collect $QUEST_END_ITEM_NAME$ for his collection. Will you help?,有一位詭異的蒐藏家委託蒐集 $QUEST_END_ITEM_NAME$，請問你要接受任務嗎？
 PROPQUEST_REQUESTBOX_INC_000304,Strange Collector wants $QUEST_END_ITEM_NAME$.,有一位詭異的蒐藏家委託蒐集 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_000309,Lens of Olien,席琳娜的隱形眼鏡
 PROPQUEST_REQUESTBOX_INC_000310,Olien needs you to collect steam tears to make a new lens. Will you help?,席琳娜為了製造隱形眼鏡，委託了蒐集水滴寶石，你要接受任務嗎？
@@ -115,47 +115,47 @@ PROPQUEST_REQUESTBOX_INC_000353,Urgently looking for a Bandage,蒐集繃帶
 PROPQUEST_REQUESTBOX_INC_000364,Portable Power,攜帶用的發光器
 PROPQUEST_REQUESTBOX_INC_000375,Strange Collector (3),詭異的蒐藏家 3
 PROPQUEST_REQUESTBOX_INC_000386,Replacement Tires,再生輪胎
-PROPQUEST_REQUESTBOX_INC_000387,The Dwarpet needs you to collect Dumptires to replace his flat tires. Will you help?,杜爾沛為了製造可以長久使用的輪胎，委託了蒐集製作輪胎材料的『火燄車輪』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000387,The Dwarpet needs you to collect Dumptires to replace his flat tires. Will you help?,杜爾沛為了製造可以長久使用的輪胎，委託了蒐集製作輪胎材料的『火燄車輪』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000392,The Dwarpet wants Dumptire.,杜爾沛為了製造可以長久使用的輪胎，委託了蒐集製作輪胎材料的『火燄車輪』
 PROPQUEST_REQUESTBOX_INC_000397,Strange Collector (4),詭異的蒐藏家 4
-PROPQUEST_REQUESTBOX_INC_000398,Mysterious collector needs Garbageton for his collection. Will you help?,詭異的蒐藏家委託了蒐集『風化石』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000398,Mysterious collector needs Garbageton for his collection. Will you help?,詭異的蒐藏家委託了蒐集『風化石』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000408,Relics of a Husband,丈夫的遺物
-PROPQUEST_REQUESTBOX_INC_000409,A widow has asked that you collect Eronior so that she can re-make the ring of her husband. Will you help?,有一個流浪人，遺失了老公戒指上的一個寶石，為了製造寶石，流浪人委託了蒐集製造寶石材料的『風化結晶』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000409,A widow has asked that you collect Eronior so that she can re-make the ring of her husband. Will you help?,有一個流浪人，遺失了老公戒指上的一個寶石，為了製造寶石，流浪人委託了蒐集製造寶石材料的『風化結晶』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000414,A widow wants some Eronior.,有一個流浪人，遺失了老公戒指上的一個寶石，為了製造寶石，流浪人委託了蒐集製造寶石材料的『風化結晶』
 PROPQUEST_REQUESTBOX_INC_000419,Disguise of Remina,雷米娜的變身
 PROPQUEST_REQUESTBOX_INC_000420,Remina needs you to collect repygle to make a pair of disguising sunglasses. Will you help?,雷米娜為了製造一副墨鏡，委託了蒐集製造墨鏡的材料『夜視鏡』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000425,Remina wants $QUEST_END_ITEM_NAME$.,雷米娜想委託了蒐集 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_000430,Beautiful Keil Wallpaper,美麗的藍光壁紙
-PROPQUEST_REQUESTBOX_INC_000431,Haven needs you to collect Sycale to re-model the Magic Shop. Will you help?,海音為了整修魔法店，委託了蒐集製造壁紙用的『藍光鱗片』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000431,Haven needs you to collect Sycale to re-model the Magic Shop. Will you help?,海音為了整修魔法店，委託了蒐集製造壁紙用的『藍光鱗片』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000436,Heaven wants Sycale.,海音為了整修魔法店，委託了蒐集製造壁紙用的『藍光鱗片』
 PROPQUEST_REQUESTBOX_INC_000441,Strange Collector (5),詭異的蒐藏家 5
-PROPQUEST_REQUESTBOX_INC_000442,Strange Collector needs $QUEST_END_ITEM_NAME$ for his collection. Will you help?,詭異的蒐藏家委託蒐集 $QUEST_END_ITEM_NAME$，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000442,Strange Collector needs $QUEST_END_ITEM_NAME$ for his collection. Will you help?,詭異的蒐藏家委託蒐集 $QUEST_END_ITEM_NAME$，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000447,Strange collector want Mong Tear,詭異的蒐藏家，委託了蒐集『水寶石』
 PROPQUEST_REQUESTBOX_INC_000452,Anesthetic Needs,缺乏麻醉藥劑
 PROPQUEST_REQUESTBOX_INC_000463,New Kind of Firework,製作新的鞭炮
-PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make a new kind of firework. Will you help?,鞭炮商要製造新品種的鞭炮，委託了蒐集鞭炮材料『自爆計時器』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make a new kind of firework. Will you help?,鞭炮商要製造新品種的鞭炮，委託了蒐集鞭炮材料『自爆計時器』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000465,You get bombtimers from any type of Carrierbomb.,你可以在轟炸兵群中蒐集喔～賓拉當轟炸兵、轟炸兵、鳥山轟炸機都可以蒐集得到喔！
 PROPQUEST_REQUESTBOX_INC_000469,The Firework Producer wants Bomb Timers.,鞭炮商要製造新品種的鞭炮，委託了蒐集鞭炮材料『自爆計時器』
 PROPQUEST_REQUESTBOX_INC_000474,Snack for the Children,孩子的零食
-PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,艾爾夫為了製作孩子們的零食，委託了蒐集零食的材料『蝗蟲翅膀』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,艾爾夫為了製作孩子們的零食，委託了蒐集零食的材料『蝗蟲翅膀』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000480,Bolpor wants Prewing.,艾爾夫為了製作孩子們的零食，委託了蒐集零食的材料『蝗蟲翅膀』
 PROPQUEST_REQUESTBOX_INC_000485,Mushroom Farm of Chitller,維德的香菇農場
-PROPQUEST_REQUESTBOX_INC_000486,Chitller needs you to collect Poiespore for his mushroom farm will you help?,維德為的在農場裡種香菇，委託了蒐集『魔菇胞子』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000486,Chitller needs you to collect Poiespore for his mushroom farm will you help?,維德為的在農場裡種香菇，委託了蒐集『魔菇胞子』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000491,Chitller wants Poiespore.,維德為的在農場裡種香菇，委託了蒐集『魔菇胞子』
 PROPQUEST_REQUESTBOX_INC_000496,New Yo-Yo,製作新的溜刃
-PROPQUEST_REQUESTBOX_INC_000497,An Acrobat master needs you to gather Renyken to make a new Yo-Yo. Will you help?,雜技師集團人員要製造新的溜刃，委託了蒐集製造溜刃的材料『刀尾蚊的尾刃』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000497,An Acrobat master needs you to gather Renyken to make a new Yo-Yo. Will you help?,雜技師集團人員要製造新的溜刃，委託了蒐集製造溜刃的材料『刀尾蚊的尾刃』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000502,An Acrobat master wants Renyken.,雜技師集團人員要製造新的溜刃，委託了蒐集製造溜刃的材料『刀尾蚊的尾刃』
 PROPQUEST_REQUESTBOX_INC_000507,Disguise of a Native,原住民的大變身
-PROPQUEST_REQUESTBOX_INC_000508,Darkon natives need you to collect Tangkask. Will you help?,原住民為了逃離哇噹卡，委託了蒐集『哇噹卡面具』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000508,Darkon natives need you to collect Tangkask. Will you help?,原住民為了逃離哇噹卡，委託了蒐集『哇噹卡面具』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000513,Darkon natives want Tankask.,原住民為了逃離哇噹卡，委託了蒐集『哇噹卡面具』
 PROPQUEST_REQUESTBOX_INC_000518,Woodworking Material,木工所氾濫
 PROPQUEST_REQUESTBOX_INC_000529,The Best Shield,頂級盾牌
-PROPQUEST_REQUESTBOX_INC_000530,Remina needs Luchest to make the strongest shield in the world. Will you help?,雷米娜為了製造強化盾牌，委託了蒐集『鳳凰胸甲』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000530,Remina needs Luchest to make the strongest shield in the world. Will you help?,雷米娜為了製造強化盾牌，委託了蒐集『鳳凰胸甲』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000540,Beauty Contest Award,美少女選拔賽的獎品
-PROPQUEST_REQUESTBOX_INC_000541,The Madrigal Beauty Contest needs Eronsimint for making an award. Will you help?,瑪德利賈為了製造美少女選拔賽要使用的獎盃，委託了蒐集材料『綠方石』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000541,The Madrigal Beauty Contest needs Eronsimint for making an award. Will you help?,瑪德利賈為了製造美少女選拔賽要使用的獎盃，委託了蒐集材料『綠方石』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000546,The Madrigal Beauty Contest sponsor wants Eronsimint.,瑪德利賈為了製造美少女選拔賽要使用的獎盃，委託了蒐集材料『綠方石』
 PROPQUEST_REQUESTBOX_INC_000551,Lucky Tool,盧尼的煙囪
-PROPQUEST_REQUESTBOX_INC_000552,Lucky needs Hammamer to make a lucky hammer. Will you help?,盧尼為了製作一個新的煙囪，委託了蒐集製作煙囪的材料『象槌』，您要接受委託嗎？
+PROPQUEST_REQUESTBOX_INC_000552,Lucky needs Hammamer to make a lucky hammer. Will you help?,盧尼為了製作一個新的煙囪，委託了蒐集製作煙囪的材料『象槌』，你要接受委託嗎？
 PROPQUEST_REQUESTBOX_INC_000557,Lucky wants Hammamer.,盧尼為了製作一個新的煙囪，委託了蒐集製作煙囪的材料『象槌』
 PROPQUEST_REQUESTBOX_INC_000562,Strange Collector (6),詭異的蒐藏家 6
 PROPQUEST_REQUESTBOX_INC_000573,Request of Lurif,皮姬的委託
@@ -163,16 +163,16 @@ PROPQUEST_REQUESTBOX_INC_000574,Could you do me a favor? I need Phanbubble. Can 
 PROPQUEST_REQUESTBOX_INC_000579,Lurif needs many Phanbubbles.,皮姬委託了蒐集『皮皮珠』不知道什麼原因噎～
 PROPQUEST_REQUESTBOX_INC_000815,Mysterious Magic Material,神秘魔法材料
 PROPQUEST_REQUESTBOX_INC_000816,Magician Master requested you to collect Merahook which is a magic material. Will you accept this request?,魔法師大師請你收集作為魔法材料的變種蝙蝠指甲。你會接受這個請求嗎？
-PROPQUEST_REQUESTBOX_INC_000817,You can collect them from the group of Chimeradon in the Deadwallderness.,您可以從死寂荒原的變種蝙蝠俠群中收集它們。
+PROPQUEST_REQUESTBOX_INC_000817,You can collect them from the group of Chimeradon in the Deadwallderness.,你可以從死寂荒原的變種蝙蝠俠群中收集它們。
 PROPQUEST_REQUESTBOX_INC_000826,Avenge Nerky,復仇書呆子
 PROPQUEST_REQUESTBOX_INC_000827,Krinton's pet Bearnerky got killed by the other Bearnerky. Krinton requested you to collect NerkyMane for revenge. Will you accept this request?,克林特的寵物獨眼野熊被另一隻獨眼野熊殺死了。克林特請你收集野熊鬃毛來替牠報仇。你會接受這個請求嗎？
-PROPQUEST_REQUESTBOX_INC_000828,You can collect them from the group of Bearnerky in the Deadwallderness.,您可以從死寂荒原的波肯小組中收集它們。
+PROPQUEST_REQUESTBOX_INC_000828,You can collect them from the group of Bearnerky in the Deadwallderness.,你可以從死寂荒原的波肯小組中收集它們。
 PROPQUEST_REQUESTBOX_INC_000837,Bolpor's favor,艾爾夫的最愛
 PROPQUEST_REQUESTBOX_INC_000838,Bolpor requested you to collect Rincruet for making some special food. Will you accept this request?,艾爾夫要求你收集麻普調味桶來製作一些特殊的食物。你會接受這個請求嗎？
-PROPQUEST_REQUESTBOX_INC_000839,You can collect them from the group of Muffrin in the Deadwallderness.,您可以從死寂荒原的麻普小組中收集它們。
+PROPQUEST_REQUESTBOX_INC_000839,You can collect them from the group of Muffrin in the Deadwallderness.,你可以從死寂荒原的麻普小組中收集它們。
 PROPQUEST_REQUESTBOX_INC_000848,Toy Materials,玩具材料
 PROPQUEST_REQUESTBOX_INC_000849,A toy merchant requested you to collect Popshift for making fancy toys. Will you accept this request?,一個玩具商人要求你收集迴轉控制桿來製作精美的玩具。你會接受這個請求嗎？
-PROPQUEST_REQUESTBOX_INC_000850,You can collect them from the group of Popcrank in the Deadwallderness.,您可以從死寂荒原的小丑團隊中收集它們。
+PROPQUEST_REQUESTBOX_INC_000850,You can collect them from the group of Popcrank in the Deadwallderness.,你可以從死寂荒原的小丑團隊中收集它們。
 PROPQUEST_REQUESTBOX_INC_000859,Evil Eyed Red Dragon,邪眼紅龍
 PROPQUEST_REQUESTBOX_INC_000860,Can you please go find Dragon Tooth of the Meteonyker Dragon for me? The Arena Manager Lay requested 5 of them.,你能幫我找到地炎飛龍的龍牙嗎？自由競技場管理員需要其中的 5 個。
 PROPQUEST_REQUESTBOX_INC_000861,"You can collect them from Meteonyker. I heard it's in Dekane Dungeon. Be careful, the Meteonyker is very strong! It's  best if you go with a party!",你可以從地炎飛龍收集它們。我聽說它在迪坎礦坑副本。小心，地炎飛龍非常強大！參加劇團是最好的辦法！
@@ -233,7 +233,7 @@ PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),紅蠍尖牙狩獵 (2)
 PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,阿爾瑪尼正在尋求進一步協助，處理紅蠍尖牙的威脅。你能擊敗變異巨眼怪之王嗎？
 PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,你可以在古坦山脈上空找到飛行中的變異巨眼怪之王。
 PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,你可以從任何類型的變種蝙蝠俠獲得 $QUEST_END_ITEM_NAME$。
-PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,您可以從任何類型的獨眼野熊獲得 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,你可以從任何類型的獨眼野熊獲得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,你可以從任何類型的麻普中獲得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020003,You can get $QUEST_END_ITEM_NAME$ from any type of Popcrank.,你可以從任何類型的詭異小丑中獲得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020004,You can collect $QUEST_END_ITEM_NAME$ from all types of Red Mantis.,你可以從所有類型的赤螳螂中收集 $QUEST_END_ITEM_NAME$。
@@ -243,11 +243,11 @@ PROPQUEST_REQUESTBOX_INC_020007,Obsessed with Crystals! (3),沉迷於水晶！(3
 PROPQUEST_REQUESTBOX_INC_020008,Obsessed with Crystals! (4),沉迷於水晶！(4)
 PROPQUEST_REQUESTBOX_INC_020009,Obsessed with Crystals! (5),沉迷於水晶！(5)
 PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,水晶！嗯……$QUEST_END_ITEM_NAME$！你能幫我帶一些 $QUEST_END_ITEM_NAME$ 來嗎！？
-PROPQUEST_REQUESTBOX_INC_020011,You can get $QUEST_END_ITEM_NAME$ from any type of Medumet.,您可以從任何類型的美杜梅獲得 $QUEST_END_ITEM_NAME$。
-PROPQUEST_REQUESTBOX_INC_020012,You can get $QUEST_END_ITEM_NAME$ from any type of Yetti.,您可以從任何類型的喵喵獲得 $QUEST_END_ITEM_NAME$。
-PROPQUEST_REQUESTBOX_INC_020013,You can get $QUEST_END_ITEM_NAME$ from any type of Augu.,您可以從任何類型的奧古獲得 $QUEST_END_ITEM_NAME$。
-PROPQUEST_REQUESTBOX_INC_020014,You can get $QUEST_END_ITEM_NAME$ from any type of Ghost of the Forgotten.,您可以從任何類型的被遺忘者幽靈獲得 $QUEST_END_ITEM_NAME$。
-PROPQUEST_REQUESTBOX_INC_020015,You can get $QUEST_END_ITEM_NAME$ from any type of Mammoth.,您可以從任何類型的巨獸獲得 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_020011,You can get $QUEST_END_ITEM_NAME$ from any type of Medumet.,你可以從任何類型的美杜梅獲得 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_020012,You can get $QUEST_END_ITEM_NAME$ from any type of Yetti.,你可以從任何類型的喵喵獲得 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_020013,You can get $QUEST_END_ITEM_NAME$ from any type of Augu.,你可以從任何類型的奧古獲得 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_020014,You can get $QUEST_END_ITEM_NAME$ from any type of Ghost of the Forgotten.,你可以從任何類型的被遺忘者幽靈獲得 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_020015,You can get $QUEST_END_ITEM_NAME$ from any type of Mammoth.,你可以從任何類型的巨獸獲得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020016,You did it! Hooray! Here's your reward. Come back soon!,你做到了！萬歲！這是你的獎勵。快點再回來喔！
 PROPQUEST_REQUESTBOX_INC_020017,More! More!,更多！再多一點！
 PROPQUEST_REQUESTBOX_INC_020018,Bring Broken Wings,帶來破損的翅膀
@@ -272,19 +272,19 @@ PROPQUEST_REQUESTBOX_INC_020036,You may find $QUEST_END_ITEM_NAME$ from any of t
 PROPQUEST_REQUESTBOX_INC_020037,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.,你可以從島上的提加身上找到 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020038,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.,你可以從在海灘巡邏的海盜身上找到 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020039,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.,你可以從島嶼周圍淺水區的金斯特身上找到美味的 $QUEST_END_ITEM_NAME$。
-PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,您可能會在海灘區附近的克雷普身上找到堅硬的 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,你可能會在海灘區附近的克雷普身上找到堅硬的 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,你可以從珊瑚島周圍的那伽身上找到 $QUEST_END_ITEM_NAME$。
-PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,您可能會在珊瑚島附近找到多利安留下的 $QUEST_END_ITEM_NAME$。
+PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,你可能會在珊瑚島附近找到多利安留下的 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020043,"You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas.",你可以在珊瑚島深海之中，從皇冠海妖身上找到華麗的 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.,你可以在深海克拉肯的肚子裡找到 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020045,"Please, don't make me go collect $QUEST_END_ITEM_NAME$ all on my own... I'm too busy dreaming up new inventions!",拜託，別讓我一個人去收集 $QUEST_END_ITEM_NAME$……我正忙著構思新的發明呢！
-PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!",感謝您收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！很快我就能輕鬆翱翔天際了。彩虹競速見！
+PROPQUEST_REQUESTBOX_INC_020046,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be soaring the skies with ease. See you at the Rainbow Race!",感謝你收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！很快我就能輕鬆翱翔天際了。彩虹競速見！
 PROPQUEST_REQUESTBOX_INC_020047,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have the biggest dagger in Madrigal. Hehehe, catch me showing off to the Demians!",感謝你收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！很快我就會擁有瑪德利賈最大的匕首。嘿嘿，到時候看我去向丹丹們炫耀吧！
 PROPQUEST_REQUESTBOX_INC_020048,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll be able to see the sights without ever leaving my home!",感謝你收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！很快我就能足不出戶看遍各地美景了！
 PROPQUEST_REQUESTBOX_INC_020049,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! We're going to be so full! Eat up, it's time to feast!",感謝你收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！我們肯定能吃得超飽！開動吧，是時候大快朵頤了！
 PROPQUEST_REQUESTBOX_INC_020050,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll have armor enough to defend Coral Island against all evil!",感謝你收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！很快我就能做出足以守護珊瑚島、對抗一切邪惡盔甲了！
 PROPQUEST_REQUESTBOX_INC_020051,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Soon I'll know more about this Purple Magic... Perhaps one day enough to stop its evil from taking over Coral Island.",感謝你收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！很快我就能更了解這種紫色魔法……也許有一天，知道的夠多時，就能阻止它的邪惡侵蝕珊瑚島。
-PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.",感謝您收集所有這些 $QUEST_END_ITEM_NAME$，冒險家！那些魚類生物擁有一種奇怪的力量，讓牠們比其他生物老得更慢。也許研究牠們的牙齒可以讓我們了解多利安的特殊能力。
+PROPQUEST_REQUESTBOX_INC_020052,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! Those fishy creatures have a strange power that makes them age slower than others. Perhaps studying their teeth can give us insight to the Dorian's special powers.",感謝你收集所有這些 $QUEST_END_ITEM_NAME$，冒險家！那些魚類生物擁有一種奇怪的力量，讓牠們比其他生物老得更慢。也許研究牠們的牙齒可以讓我們了解多利安的特殊能力。
 PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! It's just a dream... but I hope to one day greet you again as King of Coral Island.",感謝你收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！這目前還只是個夢想……但我希望有一天能以珊瑚島之王的身份再次迎接你。
 PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!",感謝你收集了這麼多 $QUEST_END_ITEM_NAME$，冒險家！我已決定親自寫下這些信並親手送出去。謝謝你所做的一切……希望有一天我們還能再見！
 PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,這些 $QUEST_END_ITEM_NAME$ 還遠遠不夠讓我完成其中一項偉大發明……帶更多回來吧！

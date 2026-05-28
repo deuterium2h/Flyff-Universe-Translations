@@ -1007,7 +1007,7 @@ ACHIEVEMENT_ROULETTE_10,Play 18 hours,遊玩 18 小時
 ACHIEVEMENT_ROULETTE_11,Play 20 hours,遊玩 20 小時
 ACHIEVEMENT_ROULETTE_12,Play 22 hours,遊玩 22 小時
 ACHIEVEMENT_RETURNING_TITLE,Homecoming Daily Login,歸鄉旅人
-ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day to receive rewards! Welcome back!,您很久沒有登入了！每天登入即可領取獎勵！歡迎回來！
+ACHIEVEMENT_RETURNING_DESC,You haven't logged in for a long time! Log in every day to receive rewards! Welcome back!,你很久沒有登入了！每天登入即可領取獎勵！歡迎回來！
 ACHIEVEMENT_RAINBOWRACE_NAME,Rainbow Race Winner,彩虹競賽優勝者
 ACHIEVEMENT_RAINBOWRACE_DESC,A unique reward for those who win the Rainbow Race.,彩虹競賽的獲勝者將獲得獨特的獎勵。
 ACHIEVEMENT_RAINBOWRACE_TITLE,Speed Demon,風馳電掣
@@ -1016,7 +1016,7 @@ ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on the number of Rainbow 
 ACHIEVEMENT_MASTER110_TITLE,Master,登峰造極
 ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use a Bonus Playtime Coupon (purchasable with fCoins) to unlock bonus rewards at each daily playtime milestone.,使用 fCoin 賺取額外的出席獎勵。
 ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Bonus Login Rewards,額外登入獎勵
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.",使用登入優惠券 (可使用 fCoins 購買) 即可解鎖每日登入獎勵。獎勵完成後，您可以使用另一張優惠券重新開始。
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,"Use a Bonus Login Coupon (purchasable with fCoins) to unlock bonus rewards for each day you log in. After completion, you can use another coupon to start over.",使用登入優惠券 (可使用 fCoins 購買) 即可解鎖每日登入獎勵。獎勵完成後，你可以使用另一張優惠券重新開始。
 ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024 年 FWC 初賽者
 ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024 年 FWC 戰鬥者
 ACHIEVEMENT_FWC_2024_COMBATANT_DESC,Reach level 60 in the 2024 Flyff World Championship.,在 2024 年 Flyff 世界錦標賽中達到 60 級。
