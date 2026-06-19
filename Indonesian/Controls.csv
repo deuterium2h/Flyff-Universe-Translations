@@ -29,8 +29,8 @@ PROPCTRL_TXT_000049,Dungeon Warp 01,Dungeon Warp 01
 PROPCTRL_TXT_000050,Dungeon Warp 02,Dungeon Warp 02
 PROPCTRL_TXT_000051,Dungeon Warp 03,Dungeon Warp 03
 PROPCTRL_TXT_000052,Dungeon Warp 04,Dungeon Warp 04
-PROPCTRL_TXT_000053,Straight Palm Tree,Straight Palm Tree
-PROPCTRL_TXT_000054,Leaning Palm Tree,Leaning Palm Tree
+PROPCTRL_TXT_000053,Straight Palm Tree,Pohon Palem Lurus
+PROPCTRL_TXT_000054,Leaning Palm Tree,Pohon Palem Miring
 PROPCTRL_TXT_000055,Branch Coral,Branch Coral
 PROPCTRL_TXT_000056,Round Red Coral,Round Red Coral
 PROPCTRL_TXT_000057,Leren Chasm Chest,Leren Chasm Chest
@@ -44,16 +44,16 @@ PROPCTRL_TXT_000064,Dungeon Warp 06,Dungeon Warp 06
 PROPCTRL_TXT_000065,Ship Wheel,Ship Wheel
 PROPCTRL_TXT_000066,Cushion Chair,Cushion Chair
 PROPCTRL_TXT_000067,Spinning Globe,Spinning Globe
-PROPCTRL_TXT_000068,Compass,Compass
+PROPCTRL_TXT_000068,Compass,Kompas
 PROPCTRL_TXT_000069,Chandelier,Chandelier
 PROPCTRL_TXT_000070,Command Desk,Command Desk
 PROPCTRL_TXT_000071,Command Platform,Command Platform
-PROPCTRL_TXT_000072,Small Table,Small Table
+PROPCTRL_TXT_000072,Small Table,Meja Kecil
 PROPCTRL_TXT_000073,Drawer,Drawer
 PROPCTRL_TXT_000074,Twin Bed,Twin Bed
 PROPCTRL_TXT_000075,Incident Painting,Incident Painting
 PROPCTRL_TXT_000076,Home Painting,Home Painting
-PROPCTRL_TXT_000077,Metaverse Ball,Metaverse Ball
+PROPCTRL_TXT_000077,Metaverse Ball,Bola Metaverse
 PROPCTRL_TXT_000078,Metaverse Bath Rug,Metaverse Bath Rug
 PROPCTRL_TXT_000079,Metaverse Twin Bed,Metaverse Twin Bed
 PROPCTRL_TXT_000080,Metaverse King Bed,Metaverse King Bed
@@ -192,10 +192,10 @@ PROPCTRL_TXT_000212,Darkon Barrel 1,Darkon Barrel 1
 PROPCTRL_TXT_000213,Darkon Ground Window,Darkon Ground Window
 PROPCTRL_TXT_000214,Darkon Light 1,Darkon Light 1
 PROPCTRL_TXT_000215,Darkon Mushroom 1,Darkon Mushroom 1
-PROPCTRL_TXT_000216,Darkon Tree 1,Darkon Tree 1
+PROPCTRL_TXT_000216,Darkon Tree 1,Pohon Darkon 1
 PROPCTRL_TXT_000217,Darkon Plant,Darkon Plant
 PROPCTRL_TXT_000218,Azria Plant 1,Azria Plant 1
-PROPCTRL_TXT_000219,Azria Tree 1,Azria Tree 1
+PROPCTRL_TXT_000219,Azria Tree 1,Pohon Azria 1
 PROPCTRL_TXT_000220,Azria Light 1,Azria Light 1
 PROPCTRL_TXT_000221,Azria Rock 1,Azria Rock 1
 PROPCTRL_TXT_000222,Azria Mushroom 1,Azria Mushroom 1
@@ -205,7 +205,7 @@ PROPCTRL_TXT_000225,Azria Grass 1,Azria Grass 1
 PROPCTRL_TXT_000226,Azria Sign 1,Azria Sign 1
 PROPCTRL_TXT_000227,Azria Box Pile,Azria Box Pile
 PROPCTRL_TXT_000228,Azria Box 1,Azria Box 1
-PROPCTRL_TXT_000229,Coral Island Tree 1,Coral Island Tree 1
+PROPCTRL_TXT_000229,Coral Island Tree 1,Pohon Coral Island 1
 PROPCTRL_TXT_000230,Coral Island Shellfish 1,Coral Island Shellfish 1
 PROPCTRL_TXT_000231,Coral Island Coral 1,Coral Island Coral 1
 PROPCTRL_TXT_000232,Coral Island Starfish 1,Coral Island Starfish 1
@@ -404,24 +404,24 @@ PROPCTRL_TXT_000424,Common Rock 9,Common Rock 9
 PROPCTRL_TXT_000425,Common Rock 10,Common Rock 10
 PROPCTRL_TXT_000426,St Morning Rock Arch 2,St Morning Rock Arch 2
 PROPCTRL_TXT_000427,St Morning Rock Arch 3,St Morning Rock Arch 3
-PROPCTRL_TXT_000428,St Morning Flag 2,St Morning Flag 2
-PROPCTRL_TXT_000429,St Morning Flag 3,St Morning Flag 3
-PROPCTRL_TXT_000430,St Morning Flag 4,St Morning Flag 4
-PROPCTRL_TXT_000431,St Morning Flag 5,St Morning Flag 5
-PROPCTRL_TXT_000432,St Morning Rock 2,St Morning Rock 2
-PROPCTRL_TXT_000433,St Morning Rock 3,St Morning Rock 3
-PROPCTRL_TXT_000434,St Morning Rock 4,St Morning Rock 4
-PROPCTRL_TXT_000435,St Morning Rock 5,St Morning Rock 5
-PROPCTRL_TXT_000436,St Morning Rock 6,St Morning Rock 6
-PROPCTRL_TXT_000437,St Morning Rock 7,St Morning Rock 7
-PROPCTRL_TXT_000438,St Morning Rock 8,St Morning Rock 8
-PROPCTRL_TXT_000439,St Morning Rock 9,St Morning Rock 9
-PROPCTRL_TXT_000440,St Morning Rock 10,St Morning Rock 10
-PROPCTRL_TXT_000441,St Morning Rock 11,St Morning Rock 11
-PROPCTRL_TXT_000442,St Morning Rock 12,St Morning Rock 12
-PROPCTRL_TXT_000443,St Morning Rock 13,St Morning Rock 13
-PROPCTRL_TXT_000444,St Morning Rock 14,St Morning Rock 14
-PROPCTRL_TXT_000445,St Morning Rock 15,St Morning Rock 15
+PROPCTRL_TXT_000428,St Morning Flag 2,Bendera Saint Morning 2
+PROPCTRL_TXT_000429,St Morning Flag 3,Bendera Saint Morning 3
+PROPCTRL_TXT_000430,St Morning Flag 4,Bendera Saint Morning 4
+PROPCTRL_TXT_000431,St Morning Flag 5,Bendera Saint Morning 5
+PROPCTRL_TXT_000432,St Morning Rock 2,Batu Saint Morning 2
+PROPCTRL_TXT_000433,St Morning Rock 3,Batu Saint Morning 3
+PROPCTRL_TXT_000434,St Morning Rock 4,Batu Saint Morning 4
+PROPCTRL_TXT_000435,St Morning Rock 5,Batu Saint Morning 5
+PROPCTRL_TXT_000436,St Morning Rock 6,Batu Saint Morning 6
+PROPCTRL_TXT_000437,St Morning Rock 7,Batu Saint Morning 7
+PROPCTRL_TXT_000438,St Morning Rock 8,Batu Saint Morning 8
+PROPCTRL_TXT_000439,St Morning Rock 9,Batu Saint Morning 9
+PROPCTRL_TXT_000440,St Morning Rock 10,Batu Saint Morning 10
+PROPCTRL_TXT_000441,St Morning Rock 11,Batu Saint Morning 11
+PROPCTRL_TXT_000442,St Morning Rock 12,Batu Saint Morning 12
+PROPCTRL_TXT_000443,St Morning Rock 13,Batu Saint Morning 13
+PROPCTRL_TXT_000444,St Morning Rock 14,Batu Saint Morning 14
+PROPCTRL_TXT_000445,St Morning Rock 15,Batu Saint Morning 15
 PROPCTRL_TXT_000446,St Morning Light 2,St Morning Light 2
 PROPCTRL_TXT_000447,Darkon Wagon 2,Darkon Wagon 2
 PROPCTRL_TXT_000448,Darkon Wagon 3,Darkon Wagon 3
@@ -449,61 +449,61 @@ PROPCTRL_TXT_000469,Darkon Light 3,Darkon Light 3
 PROPCTRL_TXT_000470,Darkon Light 4,Darkon Light 4
 PROPCTRL_TXT_000471,Darkon Light 5,Darkon Light 5
 PROPCTRL_TXT_000472,Darkon Light 6,Darkon Light 6
-PROPCTRL_TXT_000473,Darkon Mushroom 2,Darkon Mushroom 2
-PROPCTRL_TXT_000474,Darkon Mushroom 3,Darkon Mushroom 3
-PROPCTRL_TXT_000475,Darkon Mushroom 4,Darkon Mushroom 4
-PROPCTRL_TXT_000476,Darkon Mushroom 5,Darkon Mushroom 5
-PROPCTRL_TXT_000477,Darkon Tree 2,Darkon Tree 2
-PROPCTRL_TXT_000478,Darkon Tree 3,Darkon Tree 3
-PROPCTRL_TXT_000479,Darkon Tree 4,Darkon Tree 4
-PROPCTRL_TXT_000480,Darkon Tree 5,Darkon Tree 5
-PROPCTRL_TXT_000481,Darkon Tree 6,Darkon Tree 6
-PROPCTRL_TXT_000482,Darkon Tree 7,Darkon Tree 7
-PROPCTRL_TXT_000483,Darkon Tree 8,Darkon Tree 8
-PROPCTRL_TXT_000484,Darkon Tree 9,Darkon Tree 9
+PROPCTRL_TXT_000473,Darkon Mushroom 2,Jamur Darkon 2
+PROPCTRL_TXT_000474,Darkon Mushroom 3,Jamur Darkon 3
+PROPCTRL_TXT_000475,Darkon Mushroom 4,Jamur Darkon 4
+PROPCTRL_TXT_000476,Darkon Mushroom 5,Jamur Darkon 5
+PROPCTRL_TXT_000477,Darkon Tree 2,Pohon Darkon 2
+PROPCTRL_TXT_000478,Darkon Tree 3,Pohon Darkon 3
+PROPCTRL_TXT_000479,Darkon Tree 4,Pohon Darkon 4
+PROPCTRL_TXT_000480,Darkon Tree 5,Pohon Darkon 5
+PROPCTRL_TXT_000481,Darkon Tree 6,Pohon Darkon 6
+PROPCTRL_TXT_000482,Darkon Tree 7,Pohon Darkon 7
+PROPCTRL_TXT_000483,Darkon Tree 8,Pohon Darkon 8
+PROPCTRL_TXT_000484,Darkon Tree 9,Pohon Darkon 9
 PROPCTRL_TXT_000485,Azria Plant 2,Azria Plant 2
 PROPCTRL_TXT_000486,Azria Plant 3,Azria Plant 3
 PROPCTRL_TXT_000487,Azria Plant 4,Azria Plant 4
 PROPCTRL_TXT_000488,Azria Plant 5,Azria Plant 5
-PROPCTRL_TXT_000489,Azria Tree 2,Azria Tree 2
-PROPCTRL_TXT_000490,Azria Tree 3,Azria Tree 3
-PROPCTRL_TXT_000491,Azria Tree 4,Azria Tree 4
-PROPCTRL_TXT_000492,Azria Tree 5,Azria Tree 5
-PROPCTRL_TXT_000493,Azria Tree 6,Azria Tree 6
-PROPCTRL_TXT_000494,Azria Tree 7,Azria Tree 7
-PROPCTRL_TXT_000495,Azria Tree 8,Azria Tree 8
-PROPCTRL_TXT_000496,Azria Tree 9,Azria Tree 9
-PROPCTRL_TXT_000497,Azria Tree 10,Azria Tree 10
-PROPCTRL_TXT_000498,Azria Tree 11,Azria Tree 11
-PROPCTRL_TXT_000499,Azria Tree 12,Azria Tree 12
-PROPCTRL_TXT_000500,Azria Tree 13,Azria Tree 13
-PROPCTRL_TXT_000501,Azria Tree 14,Azria Tree 14
-PROPCTRL_TXT_000502,Azria Tree 15,Azria Tree 15
-PROPCTRL_TXT_000503,Azria Tree 16,Azria Tree 16
-PROPCTRL_TXT_000504,Azria Tree 17,Azria Tree 17
-PROPCTRL_TXT_000505,Azria Tree 18,Azria Tree 18
-PROPCTRL_TXT_000506,Azria Tree 19,Azria Tree 19
-PROPCTRL_TXT_000507,Azria Tree 20,Azria Tree 20
-PROPCTRL_TXT_000508,Azria Tree 21,Azria Tree 21
+PROPCTRL_TXT_000489,Azria Tree 2,Pohon Azria 2
+PROPCTRL_TXT_000490,Azria Tree 3,Pohon Azria 3
+PROPCTRL_TXT_000491,Azria Tree 4,Pohon Azria 4
+PROPCTRL_TXT_000492,Azria Tree 5,Pohon Azria 5
+PROPCTRL_TXT_000493,Azria Tree 6,Pohon Azria 6
+PROPCTRL_TXT_000494,Azria Tree 7,Pohon Azria 7
+PROPCTRL_TXT_000495,Azria Tree 8,Pohon Azria 8
+PROPCTRL_TXT_000496,Azria Tree 9,Pohon Azria 9
+PROPCTRL_TXT_000497,Azria Tree 10,Pohon Azria 10
+PROPCTRL_TXT_000498,Azria Tree 11,Pohon Azria 11
+PROPCTRL_TXT_000499,Azria Tree 12,Pohon Azria 12
+PROPCTRL_TXT_000500,Azria Tree 13,Pohon Azria 13
+PROPCTRL_TXT_000501,Azria Tree 14,Pohon Azria 14
+PROPCTRL_TXT_000502,Azria Tree 15,Pohon Azria 15
+PROPCTRL_TXT_000503,Azria Tree 16,Pohon Azria 16
+PROPCTRL_TXT_000504,Azria Tree 17,Pohon Azria 17
+PROPCTRL_TXT_000505,Azria Tree 18,Pohon Azria 18
+PROPCTRL_TXT_000506,Azria Tree 19,Pohon Azria 19
+PROPCTRL_TXT_000507,Azria Tree 20,Pohon Azria 20
+PROPCTRL_TXT_000508,Azria Tree 21,Pohon Azria 21
 PROPCTRL_TXT_000509,Azria Light 2,Azria Light 2
 PROPCTRL_TXT_000510,Azria Light 3,Azria Light 3
-PROPCTRL_TXT_000511,Azria Rock 2,Azria Rock 2
-PROPCTRL_TXT_000512,Azria Rock 3,Azria Rock 3
-PROPCTRL_TXT_000513,Azria Rock 4,Azria Rock 4
-PROPCTRL_TXT_000514,Azria Rock 5,Azria Rock 5
-PROPCTRL_TXT_000515,Azria Rock 6,Azria Rock 6
-PROPCTRL_TXT_000516,Azria Rock 7,Azria Rock 7
-PROPCTRL_TXT_000517,Azria Rock 8,Azria Rock 8
-PROPCTRL_TXT_000518,Azria Rock 9,Azria Rock 9
-PROPCTRL_TXT_000519,Azria Rock 10,Azria Rock 10
-PROPCTRL_TXT_000520,Azria Rock 11,Azria Rock 11
-PROPCTRL_TXT_000521,Azria Rock 12,Azria Rock 12
-PROPCTRL_TXT_000522,Azria Rock 13,Azria Rock 13
-PROPCTRL_TXT_000523,Azria Mushroom 2,Azria Mushroom 2
-PROPCTRL_TXT_000524,Azria Mushroom 3,Azria Mushroom 3
-PROPCTRL_TXT_000525,Azria Mushroom 4,Azria Mushroom 4
-PROPCTRL_TXT_000526,Azria Grass 2,Azria Grass 2
-PROPCTRL_TXT_000527,Azria Grass 3,Azria Grass 3
+PROPCTRL_TXT_000511,Azria Rock 2,Batu Azria 2
+PROPCTRL_TXT_000512,Azria Rock 3,Batu Azria 3
+PROPCTRL_TXT_000513,Azria Rock 4,Batu Azria 4
+PROPCTRL_TXT_000514,Azria Rock 5,Batu Azria 5
+PROPCTRL_TXT_000515,Azria Rock 6,Batu Azria 6
+PROPCTRL_TXT_000516,Azria Rock 7,Batu Azria 7
+PROPCTRL_TXT_000517,Azria Rock 8,Batu Azria 8
+PROPCTRL_TXT_000518,Azria Rock 9,Batu Azria 9
+PROPCTRL_TXT_000519,Azria Rock 10,Batu Azria 10
+PROPCTRL_TXT_000520,Azria Rock 11,Batu Azria 11
+PROPCTRL_TXT_000521,Azria Rock 12,Batu Azria 12
+PROPCTRL_TXT_000522,Azria Rock 13,Batu Azria 13
+PROPCTRL_TXT_000523,Azria Mushroom 2,Jamur Azria 2
+PROPCTRL_TXT_000524,Azria Mushroom 3,Jamur Azria 3
+PROPCTRL_TXT_000525,Azria Mushroom 4,Jamur Azria 4
+PROPCTRL_TXT_000526,Azria Grass 2,Rumput Azria 2
+PROPCTRL_TXT_000527,Azria Grass 3,Rumput Azria 3
 PROPCTRL_TXT_000528,Azria Sign 2,Azria Sign 2
 PROPCTRL_TXT_000529,Azria Sign 3,Azria Sign 3
 PROPCTRL_TXT_000530,Azria Sign 4,Azria Sign 4
@@ -594,60 +594,60 @@ PROPCTRL_TXT_000614,Halloween 2024 Table,Halloween 2024 Table
 PROPCTRL_TXT_000615,Halloween 2024 Chair,Halloween 2024 Chair
 PROPCTRL_TXT_000616,Halloween 2024 Lantern,Halloween 2024 Lantern
 PROPCTRL_TXT_000617,Halloween 2024 Drawer,Halloween 2024 Drawer
-PROPCTRL_TXT_000618,Flaris House 1,Flaris House 1
-PROPCTRL_TXT_000619,Flaris House 2,Flaris House 2
-PROPCTRL_TXT_000620,Flaris House 3,Flaris House 3
-PROPCTRL_TXT_000621,Flaris House 4,Flaris House 4
-PROPCTRL_TXT_000622,Flaris House 5,Flaris House 5
-PROPCTRL_TXT_000623,Flaris House 6,Flaris House 6
-PROPCTRL_TXT_000624,Flaris House 7,Flaris House 7
-PROPCTRL_TXT_000625,Flaris House 8,Flaris House 8
-PROPCTRL_TXT_000626,Flaris House 9,Flaris House 9
-PROPCTRL_TXT_000627,Flaris House 10,Flaris House 10
-PROPCTRL_TXT_000628,Saint Morning House 1,Saint Morning House 1
-PROPCTRL_TXT_000629,Saint Morning House 2,Saint Morning House 2
-PROPCTRL_TXT_000630,Saint Morning House 3,Saint Morning House 3
-PROPCTRL_TXT_000631,Saint Morning House 4,Saint Morning House 4
-PROPCTRL_TXT_000632,Saint Morning House 5,Saint Morning House 5
-PROPCTRL_TXT_000633,Saint Morning House 6,Saint Morning House 6
-PROPCTRL_TXT_000634,Saint Morning House 7,Saint Morning House 7
-PROPCTRL_TXT_000635,Saint Morning House 8,Saint Morning House 8
-PROPCTRL_TXT_000636,Saint Morning House 9,Saint Morning House 9
-PROPCTRL_TXT_000637,Saint Morning House 10,Saint Morning House 10
-PROPCTRL_TXT_000638,Saint Morning House 11,Saint Morning House 11
+PROPCTRL_TXT_000618,Flaris House 1,Rumah Flaris 1
+PROPCTRL_TXT_000619,Flaris House 2,Rumah Flaris 2
+PROPCTRL_TXT_000620,Flaris House 3,Rumah Flaris 3
+PROPCTRL_TXT_000621,Flaris House 4,Rumah Flaris 4
+PROPCTRL_TXT_000622,Flaris House 5,Rumah Flaris 5
+PROPCTRL_TXT_000623,Flaris House 6,Rumah Flaris 6
+PROPCTRL_TXT_000624,Flaris House 7,Rumah Flaris 7
+PROPCTRL_TXT_000625,Flaris House 8,Rumah Flaris 8
+PROPCTRL_TXT_000626,Flaris House 9,Rumah Flaris 9
+PROPCTRL_TXT_000627,Flaris House 10,Rumah Flaris 10
+PROPCTRL_TXT_000628,Saint Morning House 1,Rumah Saint Morning 1
+PROPCTRL_TXT_000629,Saint Morning House 2,Rumah Saint Morning 2
+PROPCTRL_TXT_000630,Saint Morning House 3,Rumah Saint Morning 3
+PROPCTRL_TXT_000631,Saint Morning House 4,Rumah Saint Morning 4
+PROPCTRL_TXT_000632,Saint Morning House 5,Rumah Saint Morning 5
+PROPCTRL_TXT_000633,Saint Morning House 6,Rumah Saint Morning 6
+PROPCTRL_TXT_000634,Saint Morning House 7,Rumah Saint Morning 7
+PROPCTRL_TXT_000635,Saint Morning House 8,Rumah Saint Morning 8
+PROPCTRL_TXT_000636,Saint Morning House 9,Rumah Saint Morning 9
+PROPCTRL_TXT_000637,Saint Morning House 10,Rumah Saint Morning 10
+PROPCTRL_TXT_000638,Saint Morning House 11,Rumah Saint Morning 11
 PROPCTRL_TXT_000639,Pumpkin Town House 1,Pumpkin Town House 1
 PROPCTRL_TXT_000640,Pumpkin Town House 2,Pumpkin Town House 2
 PROPCTRL_TXT_000641,Pumpkin Town House 3,Pumpkin Town House 3
-PROPCTRL_TXT_000642,Darkon House 1,Darkon House 1
-PROPCTRL_TXT_000643,Darkon House 2,Darkon House 2
-PROPCTRL_TXT_000644,Darkon House 3,Darkon House 3
-PROPCTRL_TXT_000645,Darkon House 4,Darkon House 4
-PROPCTRL_TXT_000646,Darkon House 5,Darkon House 5
-PROPCTRL_TXT_000647,Azria House 1,Azria House 1
-PROPCTRL_TXT_000648,Azria House 2,Azria House 2
-PROPCTRL_TXT_000649,Azria House 3,Azria House 3
-PROPCTRL_TXT_000650,Azria House 4,Azria House 4
+PROPCTRL_TXT_000642,Darkon House 1,Rumah Darkon 1
+PROPCTRL_TXT_000643,Darkon House 2,Rumah Darkon 2
+PROPCTRL_TXT_000644,Darkon House 3,Rumah Darkon 3
+PROPCTRL_TXT_000645,Darkon House 4,Rumah Darkon 4
+PROPCTRL_TXT_000646,Darkon House 5,Rumah Darkon 5
+PROPCTRL_TXT_000647,Azria House 1,Rumah Azria 1
+PROPCTRL_TXT_000648,Azria House 2,Rumah Azria 2
+PROPCTRL_TXT_000649,Azria House 3,Rumah Azria 3
+PROPCTRL_TXT_000650,Azria House 4,Rumah Azria 4
 PROPCTRL_TXT_000651,Flaris Street Lamp,Flaris Street Lamp
-PROPCTRL_TXT_000652,Flaris Tent 1,Flaris Tent 1
+PROPCTRL_TXT_000652,Flaris Tent 1,Tenda Flaris 1
 PROPCTRL_TXT_000653,Madrigal Floating Sign 1,Madrigal Floating Sign 1
 PROPCTRL_TXT_000654,Madrigal Floating Sign 2,Madrigal Floating Sign 2
 PROPCTRL_TXT_000655,Madrigal No-fly Sign,Madrigal No-fly Sign
 PROPCTRL_TXT_000656,Madrigal Floating Ring,Madrigal Floating Ring
 PROPCTRL_TXT_000657,Flaris Box and cover,Flaris Box and cover
 PROPCTRL_TXT_000658,Magic Crystal Object,Magic Crystal Object
-PROPCTRL_TXT_000659,Flaris Tent 2,Flaris Tent 2
+PROPCTRL_TXT_000659,Flaris Tent 2,Tenda Flaris 2
 PROPCTRL_TXT_000662,Flaris Carriage,Flaris Carriage
-PROPCTRL_TXT_000663,Flaris Torch,Flaris Torch
+PROPCTRL_TXT_000663,Flaris Torch,Obor Flaris
 PROPCTRL_TXT_000664,Flaris Floating Island,Flaris Floating Island
-PROPCTRL_TXT_000665,Saint Morning Lighthouse,Saint Morning Lighthouse
+PROPCTRL_TXT_000665,Saint Morning Lighthouse,Saint Morning Mercusuar
 PROPCTRL_TXT_000666,Saint Morning Crane,Saint Morning Crane
-PROPCTRL_TXT_000667,Saint Morning Campfire,Saint Morning Campfire
-PROPCTRL_TXT_000668,Saint Morning Palm Tree,Saint Morning Palm Tree
+PROPCTRL_TXT_000667,Saint Morning Campfire,Saint Morning Api unggun
+PROPCTRL_TXT_000668,Saint Morning Palm Tree,Pohon Palem Saint Morning
 PROPCTRL_TXT_000669,Saint Morning Pumpkin Fence,Saint Morning Pumpkin Fence
 PROPCTRL_TXT_000670,Saint Morning Scarecrow,Saint Morning Scarecrow
-PROPCTRL_TXT_000672,Saint Morning Cactus 1,Saint Morning Cactus 1
-PROPCTRL_TXT_000673,Saint Morning Cactus 2,Saint Morning Cactus 2
-PROPCTRL_TXT_000674,Saint Morning Cactus 3,Saint Morning Cactus 3
+PROPCTRL_TXT_000672,Saint Morning Cactus 1,Kaktus Saint Morning 1
+PROPCTRL_TXT_000673,Saint Morning Cactus 2,Kaktus Saint Morning 2
+PROPCTRL_TXT_000674,Saint Morning Cactus 3,Kaktus Saint Morning 3
 PROPCTRL_TXT_000675,Rhisis Stone Pillar 1,Rhisis Stone Pillar 1
 PROPCTRL_TXT_000676,Rhisis Stone Pillar 2,Rhisis Stone Pillar 2
 PROPCTRL_TXT_000677,Rhisis Broken Temple,Rhisis Broken Temple

@@ -798,7 +798,7 @@ ACHIEVEMENT_USE_GOLDPILL_NAME,Gold Pill,Pil Emas
 ACHIEVEMENT_USE_GOLDPILL_DESC,"Eat 30,000 Gold Pills.","Makan 30,000 Pil Emas."
 ACHIEVEMENT_USE_GOLDPILL_TITLE,Glimmering,Glimmering
 ACHIEVEMENT_USE_LOLLIPOP_NAME,Lollipop,Lollipop
-ACHIEVEMENT_USE_LOLLIPOP_DESC,"Eat 200,000 Lollipops.","Makan 200,000 Lollipops."
+ACHIEVEMENT_USE_LOLLIPOP_DESC,"Eat 200,000 Lollipops.","Makan 200,000 Lollipop."
 ACHIEVEMENT_USE_LOLLIPOP_TITLE,Sweet Tooth,Sweet Tooth
 ACHIEVEMENT_USE_CHOCOLATE_NAME,Chocolate Bar,Cokelat batangan
 ACHIEVEMENT_USE_CHOCOLATE_DESC,"Eat 200,000 Chocolate Bars.","Makan 200,000 Cokelat batangan."
@@ -807,7 +807,7 @@ ACHIEVEMENT_USE_MILK_NAME,Milk,Susu
 ACHIEVEMENT_USE_MILK_DESC,"Drink 200,000 Cartons of Milk.","Minum 200,000 Karton Susu."
 ACHIEVEMENT_USE_MILK_TITLE,Legendairy,Legendairy
 ACHIEVEMENT_USE_HOTDOG_NAME,Hot Dog,Hot Dog
-ACHIEVEMENT_USE_HOTDOG_DESC,"Eat 200,000 Hot Dogs.","Makan 200,000 Hot Dogs."
+ACHIEVEMENT_USE_HOTDOG_DESC,"Eat 200,000 Hot Dogs.","Makan 200,000 Hot Dog."
 ACHIEVEMENT_USE_HOTDOG_TITLE,Top Dog,Top Dog
 ACHIEVEMENT_USE_PIZZA_NAME,Pizza,Pizza
 ACHIEVEMENT_USE_PIZZA_DESC,"Eat 200,000 Pizzas.","Makan 200,000 Pizza."
@@ -822,19 +822,19 @@ ACHIEVEMENT_USE_STARCANDY_NAME,Star Candy,Star Candy
 ACHIEVEMENT_USE_STARCANDY_DESC,"Eat 200,000 Star Candies.","Makan 200,000 Star Candy."
 ACHIEVEMENT_USE_STARCANDY_TITLE,Starstruck,Starstruck
 ACHIEVEMENT_USE_MEATSKEWER_NAME,Meat Skewer,Meat Skewer
-ACHIEVEMENT_USE_MEATSKEWER_DESC,"Eat 200,000 Meat Skewers.","Makan 200,000 Meat Skewers."
+ACHIEVEMENT_USE_MEATSKEWER_DESC,"Eat 200,000 Meat Skewers.","Makan 200,000 Meat Skewer."
 ACHIEVEMENT_USE_MEATSKEWER_TITLE,Carnivore,Carnivore
 ACHIEVEMENT_USE_BARBECUE_NAME,Barbecue,Barbecue
-ACHIEVEMENT_USE_BARBECUE_DESC,"Eat 200,000 Barbecues.","Makan 200,000 Barbecues."
+ACHIEVEMENT_USE_BARBECUE_DESC,"Eat 200,000 Barbecues.","Makan 200,000 Barbecue."
 ACHIEVEMENT_USE_BARBECUE_TITLE,Grillmaster,Grillmaster
 ACHIEVEMENT_USE_SEAFOODPANCAKE_NAME,Seafood Pancake,Seafood Pancake
-ACHIEVEMENT_USE_SEAFOODPANCAKE_DESC,"Eat 200,000 Seafood Pancakes.","Makan 200,000 Seafood Pan Cakes."
+ACHIEVEMENT_USE_SEAFOODPANCAKE_DESC,"Eat 200,000 Seafood Pancakes.","Makan 200,000 Seafood Pan Cake."
 ACHIEVEMENT_USE_SEAFOODPANCAKE_TITLE,Surfer,Surfer
 ACHIEVEMENT_USE_FISHSOUP_NAME,Fish Soup,Sup Ikan
 ACHIEVEMENT_USE_FISHSOUP_DESC,"Eat 200,000 Fish Soups.","Makan 200,000 Sup Ikan."
 ACHIEVEMENT_USE_FISHSOUP_TITLE,Catfish,Catfish
 ACHIEVEMENT_USE_SAUSAGECASSEROLE_NAME,Sausage Casserole,Sausage Casserole
-ACHIEVEMENT_USE_SAUSAGECASSEROLE_DESC,"Eat 200,000 Sausage Casseroles.","Makan 200,000 Sausage Casseroles."
+ACHIEVEMENT_USE_SAUSAGECASSEROLE_DESC,"Eat 200,000 Sausage Casseroles.","Makan 200,000 Sausage Casserole."
 ACHIEVEMENT_USE_SAUSAGECASSEROLE_TITLE,Sausage Connoisseur,Sausage Connoisseur
 ACHIEVEMENT_USE_FISHSTEW_NAME,Fish Stew,Fish Stew
 ACHIEVEMENT_USE_FISHSTEW_DESC,"Eat 200,000 Fish Stews.","Makan 200,000 Fish Stews."
@@ -843,10 +843,10 @@ ACHIEVEMENT_USE_STEAMEDSEAFOOD_NAME,Steamed Seafood,Steamed Seafood
 ACHIEVEMENT_USE_STEAMEDSEAFOOD_DESC,"Eat 200,000 Steamed Seafood.","Makan 200,000 Steamed Seafood."
 ACHIEVEMENT_USE_STEAMEDSEAFOOD_TITLE,Steamy,Steamy
 ACHIEVEMENT_USE_MEATSALAD_NAME,Meat Salad,Meat Salad
-ACHIEVEMENT_USE_MEATSALAD_DESC,"Eat 200,000 Meat Salads.","Makan 200,000 Meat Salads."
+ACHIEVEMENT_USE_MEATSALAD_DESC,"Eat 200,000 Meat Salads.","Makan 200,000 Meat Salad."
 ACHIEVEMENT_USE_MEATSALAD_TITLE,Omnivore,Omnivore
 ACHIEVEMENT_USE_GRATIN_NAME,Gratin,Gratin
-ACHIEVEMENT_USE_GRATIN_DESC,"Eat 200,000 Gratins.","Makan 200,000 Gratins."
+ACHIEVEMENT_USE_GRATIN_DESC,"Eat 200,000 Gratins.","Makan 200,000 Gratin."
 ACHIEVEMENT_USE_GRATIN_TITLE,Shattered,Shattered
 ACHIEVEMENT_USE_SEAFOODPIZZA_NAME,Seafood Pizza,Seafood Pizza
 ACHIEVEMENT_USE_SEAFOODPIZZA_DESC,"Eat 200,000 Seafood Pizzas.","Makan 200,000 Seafood Pizzas."
@@ -867,19 +867,19 @@ ACHIEVEMENT_USE_FRUITJUICE_NAME,Fruit Juice,Jus Buah
 ACHIEVEMENT_USE_FRUITJUICE_DESC,"Drink 200,000 Fruit Juices.","Minum 200,000 Jus Buah."
 ACHIEVEMENT_USE_FRUITJUICE_TITLE,Fruity,Fruity
 ACHIEVEMENT_USE_FRUITICEWATER_NAME,Fruit Icewater,Fruit Icewater
-ACHIEVEMENT_USE_FRUITICEWATER_DESC,"Eat 200,000 Fruit Icewaters.","Makan 200,000 Fruit Icewaters."
+ACHIEVEMENT_USE_FRUITICEWATER_DESC,"Eat 200,000 Fruit Icewaters.","Makan 200,000 Fruit Icewater."
 ACHIEVEMENT_USE_FRUITICEWATER_TITLE,Cool,Cool
 ACHIEVEMENT_USE_FRUITPARFAIT_NAME,Fruit Parfait,Fruit Parfait
-ACHIEVEMENT_USE_FRUITPARFAIT_DESC,"Eat 200,000 Fruit Parfaits.","Makan 200,000 Fruit Parfaits."
+ACHIEVEMENT_USE_FRUITPARFAIT_DESC,"Eat 200,000 Fruit Parfaits.","Makan 200,000 Fruit Parfait."
 ACHIEVEMENT_USE_FRUITPARFAIT_TITLE,Pure,Pure
 ACHIEVEMENT_USE_FRUITSHERBET_NAME,Fruit Sherbet,Fruit Sherbet
-ACHIEVEMENT_USE_FRUITSHERBET_DESC,"Eat 200,000 Fruit Sherbets.","Makan 200,000 Fruit Sherbets."
+ACHIEVEMENT_USE_FRUITSHERBET_DESC,"Eat 200,000 Fruit Sherbets.","Makan 200,000 Fruit Sherbet."
 ACHIEVEMENT_USE_FRUITSHERBET_TITLE,Icy,Icy
 ACHIEVEMENT_USE_ICECREAMCAKE_NAME,Icecream Cake,Icecream Cake
-ACHIEVEMENT_USE_ICECREAMCAKE_DESC,"Eat 200,000 Icecream Cakes.","Makan 200,000 Icecream Cakes."
+ACHIEVEMENT_USE_ICECREAMCAKE_DESC,"Eat 200,000 Icecream Cakes.","Makan 200,000 Icecream Cake."
 ACHIEVEMENT_USE_ICECREAMCAKE_TITLE,Chilled,Chilled
 ACHIEVEMENT_USE_BISCUIT_NAME,Biscuit,Biscuit
-ACHIEVEMENT_USE_BISCUIT_DESC,"Eat 200,000 Biscuits.","Makan 200,000 Biscuits."
+ACHIEVEMENT_USE_BISCUIT_DESC,"Eat 200,000 Biscuits.","Makan 200,000 Biscuit."
 ACHIEVEMENT_USE_BISCUIT_TITLE,Baker,Baker
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_NAME,Coral Island Curry,Coral Island Curry
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_DESC,"Eat 50,000 Coral Island Curries.","Makan 50,000 Coral Island Curries."
@@ -1131,7 +1131,7 @@ ACHIEVEMENT_CHRISTMAS_ATTENDANCE_NAME,Christmas Gift for all Flyffers,Christmas 
 ACHIEVEMENT_CHRISTMAS_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Log in each day for 30 minutes to receive rewards!
 ACHIEVEMENT_CHRISTMAS_INVASION,Christmas Invasion,Christmas Invasion
 ACHIEVEMENT_ATTENDANCE_NAME,Playtime Event,Playtime Event
-ACHIEVEMENT_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Login setiap hari selama 4 menit untuk mendapatkan hadiah!
+ACHIEVEMENT_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Login setiap hari selama 40 menit untuk mendapatkan hadiah!
 ACHIEVEMENT_ATTENDANCE_LVL1,Day 1,Hari ke-1
 ACHIEVEMENT_ATTENDANCE_LVL2,Day 2,Hari ke-2
 ACHIEVEMENT_ATTENDANCE_LVL3,Day 3,Hari ke-3
@@ -1280,7 +1280,7 @@ ACHIEVEMENT_UPGRADE_10,Upgrade +10,Upgrade +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Hero 160 - 180
 ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,Complete the fourth Hero Quest.
 ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5 Update Playtime Event
-ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Login setiap hari selama 4 menit untuk mendapatkan hadiah!
+ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,Login setiap hari selama 40 menit untuk mendapatkan hadiah!
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,Into the Eillun
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,Complete the main quests to earn rewards during the event!
 ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,Workers of the Kaillun
